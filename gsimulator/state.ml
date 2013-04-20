@@ -323,11 +323,8 @@ let set_resting a i =
 let set_state a state = 
   a.state <- state
 
-let get_instruction c state = 
-  match c with
-  | Red -> game.red_state_machine.(state)
-  | Black -> game.black_state_machine.(state)
-
+let get_instruction a = 
+    a.state_machine.(state)
 
 let randomint n = 
   (Icfprandom.random ()) mod n
@@ -340,7 +337,7 @@ let step id =
       (set_resting a ((resting a) - 1))
     else
       begin 
-	let instr = get_instruction a.color a.state in
+	let instr = get_instruction a in
 	begin
 	match instr with
 	| Sense(sensedir, st1, st2, cond) ->
