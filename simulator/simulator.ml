@@ -184,7 +184,8 @@ let _ =
     game.world <- Parser.read_cartography Sys.argv.(1);
     game.red_state_machine <- Parser.read_state_machine Sys.argv.(2);
     game.black_state_machine <- Parser.read_state_machine Sys.argv.(3);
-    game.ants <- make_ants_array ();
+    game.ants <- make_ants_array Sys.argv.(2) Sys.argv.(3)
+        Parser.read_state_machine;
     main_loop ()
   with
   | Parser.Parse_error(Some(line), msg) -> Printf.fprintf stderr "%s in line %d\n" msg line

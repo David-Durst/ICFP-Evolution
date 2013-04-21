@@ -442,11 +442,16 @@ let ant_id = ref 0
 
 let generate_ant color p =
   let id = !ant_id in
-  let ant = { color=color; id=id; pos=p; carries_food=false; dead=false;
-	      resting=0; state=0; direction=0 } in
+  let ant = { state_machine = [||]; color=color; id=id; pos=p; carries_food=false;
+    dead=false; resting=0; state=0; direction=0 } in
   ant_list := ant::!ant_list;
   ant_id := 1 + !ant_id;
   ant
 
-let make_ants_array 
-    ants = Array.of_list (List.rev !ant_list)
+let make_ants_array file_red file_black machine_reader =
+    List.map (fun a -> 
+        match a.color with 
+        | Red -> a.state_machine <- machine_reader file_red
+        | Black -> a.state_machine <- machine_reader file_black
+    ) !ant_list;
+    Array.of_list (List.rev !ant_list)

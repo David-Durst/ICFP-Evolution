@@ -104,9 +104,9 @@ let read_cartography fname =
     | '.' -> { kind=Clear; ant=None; food=0; marker=0 }
     | '0'..'9' as f -> 
 	{ kind=Clear; ant=None; food=((int_of_char f) - 48); marker=0 }
-    | '+' -> { kind=Anthill Red; ant=Some(generate_ant Red (x,y)); 
+    | '+' -> { kind=Anthill Red; ant=Some(generate_ant Red (x,y) ); 
 	       food=0; marker=0 }
-    | '-' -> { kind=Anthill Black; ant=Some(generate_ant Black (x,y)); 
+    | '-' -> { kind=Anthill Black; ant=Some(generate_ant Black (x,y) ); 
 	       food=0; marker=0 }
     | x -> raise (Parse_error (None, Printf.sprintf "illegal char: %c" x))
   in
