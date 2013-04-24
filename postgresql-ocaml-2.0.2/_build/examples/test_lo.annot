@@ -1,0 +1,517 @@
+"examples/test_lo.ml" 6 85 90 "examples/test_lo.ml" 6 85 102
+type(
+  string array -> int
+)
+ident(
+  ext_ref Array.length
+)
+"examples/test_lo.ml" 6 85 103 "examples/test_lo.ml" 6 85 111
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/test_lo.ml" 6 85 90 "examples/test_lo.ml" 6 85 111
+type(
+  int
+)
+"examples/test_lo.ml" 6 85 112 "examples/test_lo.ml" 6 85 114
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"examples/test_lo.ml" 6 85 115 "examples/test_lo.ml" 6 85 116
+type(
+  int
+)
+"examples/test_lo.ml" 6 85 90 "examples/test_lo.ml" 6 85 116
+type(
+  bool
+)
+"examples/test_lo.ml" 7 124 128 "examples/test_lo.ml" 7 124 142
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.eprintf
+)
+"examples/test_lo.ml" 7 124 143 "examples/test_lo.ml" 7 124 166
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/test_lo.ml" 7 124 167 "examples/test_lo.ml" 7 124 175
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/test_lo.ml" 7 124 177 "examples/test_lo.ml" 7 124 178
+type(
+  int
+)
+"examples/test_lo.ml" 7 124 167 "examples/test_lo.ml" 7 124 179
+type(
+  string
+)
+"examples/test_lo.ml" 7 124 128 "examples/test_lo.ml" 7 124 179
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/test_lo.ml" 8 181 185 "examples/test_lo.ml" 8 181 189
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.exit
+)
+"examples/test_lo.ml" 8 181 190 "examples/test_lo.ml" 8 181 191
+type(
+  int
+)
+"examples/test_lo.ml" 8 181 185 "examples/test_lo.ml" 8 181 191
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/test_lo.ml" 6 85 122 "examples/test_lo.ml" 8 181 192
+type(
+  unit
+)
+"examples/test_lo.ml" 6 85 87 "examples/test_lo.ml" 8 181 192
+type(
+  unit
+)
+"examples/test_lo.ml" 10 194 198 "examples/test_lo.ml" 10 194 206
+type(
+  string
+)
+ident(
+  def conninfo "examples/test_lo.ml" 12 223 223 --
+)
+"examples/test_lo.ml" 10 194 209 "examples/test_lo.ml" 10 194 217
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/test_lo.ml" 10 194 219 "examples/test_lo.ml" 10 194 220
+type(
+  int
+)
+"examples/test_lo.ml" 10 194 209 "examples/test_lo.ml" 10 194 221
+type(
+  string
+)
+"examples/test_lo.ml" 12 223 227 "examples/test_lo.ml" 12 223 231
+type(
+  unit -> unit
+)
+ident(
+  def main "examples/test_lo.ml" 23 525 525 --
+)
+"examples/test_lo.ml" 12 223 232 "examples/test_lo.ml" 12 223 234
+type(
+  unit
+)
+"examples/test_lo.ml" 13 237 243 "examples/test_lo.ml" 13 237 244
+type(
+  Postgresql.connection
+)
+"examples/test_lo.ml" 13 237 247 "examples/test_lo.ml" 13 237 261
+type(
+  ?host:string ->
+  ?hostaddr:string ->
+  ?port:string ->
+  ?dbname:string ->
+  ?user:string ->
+  ?password:string ->
+  ?options:string ->
+  ?tty:string ->
+  ?requiressl:string -> ?conninfo:string -> unit -> Postgresql.connection
+)
+"examples/test_lo.ml" 13 237 263 "examples/test_lo.ml" 13 237 271
+type(
+  string
+)
+ident(
+  int_ref conninfo "examples/test_lo.ml" 10 194 198 "examples/test_lo.ml" 10 194 206
+)
+"examples/test_lo.ml" 13 237 272 "examples/test_lo.ml" 13 237 274
+type(
+  unit
+)
+"examples/test_lo.ml" 13 237 247 "examples/test_lo.ml" 13 237 274
+call(
+  stack
+)
+type(
+  Postgresql.connection
+)
+"examples/test_lo.ml" 14 278 284 "examples/test_lo.ml" 14 278 285
+type(
+  Postgresql.result
+)
+"examples/test_lo.ml" 14 278 288 "examples/test_lo.ml" 14 278 289
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/test_lo.ml" 13 237 243 "examples/test_lo.ml" 13 237 244
+)
+"examples/test_lo.ml" 14 278 288 "examples/test_lo.ml" 14 278 294
+call(
+  stack
+)
+type(
+  ?expect:Postgresql.result_status list ->
+  ?params:string array ->
+  ?binary_params:bool array -> string -> Postgresql.result
+)
+"examples/test_lo.ml" 14 278 304 "examples/test_lo.ml" 14 278 314
+type(
+  Postgresql.result_status
+)
+"examples/test_lo.ml" 14 278 303 "examples/test_lo.ml" 14 278 315
+type(
+  Postgresql.result_status list
+)
+"examples/test_lo.ml" 14 278 316 "examples/test_lo.ml" 14 278 323
+type(
+  string
+)
+"examples/test_lo.ml" 14 278 288 "examples/test_lo.ml" 14 278 323
+type(
+  Postgresql.result
+)
+"examples/test_lo.ml" 15 327 333 "examples/test_lo.ml" 15 327 336
+type(
+  Postgresql.oid
+)
+"examples/test_lo.ml" 15 327 339 "examples/test_lo.ml" 15 327 340
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/test_lo.ml" 13 237 243 "examples/test_lo.ml" 13 237 244
+)
+"examples/test_lo.ml" 15 327 339 "examples/test_lo.ml" 15 327 349
+call(
+  stack
+)
+type(
+  Postgresql.oid
+)
+"examples/test_lo.ml" 16 353 359 "examples/test_lo.ml" 16 353 361
+type(
+  Postgresql.large_object
+)
+"examples/test_lo.ml" 16 353 364 "examples/test_lo.ml" 16 353 365
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/test_lo.ml" 13 237 243 "examples/test_lo.ml" 13 237 244
+)
+"examples/test_lo.ml" 16 353 364 "examples/test_lo.ml" 16 353 373
+call(
+  stack
+)
+type(
+  Postgresql.oid -> Postgresql.large_object
+)
+"examples/test_lo.ml" 16 353 374 "examples/test_lo.ml" 16 353 377
+type(
+  Postgresql.oid
+)
+ident(
+  int_ref oid "examples/test_lo.ml" 15 327 333 "examples/test_lo.ml" 15 327 336
+)
+"examples/test_lo.ml" 16 353 364 "examples/test_lo.ml" 16 353 377
+type(
+  Postgresql.large_object
+)
+"examples/test_lo.ml" 17 381 383 "examples/test_lo.ml" 17 381 384
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/test_lo.ml" 13 237 243 "examples/test_lo.ml" 13 237 244
+)
+"examples/test_lo.ml" 17 381 383 "examples/test_lo.ml" 17 381 393
+call(
+  stack
+)
+type(
+  ?pos:int -> ?len:int -> string -> Postgresql.large_object -> unit
+)
+"examples/test_lo.ml" 17 381 394 "examples/test_lo.ml" 17 381 411
+type(
+  string
+)
+"examples/test_lo.ml" 17 381 412 "examples/test_lo.ml" 17 381 414
+type(
+  Postgresql.large_object
+)
+ident(
+  int_ref lo "examples/test_lo.ml" 16 353 359 "examples/test_lo.ml" 16 353 361
+)
+"examples/test_lo.ml" 17 381 383 "examples/test_lo.ml" 17 381 414
+type(
+  unit
+)
+"examples/test_lo.ml" 18 416 418 "examples/test_lo.ml" 18 416 419
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/test_lo.ml" 13 237 243 "examples/test_lo.ml" 13 237 244
+)
+"examples/test_lo.ml" 18 416 418 "examples/test_lo.ml" 18 416 428
+call(
+  stack
+)
+type(
+  Postgresql.large_object -> unit
+)
+"examples/test_lo.ml" 18 416 429 "examples/test_lo.ml" 18 416 431
+type(
+  Postgresql.large_object
+)
+ident(
+  int_ref lo "examples/test_lo.ml" 16 353 359 "examples/test_lo.ml" 16 353 361
+)
+"examples/test_lo.ml" 18 416 418 "examples/test_lo.ml" 18 416 431
+type(
+  unit
+)
+"examples/test_lo.ml" 19 433 435 "examples/test_lo.ml" 19 433 436
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/test_lo.ml" 13 237 243 "examples/test_lo.ml" 13 237 244
+)
+"examples/test_lo.ml" 19 433 435 "examples/test_lo.ml" 19 433 446
+call(
+  stack
+)
+type(
+  Postgresql.oid -> string -> unit
+)
+"examples/test_lo.ml" 19 433 447 "examples/test_lo.ml" 19 433 450
+type(
+  Postgresql.oid
+)
+ident(
+  int_ref oid "examples/test_lo.ml" 15 327 333 "examples/test_lo.ml" 15 327 336
+)
+"examples/test_lo.ml" 19 433 451 "examples/test_lo.ml" 19 433 464
+type(
+  string
+)
+"examples/test_lo.ml" 19 433 435 "examples/test_lo.ml" 19 433 464
+type(
+  unit
+)
+"examples/test_lo.ml" 20 466 472 "examples/test_lo.ml" 20 466 473
+type(
+  Postgresql.result
+)
+"examples/test_lo.ml" 20 466 476 "examples/test_lo.ml" 20 466 477
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/test_lo.ml" 13 237 243 "examples/test_lo.ml" 13 237 244
+)
+"examples/test_lo.ml" 20 466 476 "examples/test_lo.ml" 20 466 482
+call(
+  stack
+)
+type(
+  ?expect:Postgresql.result_status list ->
+  ?params:string array ->
+  ?binary_params:bool array -> string -> Postgresql.result
+)
+"examples/test_lo.ml" 20 466 492 "examples/test_lo.ml" 20 466 502
+type(
+  Postgresql.result_status
+)
+"examples/test_lo.ml" 20 466 491 "examples/test_lo.ml" 20 466 503
+type(
+  Postgresql.result_status list
+)
+"examples/test_lo.ml" 20 466 504 "examples/test_lo.ml" 20 466 509
+type(
+  string
+)
+"examples/test_lo.ml" 20 466 476 "examples/test_lo.ml" 20 466 509
+type(
+  Postgresql.result
+)
+"examples/test_lo.ml" 21 513 515 "examples/test_lo.ml" 21 513 516
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/test_lo.ml" 13 237 243 "examples/test_lo.ml" 13 237 244
+)
+"examples/test_lo.ml" 21 513 515 "examples/test_lo.ml" 21 513 523
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/test_lo.ml" 20 466 468 "examples/test_lo.ml" 21 513 523
+type(
+  unit
+)
+"examples/test_lo.ml" 19 433 435 "examples/test_lo.ml" 21 513 523
+type(
+  unit
+)
+"examples/test_lo.ml" 18 416 418 "examples/test_lo.ml" 21 513 523
+type(
+  unit
+)
+"examples/test_lo.ml" 17 381 383 "examples/test_lo.ml" 21 513 523
+type(
+  unit
+)
+"examples/test_lo.ml" 16 353 355 "examples/test_lo.ml" 21 513 523
+type(
+  unit
+)
+"examples/test_lo.ml" 15 327 329 "examples/test_lo.ml" 21 513 523
+type(
+  unit
+)
+"examples/test_lo.ml" 14 278 280 "examples/test_lo.ml" 21 513 523
+type(
+  unit
+)
+"examples/test_lo.ml" 13 237 239 "examples/test_lo.ml" 21 513 523
+type(
+  unit
+)
+"examples/test_lo.ml" 24 533 539 "examples/test_lo.ml" 24 533 543
+type(
+  unit -> unit
+)
+ident(
+  int_ref main "examples/test_lo.ml" 12 223 227 "examples/test_lo.ml" 12 223 231
+)
+"examples/test_lo.ml" 24 533 544 "examples/test_lo.ml" 24 533 546
+type(
+  unit
+)
+"examples/test_lo.ml" 24 533 539 "examples/test_lo.ml" 24 533 546
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/test_lo.ml" 25 552 562 "examples/test_lo.ml" 25 552 563
+type(
+  Postgresql.error
+)
+ident(
+  def e "examples/test_lo.ml" 25 552 567 "examples/test_lo.ml" 25 552 600
+)
+"examples/test_lo.ml" 25 552 556 "examples/test_lo.ml" 25 552 563
+type(
+  exn
+)
+"examples/test_lo.ml" 25 552 567 "examples/test_lo.ml" 25 552 580
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/test_lo.ml" 25 552 582 "examples/test_lo.ml" 25 552 597
+type(
+  Postgresql.error -> string
+)
+ident(
+  ext_ref Postgresql.string_of_error
+)
+"examples/test_lo.ml" 25 552 598 "examples/test_lo.ml" 25 552 599
+type(
+  Postgresql.error
+)
+ident(
+  int_ref e "examples/test_lo.ml" 25 552 562 "examples/test_lo.ml" 25 552 563
+)
+"examples/test_lo.ml" 25 552 581 "examples/test_lo.ml" 25 552 600
+call(
+  stack
+)
+type(
+  string
+)
+"examples/test_lo.ml" 25 552 567 "examples/test_lo.ml" 25 552 600
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/test_lo.ml" 26 601 605 "examples/test_lo.ml" 26 601 606
+type(
+  exn
+)
+ident(
+  def e "examples/test_lo.ml" 26 601 610 "examples/test_lo.ml" 26 601 646
+)
+"examples/test_lo.ml" 26 601 610 "examples/test_lo.ml" 26 601 623
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/test_lo.ml" 26 601 625 "examples/test_lo.ml" 26 601 643
+type(
+  exn -> string
+)
+ident(
+  ext_ref Printexc.to_string
+)
+"examples/test_lo.ml" 26 601 644 "examples/test_lo.ml" 26 601 645
+type(
+  exn
+)
+ident(
+  int_ref e "examples/test_lo.ml" 26 601 605 "examples/test_lo.ml" 26 601 606
+)
+"examples/test_lo.ml" 26 601 624 "examples/test_lo.ml" 26 601 646
+call(
+  stack
+)
+type(
+  string
+)
+"examples/test_lo.ml" 26 601 610 "examples/test_lo.ml" 26 601 646
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/test_lo.ml" 24 533 535 "examples/test_lo.ml" 26 601 646
+type(
+  unit
+)

@@ -123,10 +123,10 @@ let determine_winner () =
   Printf.fprintf stderr "Red collected:   %d\nBlack collected: %d\n" !red_food !black_food;
   if !red_food == !black_food then
     Printf.fprintf stderr "Draw\n"
-  else if !red_food > !black_food then
-    Printf.fprintf stderr "Red\n"
-  else
-    Printf.fprintf stderr "Black\n"
+  else if !red_food > !black_food then 
+    exit 1
+  else 
+    exit 2
 
 let main_loop () = 
   try
@@ -182,8 +182,6 @@ let _ =
     Icfprandom.set_seed seed;
     if !dumpmode = DumpClassic then Printf.printf "random seed: %d\n" seed;
     game.world <- Parser.read_cartography Sys.argv.(1);
-    game.red_state_machine <- Parser.read_state_machine Sys.argv.(2);
-    game.black_state_machine <- Parser.read_state_machine Sys.argv.(3);
     game.ants <- make_ants_array Sys.argv.(2) Sys.argv.(3)
         Parser.read_state_machine;
     main_loop ()

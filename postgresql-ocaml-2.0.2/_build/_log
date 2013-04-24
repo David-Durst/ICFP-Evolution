@@ -1,0 +1,64 @@
+### Starting build.
+# Target: lib/postgresql_stubs.c, tags: { c, compile, debug, extension:c, file:lib/postgresql_stubs.c, oasis_library_postgresql_ccopt, pkg_bigarray, pkg_threads, quiet, traverse }
+ocamlfind ocamlc -ccopt -g -ccopt -O2 -ccopt -fPIC -ccopt -DPIC -ccopt -Wall -ccopt -pedantic -ccopt -Wextra -ccopt -Wunused -ccopt -Wno-long-long -ccopt -I/usr/include/postgresql -ccopt '-DP_OCAML_MAJOR_VERSION=9' -ccopt '-DP_OCAML_MINOR_VERSION=1' -c lib/postgresql_stubs.c
+# Target: lib/postgresql_stubs.o, tags: {  }
+mv postgresql_stubs.o lib/postgresql_stubs.o
+# Target: lib/postgresql_stubs, tags: { c, debug, extension:a, file:lib/libpostgresql_stubs.a, oasis_library_postgresql_cclib, ocamlmklib, quiet, traverse }
+/usr/bin/ocamlmklib -o lib/postgresql_stubs -lpq -L/usr/lib -lpq lib/postgresql_stubs.o
+# Target: lib/postgresql.mli.depends, tags: { annot, debug, extension:mli, file:lib/postgresql.mli, oasis_library_postgresql_ccopt, ocaml, ocamldep, pkg_bigarray, pkg_threads, quiet, traverse, warn_A, warn_e, warn_r }
+ocamlfind ocamldep -package threads -package bigarray -modules lib/postgresql.mli > lib/postgresql.mli.depends
+# Target: lib/postgresql.cmi, tags: { annot, byte, compile, debug, extension:mli, file:lib/postgresql.mli, interf, oasis_library_postgresql_ccopt, ocaml, pkg_bigarray, pkg_threads, quiet, traverse, warn_A, warn_e, warn_r }
+ocamlfind ocamlc -c -g -annot -w A -w e -w r -ccopt -g -ccopt -O2 -ccopt -fPIC -ccopt -DPIC -ccopt -Wall -ccopt -pedantic -ccopt -Wextra -ccopt -Wunused -ccopt -Wno-long-long -package threads -package bigarray -thread -strict-sequence -I lib -o lib/postgresql.cmi lib/postgresql.mli
+# Target: lib/postgresql.ml.depends, tags: { annot, debug, extension:ml, file:lib/postgresql.ml, oasis_library_postgresql_ccopt, ocaml, ocamldep, pkg_bigarray, pkg_threads, quiet, traverse, warn_A, warn_e, warn_r }
+ocamlfind ocamldep -package threads -package bigarray -modules lib/postgresql.ml > lib/postgresql.ml.depends
+# Target: lib/postgresql.cmo, tags: { annot, byte, compile, debug, extension:cmo, extension:ml, file:lib/postgresql.cmo, file:lib/postgresql.ml, implem, oasis_library_postgresql_ccopt, ocaml, pkg_bigarray, pkg_threads, quiet, traverse, warn_A, warn_e, warn_r }
+ocamlfind ocamlc -c -g -annot -w A -w e -w r -ccopt -g -ccopt -O2 -ccopt -fPIC -ccopt -DPIC -ccopt -Wall -ccopt -pedantic -ccopt -Wextra -ccopt -Wunused -ccopt -Wno-long-long -package threads -package bigarray -thread -strict-sequence -I lib -o lib/postgresql.cmo lib/postgresql.ml
+# Target: lib/postgresql.cma, tags: { byte, debug, extension:cma, file:lib/postgresql.cma, library, link, oasis_library_postgresql_cclib, ocaml, quiet, traverse, use_libpostgresql_stubs }
+ocamlfind ocamlc -a -dllib -lpostgresql_stubs -cclib -lpostgresql_stubs -cclib -lpq -cclib -L/usr/lib -cclib -lpq -cclib -L/usr/lib -cclib -lpq lib/postgresql.cmo -o lib/postgresql.cma
+# Target: lib/postgresql.cmx, tags: { annot, compile, debug, extension:cmx, extension:ml, file:lib/postgresql.cmx, file:lib/postgresql.ml, implem, native, oasis_library_postgresql_ccopt, ocaml, pkg_bigarray, pkg_threads, quiet, traverse, warn_A, warn_e, warn_r }
+ocamlfind ocamlopt -c -g -annot -w A -w e -w r -ccopt -g -ccopt -O2 -ccopt -fPIC -ccopt -DPIC -ccopt -Wall -ccopt -pedantic -ccopt -Wextra -ccopt -Wunused -ccopt -Wno-long-long -package threads -package bigarray -thread -strict-sequence -I lib -o lib/postgresql.cmx lib/postgresql.ml
+# Target: lib/postgresql.cmxa, tags: { debug, extension:cmxa, file:lib/postgresql.cmxa, library, link, native, oasis_library_postgresql_cclib, ocaml, quiet, traverse, use_libpostgresql_stubs }
+ocamlfind ocamlopt -a -cclib -lpostgresql_stubs -cclib -lpq -cclib -L/usr/lib -cclib -lpq -cclib -L/usr/lib -cclib -lpq lib/postgresql.cmx -o lib/postgresql.cmxa
+# Target: lib/postgresql.cmxs, tags: { debug, extension:cmxs, file:lib/postgresql.cmxs, library, link, native, ocaml, quiet, shared, traverse, use_postgresql }
+ocamlfind ocamlopt -shared -I lib -cclib -L/usr/lib -cclib -lpq lib/postgresql.cmx -o lib/postgresql.cmxs
+# Target: examples/cursor.ml.depends, tags: { annot, debug, extension:ml, file:examples/cursor.ml, ocaml, ocamldep, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamldep -package threads -package bigarray -modules examples/cursor.ml > examples/cursor.ml.depends
+# Target: examples/cursor.cmo, tags: { annot, byte, compile, debug, extension:cmo, extension:ml, file:examples/cursor.cmo, file:examples/cursor.ml, implem, ocaml, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamlc -c -g -annot -w A -w e -w r -I lib -package threads -package bigarray -thread -strict-sequence -I examples -I lib -o examples/cursor.cmo examples/cursor.ml
+# Target: examples/cursor.cmx, tags: { annot, compile, debug, extension:cmx, extension:ml, file:examples/cursor.cmx, file:examples/cursor.ml, implem, native, ocaml, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamlopt -c -g -annot -w A -w e -w r -I lib -package threads -package bigarray -thread -strict-sequence -I examples -I lib -o examples/cursor.cmx examples/cursor.ml
+# Target: examples/cursor.native, tags: { debug, dont_link_with, extension:native, file:examples/cursor.native, link, native, ocaml, pkg_bigarray, pkg_threads, program, quiet, traverse, use_postgresql }
+ocamlfind ocamlopt -g -I lib -linkpkg -package threads -package bigarray -thread lib/postgresql.cmxa examples/cursor.cmx -o examples/cursor.native
+# Target: examples/dump.ml.depends, tags: { annot, debug, extension:ml, file:examples/dump.ml, ocaml, ocamldep, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamldep -package threads -package bigarray -modules examples/dump.ml > examples/dump.ml.depends
+# Target: examples/dump.cmo, tags: { annot, byte, compile, debug, extension:cmo, extension:ml, file:examples/dump.cmo, file:examples/dump.ml, implem, ocaml, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamlc -c -g -annot -w A -w e -w r -I lib -package threads -package bigarray -thread -strict-sequence -I examples -I lib -o examples/dump.cmo examples/dump.ml
+# Target: examples/dump.cmx, tags: { annot, compile, debug, extension:cmx, extension:ml, file:examples/dump.cmx, file:examples/dump.ml, implem, native, ocaml, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamlopt -c -g -annot -w A -w e -w r -I lib -package threads -package bigarray -thread -strict-sequence -I examples -I lib -o examples/dump.cmx examples/dump.ml
+# Target: examples/dump.native, tags: { debug, dont_link_with, extension:native, file:examples/dump.native, link, native, ocaml, pkg_bigarray, pkg_threads, program, quiet, traverse, use_postgresql }
+ocamlfind ocamlopt -g -I lib -linkpkg -package threads -package bigarray -thread lib/postgresql.cmxa examples/dump.cmx -o examples/dump.native
+# Target: examples/populate.ml.depends, tags: { annot, debug, extension:ml, file:examples/populate.ml, ocaml, ocamldep, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamldep -package threads -package bigarray -modules examples/populate.ml > examples/populate.ml.depends
+# Target: examples/populate.cmo, tags: { annot, byte, compile, debug, extension:cmo, extension:ml, file:examples/populate.cmo, file:examples/populate.ml, implem, ocaml, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamlc -c -g -annot -w A -w e -w r -I lib -package threads -package bigarray -thread -strict-sequence -I examples -I lib -o examples/populate.cmo examples/populate.ml
+# Target: examples/populate.cmx, tags: { annot, compile, debug, extension:cmx, extension:ml, file:examples/populate.cmx, file:examples/populate.ml, implem, native, ocaml, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamlopt -c -g -annot -w A -w e -w r -I lib -package threads -package bigarray -thread -strict-sequence -I examples -I lib -o examples/populate.cmx examples/populate.ml
+# Target: examples/populate.native, tags: { debug, dont_link_with, extension:native, file:examples/populate.native, link, native, ocaml, pkg_bigarray, pkg_threads, program, quiet, traverse, use_postgresql }
+ocamlfind ocamlopt -g -I lib -linkpkg -package threads -package bigarray -thread lib/postgresql.cmxa examples/populate.cmx -o examples/populate.native
+# Target: examples/prompt.ml.depends, tags: { annot, debug, extension:ml, file:examples/prompt.ml, ocaml, ocamldep, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamldep -package threads -package bigarray -modules examples/prompt.ml > examples/prompt.ml.depends
+# Target: examples/prompt.cmo, tags: { annot, byte, compile, debug, extension:cmo, extension:ml, file:examples/prompt.cmo, file:examples/prompt.ml, implem, ocaml, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamlc -c -g -annot -w A -w e -w r -I lib -package threads -package bigarray -thread -strict-sequence -I examples -I lib -o examples/prompt.cmo examples/prompt.ml
+# Target: examples/prompt.cmx, tags: { annot, compile, debug, extension:cmx, extension:ml, file:examples/prompt.cmx, file:examples/prompt.ml, implem, native, ocaml, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamlopt -c -g -annot -w A -w e -w r -I lib -package threads -package bigarray -thread -strict-sequence -I examples -I lib -o examples/prompt.cmx examples/prompt.ml
+# Target: examples/prompt.native, tags: { debug, dont_link_with, extension:native, file:examples/prompt.native, link, native, ocaml, pkg_bigarray, pkg_threads, program, quiet, traverse, use_postgresql }
+ocamlfind ocamlopt -g -I lib -linkpkg -package threads -package bigarray -thread lib/postgresql.cmxa examples/prompt.cmx -o examples/prompt.native
+# Target: examples/test_lo.ml.depends, tags: { annot, debug, extension:ml, file:examples/test_lo.ml, ocaml, ocamldep, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamldep -package threads -package bigarray -modules examples/test_lo.ml > examples/test_lo.ml.depends
+# Target: examples/test_lo.cmo, tags: { annot, byte, compile, debug, extension:cmo, extension:ml, file:examples/test_lo.cmo, file:examples/test_lo.ml, implem, ocaml, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamlc -c -g -annot -w A -w e -w r -I lib -package threads -package bigarray -thread -strict-sequence -I examples -I lib -o examples/test_lo.cmo examples/test_lo.ml
+# Target: examples/test_lo.cmx, tags: { annot, compile, debug, extension:cmx, extension:ml, file:examples/test_lo.cmx, file:examples/test_lo.ml, implem, native, ocaml, pkg_bigarray, pkg_lablgtk2, pkg_threads, quiet, traverse, use_postgresql, warn_A, warn_e, warn_r }
+ocamlfind ocamlopt -c -g -annot -w A -w e -w r -I lib -package threads -package bigarray -thread -strict-sequence -I examples -I lib -o examples/test_lo.cmx examples/test_lo.ml
+# Target: examples/test_lo.native, tags: { debug, dont_link_with, extension:native, file:examples/test_lo.native, link, native, ocaml, pkg_bigarray, pkg_threads, program, quiet, traverse, use_postgresql }
+ocamlfind ocamlopt -g -I lib -linkpkg -package threads -package bigarray -thread lib/postgresql.cmxa examples/test_lo.cmx -o examples/test_lo.native
+# Compilation successful.

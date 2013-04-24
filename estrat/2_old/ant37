@@ -1,0 +1,16 @@
+Move 2 0
+PickUp 8 0
+Turn Left 0
+Unmark 2 2
+Turn Right 0
+Sense Ahead 9 11 Home
+Drop 5
+Move 10 8
+Drop 0
+Turn Left 8
+Flip 2 14 15
+PickUp 11 1
+Move 8 11
+Unmark 5 5
+Sense 16 13 FoeMarker
+Drop 11

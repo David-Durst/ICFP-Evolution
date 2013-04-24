@@ -7,4 +7,8 @@ rm -rf $WTF
 
 ./simulator/simulator $1 $2 $3 wtf > $WTF 
 
+exitcode=$?
+
 rm -f $WTF
+
+exit $exitcode

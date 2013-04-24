@@ -1,0 +1,374 @@
+"examples/dump.ml" 6 100 105 "examples/dump.ml" 6 100 117
+type(
+  string array -> int
+)
+ident(
+  ext_ref Array.length
+)
+"examples/dump.ml" 6 100 118 "examples/dump.ml" 6 100 126
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/dump.ml" 6 100 105 "examples/dump.ml" 6 100 126
+type(
+  int
+)
+"examples/dump.ml" 6 100 127 "examples/dump.ml" 6 100 129
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"examples/dump.ml" 6 100 130 "examples/dump.ml" 6 100 131
+type(
+  int
+)
+"examples/dump.ml" 6 100 105 "examples/dump.ml" 6 100 131
+type(
+  bool
+)
+"examples/dump.ml" 7 139 143 "examples/dump.ml" 7 139 156
+type(
+  (unit, out_channel, unit) format -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/dump.ml" 7 139 157 "examples/dump.ml" 10 271 306
+type(
+  (unit, out_channel, unit) format
+)
+"examples/dump.ml" 7 139 143 "examples/dump.ml" 10 271 306
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/dump.ml" 11 308 312 "examples/dump.ml" 11 308 316
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.exit
+)
+"examples/dump.ml" 11 308 317 "examples/dump.ml" 11 308 318
+type(
+  int
+)
+"examples/dump.ml" 11 308 312 "examples/dump.ml" 11 308 318
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/dump.ml" 6 100 137 "examples/dump.ml" 11 308 319
+type(
+  unit
+)
+"examples/dump.ml" 6 100 102 "examples/dump.ml" 11 308 319
+type(
+  unit
+)
+"examples/dump.ml" 13 321 325 "examples/dump.ml" 13 321 329
+type(
+  unit -> unit
+)
+ident(
+  def main "examples/dump.ml" 19 509 509 --
+)
+"examples/dump.ml" 13 321 330 "examples/dump.ml" 13 321 332
+type(
+  unit
+)
+"examples/dump.ml" 14 335 341 "examples/dump.ml" 14 335 342
+type(
+  Postgresql.connection
+)
+"examples/dump.ml" 14 335 345 "examples/dump.ml" 14 335 359
+type(
+  ?host:string ->
+  ?hostaddr:string ->
+  ?port:string ->
+  ?dbname:string ->
+  ?user:string ->
+  ?password:string ->
+  ?options:string ->
+  ?tty:string ->
+  ?requiressl:string -> ?conninfo:string -> unit -> Postgresql.connection
+)
+"examples/dump.ml" 14 335 370 "examples/dump.ml" 14 335 378
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/dump.ml" 14 335 380 "examples/dump.ml" 14 335 381
+type(
+  int
+)
+"examples/dump.ml" 14 335 370 "examples/dump.ml" 14 335 382
+type(
+  string
+)
+"examples/dump.ml" 14 335 383 "examples/dump.ml" 14 335 385
+type(
+  unit
+)
+"examples/dump.ml" 14 335 345 "examples/dump.ml" 14 335 385
+call(
+  stack
+)
+type(
+  Postgresql.connection
+)
+"examples/dump.ml" 15 389 395 "examples/dump.ml" 15 389 396
+type(
+  Postgresql.result
+)
+"examples/dump.ml" 15 389 399 "examples/dump.ml" 15 389 400
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/dump.ml" 14 335 341 "examples/dump.ml" 14 335 342
+)
+"examples/dump.ml" 15 389 399 "examples/dump.ml" 15 389 405
+call(
+  stack
+)
+type(
+  ?expect:Postgresql.result_status list ->
+  ?params:string array ->
+  ?binary_params:bool array -> string -> Postgresql.result
+)
+"examples/dump.ml" 15 389 415 "examples/dump.ml" 15 389 423
+type(
+  Postgresql.result_status
+)
+"examples/dump.ml" 15 389 414 "examples/dump.ml" 15 389 424
+type(
+  Postgresql.result_status list
+)
+"examples/dump.ml" 15 389 426 "examples/dump.ml" 15 389 433
+type(
+  string
+)
+"examples/dump.ml" 15 389 434 "examples/dump.ml" 15 389 435
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"examples/dump.ml" 15 389 436 "examples/dump.ml" 15 389 444
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/dump.ml" 15 389 446 "examples/dump.ml" 15 389 447
+type(
+  int
+)
+"examples/dump.ml" 15 389 436 "examples/dump.ml" 15 389 448
+type(
+  string
+)
+"examples/dump.ml" 15 389 449 "examples/dump.ml" 15 389 450
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"examples/dump.ml" 15 389 451 "examples/dump.ml" 15 389 463
+type(
+  string
+)
+"examples/dump.ml" 15 389 436 "examples/dump.ml" 15 389 463
+call(
+  stack
+)
+type(
+  string
+)
+"examples/dump.ml" 15 389 425 "examples/dump.ml" 15 389 464
+call(
+  stack
+)
+type(
+  string
+)
+"examples/dump.ml" 15 389 399 "examples/dump.ml" 15 389 464
+type(
+  Postgresql.result
+)
+"examples/dump.ml" 16 468 470 "examples/dump.ml" 16 468 471
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/dump.ml" 14 335 341 "examples/dump.ml" 14 335 342
+)
+"examples/dump.ml" 16 468 470 "examples/dump.ml" 16 468 488
+call(
+  stack
+)
+type(
+  out_channel -> unit
+)
+"examples/dump.ml" 16 468 489 "examples/dump.ml" 16 468 495
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"examples/dump.ml" 16 468 470 "examples/dump.ml" 16 468 495
+type(
+  unit
+)
+"examples/dump.ml" 17 497 499 "examples/dump.ml" 17 497 500
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/dump.ml" 14 335 341 "examples/dump.ml" 14 335 342
+)
+"examples/dump.ml" 17 497 499 "examples/dump.ml" 17 497 507
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/dump.ml" 16 468 470 "examples/dump.ml" 17 497 507
+type(
+  unit
+)
+"examples/dump.ml" 15 389 391 "examples/dump.ml" 17 497 507
+type(
+  unit
+)
+"examples/dump.ml" 14 335 337 "examples/dump.ml" 17 497 507
+type(
+  unit
+)
+"examples/dump.ml" 20 517 523 "examples/dump.ml" 20 517 527
+type(
+  unit -> unit
+)
+ident(
+  int_ref main "examples/dump.ml" 13 321 325 "examples/dump.ml" 13 321 329
+)
+"examples/dump.ml" 20 517 528 "examples/dump.ml" 20 517 530
+type(
+  unit
+)
+"examples/dump.ml" 20 517 523 "examples/dump.ml" 20 517 530
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/dump.ml" 21 536 546 "examples/dump.ml" 21 536 547
+type(
+  Postgresql.error
+)
+ident(
+  def e "examples/dump.ml" 21 536 551 "examples/dump.ml" 21 536 584
+)
+"examples/dump.ml" 21 536 540 "examples/dump.ml" 21 536 547
+type(
+  exn
+)
+"examples/dump.ml" 21 536 551 "examples/dump.ml" 21 536 564
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/dump.ml" 21 536 566 "examples/dump.ml" 21 536 581
+type(
+  Postgresql.error -> string
+)
+ident(
+  ext_ref Postgresql.string_of_error
+)
+"examples/dump.ml" 21 536 582 "examples/dump.ml" 21 536 583
+type(
+  Postgresql.error
+)
+ident(
+  int_ref e "examples/dump.ml" 21 536 546 "examples/dump.ml" 21 536 547
+)
+"examples/dump.ml" 21 536 565 "examples/dump.ml" 21 536 584
+call(
+  stack
+)
+type(
+  string
+)
+"examples/dump.ml" 21 536 551 "examples/dump.ml" 21 536 584
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/dump.ml" 22 585 589 "examples/dump.ml" 22 585 590
+type(
+  exn
+)
+ident(
+  def e "examples/dump.ml" 22 585 594 "examples/dump.ml" 22 585 630
+)
+"examples/dump.ml" 22 585 594 "examples/dump.ml" 22 585 607
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/dump.ml" 22 585 609 "examples/dump.ml" 22 585 627
+type(
+  exn -> string
+)
+ident(
+  ext_ref Printexc.to_string
+)
+"examples/dump.ml" 22 585 628 "examples/dump.ml" 22 585 629
+type(
+  exn
+)
+ident(
+  int_ref e "examples/dump.ml" 22 585 589 "examples/dump.ml" 22 585 590
+)
+"examples/dump.ml" 22 585 608 "examples/dump.ml" 22 585 630
+call(
+  stack
+)
+type(
+  string
+)
+"examples/dump.ml" 22 585 594 "examples/dump.ml" 22 585 630
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/dump.ml" 20 517 519 "examples/dump.ml" 22 585 630
+type(
+  unit
+)

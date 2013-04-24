@@ -1,0 +1,147 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Anthill	state.ml	/^type cell_kind = Rocky | Clear | Anthill of color$/;"	C	type:cell_kind
+Black	state.ml	/^type color = Red | Black$/;"	C	type:color
+CMI	Makefile	/^CMI=icfprandom.cmi state.cmi parser.cmi $/;"	m
+COMP_LIBS	Makefile	/^COMP_LIBS= $(addsuffix .$(LIBSUFFIX), $(LIB_STUBS))$/;"	m
+COMP_OBJ	Makefile	/^COMP_OBJ= $(addsuffix .$(OBJSUFFIX), $(STUBS))$/;"	m
+Clear	state.ml	/^type cell_kind = Rocky | Clear | Anthill of color$/;"	C	type:cell_kind
+Drop	state.ml	/^  | Drop of (state)$/;"	C	type:instruction
+DumpClassic	simulator.ml	/^type dumpmode = DumpClassic | DumpWorldTraceFormat | NoDump$/;"	C	type:dumpmode
+DumpWorldTraceFormat	simulator.ml	/^type dumpmode = DumpClassic | DumpWorldTraceFormat | NoDump$/;"	C	type:dumpmode
+Flip	state.ml	/^  | Flip of(int*state*state)$/;"	C	type:instruction
+Friend	state.ml	/^    Friend             (* cell contains an ant of the same color *)$/;"	C	type:condition
+Here	state.ml	/^    Here           (* sense the ant's current cell *)$/;"	C	type:sense_dir
+Icfprandom	icfprandom.ml	1;"	M
+LIB_STUBS	Makefile	/^LIB_STUBS= str$/;"	m
+Left	state.ml	/^type left_or_right = Left | Right$/;"	C	type:left_or_right
+Mark	state.ml	/^  | Mark of (marker*state)$/;"	C	type:instruction
+Move	state.ml	/^  | Move of (state*state)$/;"	C	type:instruction
+NoDump	simulator.ml	/^type dumpmode = DumpClassic | DumpWorldTraceFormat | NoDump$/;"	C	type:dumpmode
+Parse_error	parser.ml	/^exception Parse_error of (int option * string)$/;"	e
+Parser	parser.ml	1;"	M
+PickUp	state.ml	/^  | PickUp of (state*state)$/;"	C	type:instruction
+Red	state.ml	/^type color = Red | Black$/;"	C	type:color
+Right	state.ml	/^type left_or_right = Left | Right$/;"	C	type:left_or_right
+Rocky	state.ml	/^type cell_kind = Rocky | Clear | Anthill of color$/;"	C	type:cell_kind
+STUBS	Makefile	/^STUBS= icfprandom state parser simulator$/;"	m
+Sense	state.ml	/^  | Sense of (sense_dir*state*state*condition)  $/;"	C	type:instruction
+Simulator	simulator.ml	1;"	M
+State	state.ml	1;"	M
+TARGET	Makefile	/^TARGET=simulator$/;"	m
+Turn	state.ml	/^  | Turn of (left_or_right*state)$/;"	C	type:instruction
+Unmark	state.ml	/^  | Unmark of (marker*state)$/;"	C	type:instruction
+adjacent_cell	state.ml	/^let adjacent_cell p d = $/;"	v
+advance_si	icfprandom.ml	/^let advance_si () = $/;"	v
+ant	state.ml	/^type ant = {color:color; $/;"	t
+ant	state.ml	/^type cell = {kind:cell_kind; ant: ant option; food:int; marker:marker}$/;"	r	type:cell
+ant_id	state.ml	/^let ant_id = ref 0$/;"	v
+ant_is_alive	state.ml	/^let ant_is_alive id = $/;"	v
+ant_list	state.ml	/^let ant_list = ref []$/;"	v
+ant_with_food_at	state.ml	/^let ant_with_food_at pos =$/;"	v
+anthill_at	state.ml	/^let anthill_at pos c = $/;"	v
+ants	state.ml	/^type game = {mutable ants:ant array; $/;"	r	type:game
+black_state_machine	state.ml	/^	     mutable black_state_machine: instruction array;$/;"	r	type:game
+blank_regex	parser.ml	/^let blank_regex = Str.regexp " "$/;"	v
+callback	state.ml	/^let callback = ref None$/;"	v
+carries_food	state.ml	/^	    mutable carries_food:bool; $/;"	r	type:ant
+cell	state.ml	/^type cell = {kind:cell_kind; ant: ant option; food:int; marker:marker}$/;"	t
+cell_kind	state.ml	/^type cell_kind = Rocky | Clear | Anthill of color$/;"	t
+cell_matches	state.ml	/^let cell_matches p cond c = $/;"	v
+check_any_marker_at	state.ml	/^let check_any_marker_at pos c = $/;"	v
+check_for_surrounded_ants	state.ml	/^let check_for_surrounded_ants p =$/;"	v
+check_marker_at	state.ml	/^let check_marker_at pos c marker_num = $/;"	v
+clear_marker_at	state.ml	/^let clear_marker_at pos c marker_num = $/;"	v
+color	state.ml	/^type ant = {color:color; $/;"	r	type:ant
+color	state.ml	/^type color = Red | Black$/;"	t
+color_at	state.ml	/^let color_at pos = $/;"	v
+color_at_pos_is	state.ml	/^let color_at_pos_is pos c =$/;"	v
+comment	parser.ml	/^    comment: string;$/;"	r	type:line
+comment_regex	parser.ml	/^let comment_regex = Str.regexp "[ \\t]*;.*$"$/;"	v
+condition	state.ml	/^type condition =$/;"	t
+count_adjacent_ants	state.ml	/^let count_adjacent_ants p c =$/;"	v
+count_ants_at_with_color	state.ml	/^let count_ants_at_with_color p = function$/;"	v
+dead	state.ml	/^	    mutable dead:bool; $/;"	r	type:ant
+death_callback	state.ml	/^let death_callback = ref None$/;"	v
+determine_winner	simulator.ml	/^let determine_winner () = $/;"	v
+dir	state.ml	/^type dir = int (* 0..5 *)$/;"	t
+direction	state.ml	/^	    mutable direction:int}$/;"	r	type:ant
+dump	simulator.ml	/^let dump rn = $/;"	v
+dumpmode	simulator.ml	/^let dumpmode = ref NoDump$/;"	v
+dumpmode	simulator.ml	/^type dumpmode = DumpClassic | DumpWorldTraceFormat | NoDump$/;"	t
+even	state.ml	/^let even x = x mod 2 == 0$/;"	v
+find_ant	state.ml	/^let find_ant id =$/;"	v
+food	state.ml	/^type cell = {kind:cell_kind; ant: ant option; food:int; marker:marker}$/;"	r	type:cell
+food_at	state.ml	/^let food_at pos =$/;"	v
+game	state.ml	/^let game = {ants=[||]; world=[||]; red_state_machine=[||]; black_state_machine=[||]}$/;"	v
+game	state.ml	/^type game = {mutable ants:ant array; $/;"	t
+generate_ant	state.ml	/^let generate_ant color p =$/;"	v
+get_ant	state.ml	/^let get_ant id =$/;"	v
+get_ant_option_at	state.ml	/^let get_ant_option_at pos = $/;"	v
+get_instruction	state.ml	/^let get_instruction a = $/;"	v
+get_marker_list_at	state.ml	/^let get_marker_list_at pos c = $/;"	v
+i	icfprandom.ml	/^		  mutable i:int}$/;"	r	type:randstate
+id	state.ml	/^	    id:int; $/;"	r	type:ant
+ifs5	parser.ml	/^  in let ifs5 = ifs 5$/;"	v
+instruction	parser.ml	/^    instruction: State.instruction;$/;"	r	type:line
+instruction	state.ml	/^type instruction =$/;"	t
+kill_ant_at	state.ml	/^let kill_ant_at pos = $/;"	v
+kind	state.ml	/^type cell = {kind:cell_kind; ant: ant option; food:int; marker:marker}$/;"	r	type:cell
+left_or_right	state.ml	/^type left_or_right = Left | Right$/;"	t
+line	parser.ml	/^type line = {$/;"	t
+main_loop	simulator.ml	/^let main_loop () = $/;"	v
+make_ants_array	state.ml	/^let make_ants_array file_red file_black machine_reader =$/;"	v
+marker	state.ml	/^type cell = {kind:cell_kind; ant: ant option; food:int; marker:marker}$/;"	r	type:cell
+marker	state.ml	/^type marker = int (* uses bits 0..5 *)$/;"	t
+move_ant_from_to	state.ml	/^let move_ant_from_to old_pos new_pos = $/;"	v
+num_rounds	simulator.ml	/^let num_rounds = 100*1000$/;"	v
+other_color	state.ml	/^let other_color c = $/;"	v
+other_color_option	state.ml	/^let other_color_option = function $/;"	v
+pos	state.ml	/^	    mutable pos:pos; $/;"	r	type:ant
+pos	state.ml	/^type pos = int*int$/;"	t
+random	icfprandom.ml	/^let random () = $/;"	v
+randomint	state.ml	/^let randomint n = $/;"	v
+randstate	icfprandom.ml	/^type randstate = {mutable si:int;$/;"	t
+read_code_lines	parser.ml	/^let read_code_lines fname =$/;"	v
+read_state_machine	parser.ml	/^let read_state_machine fname =$/;"	v
+red_state_machine	state.ml	/^	     mutable red_state_machine: instruction array;$/;"	r	type:game
+resting	state.ml	/^	    mutable resting:int; $/;"	r	type:ant
+resting	state.ml	/^let resting a = $/;"	v
+rocky	state.ml	/^let rocky pos = $/;"	v
+seed	simulator.ml	/^    let seed = 12345 in$/;"	v
+sense_dir	state.ml	/^type sense_dir = $/;"	t
+sensed_cell	state.ml	/^let sensed_cell p d sd = $/;"	v
+set_dump_mode	simulator.ml	/^let set_dump_mode str = $/;"	v
+set_food_at	state.ml	/^let set_food_at pos food = $/;"	v
+set_marker_at	state.ml	/^let set_marker_at pos c marker_num = $/;"	v
+set_resting	state.ml	/^let set_resting a i = $/;"	v
+set_seed	icfprandom.ml	/^let set_seed seed = $/;"	v
+set_state	state.ml	/^let set_state a state = $/;"	v
+set_state_callback	state.ml	/^let set_state_callback f = $/;"	v
+set_state_death_callback	state.ml	/^let set_state_death_callback f = $/;"	v
+show_sense_details	simulator.ml	/^let show_sense_details = ref false$/;"	v
+si	icfprandom.ml	/^type randstate = {mutable si:int;$/;"	r	type:randstate
+some_ant_is_at	state.ml	/^let some_ant_is_at pos = $/;"	v
+st	state.ml	/^		  let st = if randomint(p) = 0 then st1 else st2 in$/;"	v
+state	icfprandom.ml	/^let state = {si=0; i=0}$/;"	v
+state	state.ml	/^	    mutable state:int; $/;"	r	type:ant
+state	state.ml	/^type state = int$/;"	t
+state_machine	state.ml	/^        mutable state_machine: instruction array; $/;"	r	type:ant
+step	state.ml	/^let step id =$/;"	v
+string_of_condition	state.ml	/^let string_of_condition = function$/;"	v
+string_of_instruction	state.ml	/^let string_of_instruction = function$/;"	v
+string_of_left_or_right	state.ml	/^let string_of_left_or_right = function$/;"	v
+string_of_sense_dir	state.ml	/^let string_of_sense_dir = function$/;"	v
+test	icfprandom.ml	/^let test () = $/;"	v
+turn	state.ml	/^let turn lr d = $/;"	v
+usage	simulator.ml	/^let usage () = $/;"	v
+whitespace_regex	parser.ml	/^let whitespace_regex = Str.regexp "[ \\t]+"$/;"	v
+world	parser.ml	/^  in let world = Array.create_matrix x y {kind=Clear;ant=None;food=0;marker=0}$/;"	v
+world	state.ml	/^	     mutable world:cell array array;$/;"	r	type:game
+world_trace	simulator.ml	/^let world_trace rn = $/;"	v
+world_tracer_callback	simulator.ml	/^let world_tracer_callback ant instr success = $/;"	v
+x	parser.ml	/^  in let x,y = (int_of_string (input_line ich)), (int_of_string (input_line ich))$/;"	v

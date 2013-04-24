@@ -1,0 +1,18 @@
+Sense Ahead 1 3 Food
+Move 2 0
+PickUp 8 0
+Flip 3 4 5
+Turn Left 0
+Flip 3 6 6
+Turn Right 0
+Flip 3 8 8
+Flip 3 9 9
+Move 4 12
+Move 10 8
+Drop 0
+Flip 3 13 13
+Turn Left 8
+Flip 2 14 15
+Turn Right 8
+Sense RightAhead 7 1 Friend
+Flip 3 0 0

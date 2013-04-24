@@ -1,0 +1,2029 @@
+"examples/prompt.ml" 7 74 79 "examples/prompt.ml" 7 74 91
+type(
+  string array -> int
+)
+ident(
+  ext_ref Array.length
+)
+"examples/prompt.ml" 7 74 92 "examples/prompt.ml" 7 74 100
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/prompt.ml" 7 74 79 "examples/prompt.ml" 7 74 100
+type(
+  int
+)
+"examples/prompt.ml" 7 74 101 "examples/prompt.ml" 7 74 103
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"examples/prompt.ml" 7 74 104 "examples/prompt.ml" 7 74 105
+type(
+  int
+)
+"examples/prompt.ml" 7 74 79 "examples/prompt.ml" 7 74 105
+type(
+  bool
+)
+"examples/prompt.ml" 8 113 117 "examples/prompt.ml" 8 113 124
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.eprintf
+)
+"examples/prompt.ml" 8 113 125 "examples/prompt.ml" 8 113 151
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 8 113 152 "examples/prompt.ml" 8 113 160
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/prompt.ml" 8 113 162 "examples/prompt.ml" 8 113 163
+type(
+  int
+)
+"examples/prompt.ml" 8 113 152 "examples/prompt.ml" 8 113 164
+type(
+  string
+)
+"examples/prompt.ml" 8 113 117 "examples/prompt.ml" 8 113 164
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 9 166 170 "examples/prompt.ml" 9 166 174
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.exit
+)
+"examples/prompt.ml" 9 166 175 "examples/prompt.ml" 9 166 176
+type(
+  int
+)
+"examples/prompt.ml" 9 166 170 "examples/prompt.ml" 9 166 176
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 7 74 111 "examples/prompt.ml" 9 166 177
+type(
+  unit
+)
+"examples/prompt.ml" 7 74 76 "examples/prompt.ml" 9 166 177
+type(
+  unit
+)
+"examples/prompt.ml" 11 179 183 "examples/prompt.ml" 11 179 191
+type(
+  string
+)
+ident(
+  def conninfo "examples/prompt.ml" 13 208 208 --
+)
+"examples/prompt.ml" 11 179 194 "examples/prompt.ml" 11 179 202
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/prompt.ml" 11 179 204 "examples/prompt.ml" 11 179 205
+type(
+  int
+)
+"examples/prompt.ml" 11 179 194 "examples/prompt.ml" 11 179 206
+type(
+  string
+)
+"examples/prompt.ml" 13 208 212 "examples/prompt.ml" 13 208 227
+type(
+  < backend_pid : int; db : string; host : string; options : string;
+    pass : string; port : string; tty : string; user : string; .. > ->
+  unit
+)
+ident(
+  def print_conn_info "examples/prompt.ml" 23 538 538 --
+)
+"examples/prompt.ml" 13 208 228 "examples/prompt.ml" 13 208 232
+type(
+  < backend_pid : int; db : string; host : string; options : string;
+    pass : string; port : string; tty : string; user : string; .. >
+  as 'a
+)
+ident(
+  def conn "examples/prompt.ml" 14 235 237 "examples/prompt.ml" 21 494 536
+)
+"examples/prompt.ml" 14 235 237 "examples/prompt.ml" 14 235 243
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 14 235 244 "examples/prompt.ml" 14 235 260
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 14 235 261 "examples/prompt.ml" 14 235 265
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 13 208 228 "examples/prompt.ml" 13 208 232
+)
+"examples/prompt.ml" 14 235 261 "examples/prompt.ml" 14 235 268
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 14 235 237 "examples/prompt.ml" 14 235 268
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 15 270 272 "examples/prompt.ml" 15 270 278
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 15 270 279 "examples/prompt.ml" 15 270 295
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 15 270 296 "examples/prompt.ml" 15 270 300
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 13 208 228 "examples/prompt.ml" 13 208 232
+)
+"examples/prompt.ml" 15 270 296 "examples/prompt.ml" 15 270 305
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 15 270 272 "examples/prompt.ml" 15 270 305
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 16 307 309 "examples/prompt.ml" 16 307 315
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 16 307 316 "examples/prompt.ml" 16 307 332
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 16 307 333 "examples/prompt.ml" 16 307 337
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 13 208 228 "examples/prompt.ml" 13 208 232
+)
+"examples/prompt.ml" 16 307 333 "examples/prompt.ml" 16 307 342
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 16 307 309 "examples/prompt.ml" 16 307 342
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 17 344 346 "examples/prompt.ml" 17 344 352
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 17 344 353 "examples/prompt.ml" 17 344 369
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 17 344 370 "examples/prompt.ml" 17 344 374
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 13 208 228 "examples/prompt.ml" 13 208 232
+)
+"examples/prompt.ml" 17 344 370 "examples/prompt.ml" 17 344 379
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 17 344 346 "examples/prompt.ml" 17 344 379
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 18 381 383 "examples/prompt.ml" 18 381 389
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 18 381 390 "examples/prompt.ml" 18 381 406
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 18 381 407 "examples/prompt.ml" 18 381 411
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 13 208 228 "examples/prompt.ml" 13 208 232
+)
+"examples/prompt.ml" 18 381 407 "examples/prompt.ml" 18 381 416
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 18 381 383 "examples/prompt.ml" 18 381 416
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 19 418 420 "examples/prompt.ml" 19 418 426
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 19 418 427 "examples/prompt.ml" 19 418 443
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 19 418 444 "examples/prompt.ml" 19 418 448
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 13 208 228 "examples/prompt.ml" 13 208 232
+)
+"examples/prompt.ml" 19 418 444 "examples/prompt.ml" 19 418 452
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 19 418 420 "examples/prompt.ml" 19 418 452
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 20 454 456 "examples/prompt.ml" 20 454 462
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 20 454 463 "examples/prompt.ml" 20 454 479
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 20 454 480 "examples/prompt.ml" 20 454 484
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 13 208 228 "examples/prompt.ml" 13 208 232
+)
+"examples/prompt.ml" 20 454 480 "examples/prompt.ml" 20 454 492
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 20 454 456 "examples/prompt.ml" 20 454 492
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 21 494 496 "examples/prompt.ml" 21 494 502
+type(
+  (int -> unit, out_channel, unit) format -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 21 494 503 "examples/prompt.ml" 21 494 519
+type(
+  (int -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 21 494 520 "examples/prompt.ml" 21 494 524
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 13 208 228 "examples/prompt.ml" 13 208 232
+)
+"examples/prompt.ml" 21 494 520 "examples/prompt.ml" 21 494 536
+call(
+  stack
+)
+type(
+  int
+)
+"examples/prompt.ml" 21 494 496 "examples/prompt.ml" 21 494 536
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 20 454 456 "examples/prompt.ml" 21 494 536
+type(
+  unit
+)
+"examples/prompt.ml" 19 418 420 "examples/prompt.ml" 21 494 536
+type(
+  unit
+)
+"examples/prompt.ml" 18 381 383 "examples/prompt.ml" 21 494 536
+type(
+  unit
+)
+"examples/prompt.ml" 17 344 346 "examples/prompt.ml" 21 494 536
+type(
+  unit
+)
+"examples/prompt.ml" 16 307 309 "examples/prompt.ml" 21 494 536
+type(
+  unit
+)
+"examples/prompt.ml" 15 270 272 "examples/prompt.ml" 21 494 536
+type(
+  unit
+)
+"examples/prompt.ml" 14 235 237 "examples/prompt.ml" 21 494 536
+type(
+  unit
+)
+"examples/prompt.ml" 23 538 542 "examples/prompt.ml" 23 538 551
+type(
+  < copy_out : (string -> unit) -> unit; reset : unit; .. > ->
+  < cmd_status : string; error : string; get_fnames_lst : string list;
+    getvalue : int -> int -> string; nfields : int; ntuples : int;
+    status : Postgresql.result_status; .. > ->
+  unit
+)
+ident(
+  def print_res "examples/prompt.ml" 43 1361 1361 --
+)
+"examples/prompt.ml" 23 538 552 "examples/prompt.ml" 23 538 556
+type(
+  < copy_out : (string -> unit) -> unit; reset : unit; .. > as 'a
+)
+ident(
+  def conn "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 41 1304 1359
+)
+"examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+type(
+  < cmd_status : string; error : string; get_fnames_lst : string list;
+    getvalue : int -> int -> string; nfields : int; ntuples : int;
+    status : Postgresql.result_status; .. >
+  as 'b
+)
+ident(
+  def res "examples/prompt.ml" 24 563 565 "examples/prompt.ml" 41 1304 1359
+)
+"examples/prompt.ml" 24 563 571 "examples/prompt.ml" 24 563 574
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 24 563 571 "examples/prompt.ml" 24 563 581
+call(
+  stack
+)
+type(
+  Postgresql.result_status
+)
+"examples/prompt.ml" 25 587 591 "examples/prompt.ml" 25 587 602
+type(
+  Postgresql.result_status
+)
+"examples/prompt.ml" 25 587 606 "examples/prompt.ml" 25 587 612
+type(
+  (unit, out_channel, unit) format -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 25 587 613 "examples/prompt.ml" 25 587 628
+type(
+  (unit, out_channel, unit) format
+)
+"examples/prompt.ml" 25 587 606 "examples/prompt.ml" 25 587 628
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 26 629 633 "examples/prompt.ml" 26 629 643
+type(
+  Postgresql.result_status
+)
+"examples/prompt.ml" 26 629 647 "examples/prompt.ml" 26 629 653
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 26 629 654 "examples/prompt.ml" 26 629 673
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 26 629 674 "examples/prompt.ml" 26 629 677
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 26 629 674 "examples/prompt.ml" 26 629 688
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 26 629 647 "examples/prompt.ml" 26 629 688
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 27 689 693 "examples/prompt.ml" 27 689 702
+type(
+  Postgresql.result_status
+)
+"examples/prompt.ml" 28 706 712 "examples/prompt.ml" 28 706 718
+type(
+  (unit, out_channel, unit) format -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 28 706 719 "examples/prompt.ml" 28 706 732
+type(
+  (unit, out_channel, unit) format
+)
+"examples/prompt.ml" 28 706 712 "examples/prompt.ml" 28 706 732
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 29 734 740 "examples/prompt.ml" 29 734 746
+type(
+  (int -> int -> unit, out_channel, unit) format -> int -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 29 734 747 "examples/prompt.ml" 29 734 775
+type(
+  (int -> int -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 29 734 776 "examples/prompt.ml" 29 734 779
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 29 734 776 "examples/prompt.ml" 29 734 787
+call(
+  stack
+)
+type(
+  int
+)
+"examples/prompt.ml" 29 734 788 "examples/prompt.ml" 29 734 791
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 29 734 788 "examples/prompt.ml" 29 734 799
+call(
+  stack
+)
+type(
+  int
+)
+"examples/prompt.ml" 29 734 740 "examples/prompt.ml" 29 734 799
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 30 801 807 "examples/prompt.ml" 30 801 820
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"examples/prompt.ml" 30 801 822 "examples/prompt.ml" 30 801 835
+type(
+  string -> string list -> string
+)
+ident(
+  ext_ref String.concat
+)
+"examples/prompt.ml" 30 801 836 "examples/prompt.ml" 30 801 839
+type(
+  string
+)
+"examples/prompt.ml" 30 801 840 "examples/prompt.ml" 30 801 843
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 30 801 840 "examples/prompt.ml" 30 801 858
+call(
+  stack
+)
+type(
+  string list
+)
+"examples/prompt.ml" 30 801 821 "examples/prompt.ml" 30 801 859
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 30 801 807 "examples/prompt.ml" 30 801 859
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 31 861 879 "examples/prompt.ml" 31 861 880
+type(
+  int
+)
+"examples/prompt.ml" 31 861 884 "examples/prompt.ml" 31 861 887
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 31 861 884 "examples/prompt.ml" 31 861 895
+call(
+  stack
+)
+type(
+  int
+)
+"examples/prompt.ml" 31 861 896 "examples/prompt.ml" 31 861 897
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"examples/prompt.ml" 31 861 898 "examples/prompt.ml" 31 861 899
+type(
+  int
+)
+"examples/prompt.ml" 31 861 884 "examples/prompt.ml" 31 861 899
+type(
+  int
+)
+"examples/prompt.ml" 32 903 923 "examples/prompt.ml" 32 903 924
+type(
+  int
+)
+"examples/prompt.ml" 32 903 928 "examples/prompt.ml" 32 903 931
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 32 903 928 "examples/prompt.ml" 32 903 939
+call(
+  stack
+)
+type(
+  int
+)
+"examples/prompt.ml" 32 903 940 "examples/prompt.ml" 32 903 941
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"examples/prompt.ml" 32 903 942 "examples/prompt.ml" 32 903 943
+type(
+  int
+)
+"examples/prompt.ml" 32 903 928 "examples/prompt.ml" 32 903 943
+type(
+  int
+)
+"examples/prompt.ml" 33 948 958 "examples/prompt.ml" 33 948 964
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 33 948 965 "examples/prompt.ml" 33 948 971
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 33 948 973 "examples/prompt.ml" 33 948 976
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 33 948 973 "examples/prompt.ml" 33 948 985
+call(
+  stack
+)
+type(
+  int -> int -> string
+)
+"examples/prompt.ml" 33 948 986 "examples/prompt.ml" 33 948 991
+type(
+  int
+)
+"examples/prompt.ml" 33 948 992 "examples/prompt.ml" 33 948 997
+type(
+  int
+)
+"examples/prompt.ml" 33 948 972 "examples/prompt.ml" 33 948 998
+type(
+  string
+)
+"examples/prompt.ml" 33 948 958 "examples/prompt.ml" 33 948 998
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 32 903 911 "examples/prompt.ml" 34 999 1011
+type(
+  unit
+)
+"examples/prompt.ml" 35 1013 1021 "examples/prompt.ml" 35 1013 1034
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"examples/prompt.ml" 35 1013 1035 "examples/prompt.ml" 35 1013 1037
+type(
+  unit
+)
+"examples/prompt.ml" 35 1013 1021 "examples/prompt.ml" 35 1013 1037
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 32 903 911 "examples/prompt.ml" 35 1013 1037
+type(
+  unit
+)
+"examples/prompt.ml" 31 861 867 "examples/prompt.ml" 36 1038 1048
+type(
+  unit
+)
+"examples/prompt.ml" 30 801 807 "examples/prompt.ml" 36 1038 1048
+type(
+  unit
+)
+"examples/prompt.ml" 29 734 740 "examples/prompt.ml" 36 1038 1048
+type(
+  unit
+)
+"examples/prompt.ml" 28 706 712 "examples/prompt.ml" 36 1038 1048
+type(
+  unit
+)
+"examples/prompt.ml" 37 1049 1053 "examples/prompt.ml" 37 1049 1061
+type(
+  Postgresql.result_status
+)
+"examples/prompt.ml" 37 1049 1065 "examples/prompt.ml" 37 1049 1071
+type(
+  (unit, out_channel, unit) format -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 37 1049 1072 "examples/prompt.ml" 37 1049 1085
+type(
+  (unit, out_channel, unit) format
+)
+"examples/prompt.ml" 37 1049 1065 "examples/prompt.ml" 37 1049 1085
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 37 1049 1087 "examples/prompt.ml" 37 1049 1091
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 23 538 552 "examples/prompt.ml" 23 538 556
+)
+"examples/prompt.ml" 37 1049 1087 "examples/prompt.ml" 37 1049 1100
+call(
+  tail
+)
+type(
+  (string -> unit) -> unit
+)
+"examples/prompt.ml" 37 1049 1101 "examples/prompt.ml" 37 1049 1114
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"examples/prompt.ml" 37 1049 1087 "examples/prompt.ml" 37 1049 1114
+type(
+  unit
+)
+"examples/prompt.ml" 37 1049 1065 "examples/prompt.ml" 37 1049 1114
+type(
+  unit
+)
+"examples/prompt.ml" 38 1115 1119 "examples/prompt.ml" 38 1115 1126
+type(
+  Postgresql.result_status
+)
+"examples/prompt.ml" 38 1115 1130 "examples/prompt.ml" 38 1115 1136
+type(
+  (unit, out_channel, unit) format -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 38 1115 1137 "examples/prompt.ml" 38 1115 1162
+type(
+  (unit, out_channel, unit) format
+)
+"examples/prompt.ml" 38 1115 1130 "examples/prompt.ml" 38 1115 1162
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 38 1115 1164 "examples/prompt.ml" 38 1115 1168
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.exit
+)
+"examples/prompt.ml" 38 1115 1169 "examples/prompt.ml" 38 1115 1170
+type(
+  int
+)
+"examples/prompt.ml" 38 1115 1164 "examples/prompt.ml" 38 1115 1170
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 38 1115 1130 "examples/prompt.ml" 38 1115 1170
+type(
+  unit
+)
+"examples/prompt.ml" 39 1171 1175 "examples/prompt.ml" 39 1171 1187
+type(
+  Postgresql.result_status
+)
+"examples/prompt.ml" 39 1171 1191 "examples/prompt.ml" 39 1171 1197
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 39 1171 1198 "examples/prompt.ml" 39 1171 1218
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 39 1171 1219 "examples/prompt.ml" 39 1171 1222
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 39 1171 1219 "examples/prompt.ml" 39 1171 1228
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 39 1171 1191 "examples/prompt.ml" 39 1171 1228
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 39 1171 1230 "examples/prompt.ml" 39 1171 1234
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 23 538 552 "examples/prompt.ml" 23 538 556
+)
+"examples/prompt.ml" 39 1171 1230 "examples/prompt.ml" 39 1171 1240
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 39 1171 1191 "examples/prompt.ml" 39 1171 1240
+type(
+  unit
+)
+"examples/prompt.ml" 40 1241 1245 "examples/prompt.ml" 40 1241 1259
+type(
+  Postgresql.result_status
+)
+"examples/prompt.ml" 40 1241 1263 "examples/prompt.ml" 40 1241 1269
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 40 1241 1270 "examples/prompt.ml" 40 1241 1293
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 40 1241 1294 "examples/prompt.ml" 40 1241 1297
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 40 1241 1294 "examples/prompt.ml" 40 1241 1303
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 40 1241 1263 "examples/prompt.ml" 40 1241 1303
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 41 1304 1308 "examples/prompt.ml" 41 1304 1319
+type(
+  Postgresql.result_status
+)
+"examples/prompt.ml" 41 1304 1323 "examples/prompt.ml" 41 1304 1329
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 41 1304 1330 "examples/prompt.ml" 41 1304 1349
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 41 1304 1350 "examples/prompt.ml" 41 1304 1353
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 23 538 557 "examples/prompt.ml" 23 538 560
+)
+"examples/prompt.ml" 41 1304 1350 "examples/prompt.ml" 41 1304 1359
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 41 1304 1323 "examples/prompt.ml" 41 1304 1359
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 24 563 565 "examples/prompt.ml" 41 1304 1359
+type(
+  unit
+)
+"examples/prompt.ml" 43 1361 1369 "examples/prompt.ml" 43 1361 1377
+type(
+  < copy_out : (string -> unit) -> unit;
+    get_result : < cmd_status : string; error : string;
+                   get_fnames_lst : string list;
+                   getvalue : int -> int -> string; nfields : int;
+                   ntuples : int; status : Postgresql.result_status; .. >
+                 option;
+    reset : unit; .. > ->
+  unit
+)
+ident(
+  def dump_res "examples/prompt.ml" 43 1361 1361 --
+)
+"examples/prompt.ml" 43 1361 1378 "examples/prompt.ml" 43 1361 1382
+type(
+  < copy_out : (string -> unit) -> unit;
+    get_result : < cmd_status : string; error : string;
+                   get_fnames_lst : string list;
+                   getvalue : int -> int -> string; nfields : int;
+                   ntuples : int; status : Postgresql.result_status; .. >
+                 option;
+    reset : unit; .. >
+  as 'a
+)
+ident(
+  def conn "examples/prompt.ml" 44 1385 1387 "examples/prompt.ml" 46 1478 1492
+)
+"examples/prompt.ml" 44 1385 1393 "examples/prompt.ml" 44 1385 1397
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 43 1361 1378 "examples/prompt.ml" 43 1361 1382
+)
+"examples/prompt.ml" 44 1385 1393 "examples/prompt.ml" 44 1385 1408
+call(
+  stack
+)
+type(
+  (< cmd_status : string; error : string; get_fnames_lst : string list;
+     getvalue : int -> int -> string; nfields : int; ntuples : int;
+     status : Postgresql.result_status; .. >
+   as 'b)
+  option
+)
+"examples/prompt.ml" 45 1414 1423 "examples/prompt.ml" 45 1414 1426
+type(
+  'b
+)
+ident(
+  def res "examples/prompt.ml" 45 1414 1430 "examples/prompt.ml" 45 1414 1477
+)
+"examples/prompt.ml" 45 1414 1418 "examples/prompt.ml" 45 1414 1426
+type(
+  'b option
+)
+"examples/prompt.ml" 45 1414 1430 "examples/prompt.ml" 45 1414 1439
+type(
+  'a -> 'b -> unit
+)
+ident(
+  int_ref print_res "examples/prompt.ml" 23 538 542 "examples/prompt.ml" 23 538 551
+)
+"examples/prompt.ml" 45 1414 1440 "examples/prompt.ml" 45 1414 1444
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 43 1361 1378 "examples/prompt.ml" 43 1361 1382
+)
+"examples/prompt.ml" 45 1414 1445 "examples/prompt.ml" 45 1414 1448
+type(
+  'b
+)
+ident(
+  int_ref res "examples/prompt.ml" 45 1414 1423 "examples/prompt.ml" 45 1414 1426
+)
+"examples/prompt.ml" 45 1414 1430 "examples/prompt.ml" 45 1414 1448
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 45 1414 1450 "examples/prompt.ml" 45 1414 1455
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"examples/prompt.ml" 45 1414 1456 "examples/prompt.ml" 45 1414 1462
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"examples/prompt.ml" 45 1414 1450 "examples/prompt.ml" 45 1414 1462
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 45 1414 1464 "examples/prompt.ml" 45 1414 1472
+type(
+  'a -> unit
+)
+ident(
+  int_ref dump_res "examples/prompt.ml" 43 1361 1369 "examples/prompt.ml" 43 1361 1377
+)
+"examples/prompt.ml" 45 1414 1473 "examples/prompt.ml" 45 1414 1477
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 43 1361 1378 "examples/prompt.ml" 43 1361 1382
+)
+"examples/prompt.ml" 45 1414 1464 "examples/prompt.ml" 45 1414 1477
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 45 1414 1450 "examples/prompt.ml" 45 1414 1477
+type(
+  unit
+)
+"examples/prompt.ml" 45 1414 1430 "examples/prompt.ml" 45 1414 1477
+type(
+  unit
+)
+"examples/prompt.ml" 46 1478 1482 "examples/prompt.ml" 46 1478 1486
+type(
+  'b option
+)
+"examples/prompt.ml" 46 1478 1490 "examples/prompt.ml" 46 1478 1492
+type(
+  unit
+)
+"examples/prompt.ml" 44 1385 1387 "examples/prompt.ml" 46 1478 1492
+type(
+  unit
+)
+"examples/prompt.ml" 48 1494 1502 "examples/prompt.ml" 48 1494 1519
+type(
+  < notifies : (string * int) option; .. > -> unit
+)
+ident(
+  def dump_notification "examples/prompt.ml" 48 1494 1494 --
+)
+"examples/prompt.ml" 48 1494 1520 "examples/prompt.ml" 48 1494 1524
+type(
+  < notifies : (string * int) option; .. > as 'a
+)
+ident(
+  def conn "examples/prompt.ml" 49 1527 1529 "examples/prompt.ml" 54 1685 1699
+)
+"examples/prompt.ml" 49 1527 1535 "examples/prompt.ml" 49 1527 1539
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 48 1494 1520 "examples/prompt.ml" 48 1494 1524
+)
+"examples/prompt.ml" 49 1527 1535 "examples/prompt.ml" 49 1527 1548
+call(
+  stack
+)
+type(
+  (string * int) option
+)
+"examples/prompt.ml" 50 1554 1564 "examples/prompt.ml" 50 1554 1567
+type(
+  string
+)
+ident(
+  def msg "examples/prompt.ml" 51 1577 1583 "examples/prompt.ml" 53 1656 1684
+)
+"examples/prompt.ml" 50 1554 1569 "examples/prompt.ml" 50 1554 1572
+type(
+  int
+)
+ident(
+  def pid "examples/prompt.ml" 51 1577 1583 "examples/prompt.ml" 53 1656 1684
+)
+"examples/prompt.ml" 50 1554 1563 "examples/prompt.ml" 50 1554 1573
+type(
+  string * int
+)
+"examples/prompt.ml" 50 1554 1558 "examples/prompt.ml" 50 1554 1573
+type(
+  (string * int) option
+)
+"examples/prompt.ml" 51 1577 1583 "examples/prompt.ml" 51 1577 1589
+type(
+  (int -> string -> unit, out_channel, unit) format -> int -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/prompt.ml" 51 1577 1590 "examples/prompt.ml" 51 1577 1626
+type(
+  (int -> string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 51 1577 1627 "examples/prompt.ml" 51 1577 1630
+type(
+  int
+)
+ident(
+  int_ref pid "examples/prompt.ml" 50 1554 1569 "examples/prompt.ml" 50 1554 1572
+)
+"examples/prompt.ml" 51 1577 1631 "examples/prompt.ml" 51 1577 1634
+type(
+  string
+)
+ident(
+  int_ref msg "examples/prompt.ml" 50 1554 1564 "examples/prompt.ml" 50 1554 1567
+)
+"examples/prompt.ml" 51 1577 1583 "examples/prompt.ml" 51 1577 1634
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 52 1636 1642 "examples/prompt.ml" 52 1636 1647
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"examples/prompt.ml" 52 1636 1648 "examples/prompt.ml" 52 1636 1654
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"examples/prompt.ml" 52 1636 1642 "examples/prompt.ml" 52 1636 1654
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 53 1656 1662 "examples/prompt.ml" 53 1656 1679
+type(
+  'a -> unit
+)
+ident(
+  int_ref dump_notification "examples/prompt.ml" 48 1494 1502 "examples/prompt.ml" 48 1494 1519
+)
+"examples/prompt.ml" 53 1656 1680 "examples/prompt.ml" 53 1656 1684
+type(
+  'a
+)
+ident(
+  int_ref conn "examples/prompt.ml" 48 1494 1520 "examples/prompt.ml" 48 1494 1524
+)
+"examples/prompt.ml" 53 1656 1662 "examples/prompt.ml" 53 1656 1684
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 52 1636 1642 "examples/prompt.ml" 53 1656 1684
+type(
+  unit
+)
+"examples/prompt.ml" 51 1577 1583 "examples/prompt.ml" 53 1656 1684
+type(
+  unit
+)
+"examples/prompt.ml" 54 1685 1689 "examples/prompt.ml" 54 1685 1693
+type(
+  (string * int) option
+)
+"examples/prompt.ml" 54 1685 1697 "examples/prompt.ml" 54 1685 1699
+type(
+  unit
+)
+"examples/prompt.ml" 49 1527 1529 "examples/prompt.ml" 54 1685 1699
+type(
+  unit
+)
+"examples/prompt.ml" 56 1701 1705 "examples/prompt.ml" 56 1701 1713
+type(
+  < consume_input : unit; notifies : (string * int) option; socket : 'a; .. > ->
+  unit
+)
+ident(
+  def listener "examples/prompt.ml" 68 2021 2021 --
+)
+"examples/prompt.ml" 56 1701 1714 "examples/prompt.ml" 56 1701 1718
+type(
+  < consume_input : unit; notifies : (string * int) option; socket : 'a; .. >
+  as 'b
+)
+ident(
+  def conn "examples/prompt.ml" 57 1721 1723 "examples/prompt.ml" 66 1974 2019
+)
+"examples/prompt.ml" 58 1727 1737 "examples/prompt.ml" 58 1727 1741
+type(
+  bool
+)
+"examples/prompt.ml" 59 1745 1755 "examples/prompt.ml" 59 1745 1761
+type(
+  Unix.file_descr
+)
+ident(
+  def socket "examples/prompt.ml" 60 1807 1813 "examples/prompt.ml" 62 1880 1908
+)
+"examples/prompt.ml" 59 1745 1782 "examples/prompt.ml" 59 1745 1791
+type(
+  'a -> Unix.file_descr
+)
+ident(
+  ext_ref Obj.magic
+)
+"examples/prompt.ml" 59 1745 1792 "examples/prompt.ml" 59 1745 1796
+type(
+  'b
+)
+ident(
+  int_ref conn "examples/prompt.ml" 56 1701 1714 "examples/prompt.ml" 56 1701 1718
+)
+"examples/prompt.ml" 59 1745 1792 "examples/prompt.ml" 59 1745 1803
+call(
+  stack
+)
+type(
+  'a
+)
+"examples/prompt.ml" 59 1745 1782 "examples/prompt.ml" 59 1745 1803
+type(
+  Unix.file_descr
+)
+type(
+  Unix.file_descr
+)
+"examples/prompt.ml" 60 1807 1817 "examples/prompt.ml" 60 1807 1818
+type(
+  Unix.file_descr list * Unix.file_descr list * Unix.file_descr list
+)
+"examples/prompt.ml" 60 1807 1821 "examples/prompt.ml" 60 1807 1832
+type(
+  Unix.file_descr list ->
+  Unix.file_descr list ->
+  Unix.file_descr list ->
+  float -> Unix.file_descr list * Unix.file_descr list * Unix.file_descr list
+)
+ident(
+  ext_ref Unix.select
+)
+"examples/prompt.ml" 60 1807 1834 "examples/prompt.ml" 60 1807 1840
+type(
+  Unix.file_descr
+)
+ident(
+  int_ref socket "examples/prompt.ml" 59 1745 1755 "examples/prompt.ml" 59 1745 1761
+)
+"examples/prompt.ml" 60 1807 1833 "examples/prompt.ml" 60 1807 1841
+type(
+  Unix.file_descr list
+)
+"examples/prompt.ml" 60 1807 1842 "examples/prompt.ml" 60 1807 1844
+type(
+  Unix.file_descr list
+)
+"examples/prompt.ml" 60 1807 1845 "examples/prompt.ml" 60 1807 1847
+type(
+  Unix.file_descr list
+)
+"examples/prompt.ml" 60 1807 1848 "examples/prompt.ml" 60 1807 1850
+type(
+  float
+)
+"examples/prompt.ml" 60 1807 1821 "examples/prompt.ml" 60 1807 1850
+call(
+  stack
+)
+type(
+  Unix.file_descr list * Unix.file_descr list * Unix.file_descr list
+)
+"examples/prompt.ml" 61 1854 1860 "examples/prompt.ml" 61 1854 1864
+type(
+  'b
+)
+ident(
+  int_ref conn "examples/prompt.ml" 56 1701 1714 "examples/prompt.ml" 56 1701 1718
+)
+"examples/prompt.ml" 61 1854 1860 "examples/prompt.ml" 61 1854 1878
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 62 1880 1886 "examples/prompt.ml" 62 1880 1903
+type(
+  'b -> unit
+)
+ident(
+  int_ref dump_notification "examples/prompt.ml" 48 1494 1502 "examples/prompt.ml" 48 1494 1519
+)
+"examples/prompt.ml" 62 1880 1904 "examples/prompt.ml" 62 1880 1908
+type(
+  'b
+)
+ident(
+  int_ref conn "examples/prompt.ml" 56 1701 1714 "examples/prompt.ml" 56 1701 1718
+)
+"examples/prompt.ml" 62 1880 1886 "examples/prompt.ml" 62 1880 1908
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 61 1854 1860 "examples/prompt.ml" 62 1880 1908
+type(
+  unit
+)
+"examples/prompt.ml" 60 1807 1813 "examples/prompt.ml" 62 1880 1908
+type(
+  unit
+)
+"examples/prompt.ml" 59 1745 1751 "examples/prompt.ml" 62 1880 1908
+type(
+  unit
+)
+"examples/prompt.ml" 58 1727 1731 "examples/prompt.ml" 63 1909 1917
+type(
+  unit
+)
+"examples/prompt.ml" 65 1925 1935 "examples/prompt.ml" 65 1925 1936
+type(
+  Postgresql.error
+)
+ident(
+  def e "examples/prompt.ml" 65 1925 1940 "examples/prompt.ml" 65 1925 1973
+)
+"examples/prompt.ml" 65 1925 1929 "examples/prompt.ml" 65 1925 1936
+type(
+  exn
+)
+"examples/prompt.ml" 65 1925 1940 "examples/prompt.ml" 65 1925 1953
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/prompt.ml" 65 1925 1955 "examples/prompt.ml" 65 1925 1970
+type(
+  Postgresql.error -> string
+)
+ident(
+  ext_ref Postgresql.string_of_error
+)
+"examples/prompt.ml" 65 1925 1971 "examples/prompt.ml" 65 1925 1972
+type(
+  Postgresql.error
+)
+ident(
+  int_ref e "examples/prompt.ml" 65 1925 1935 "examples/prompt.ml" 65 1925 1936
+)
+"examples/prompt.ml" 65 1925 1954 "examples/prompt.ml" 65 1925 1973
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 65 1925 1940 "examples/prompt.ml" 65 1925 1973
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 66 1974 1978 "examples/prompt.ml" 66 1974 1979
+type(
+  exn
+)
+ident(
+  def e "examples/prompt.ml" 66 1974 1983 "examples/prompt.ml" 66 1974 2019
+)
+"examples/prompt.ml" 66 1974 1983 "examples/prompt.ml" 66 1974 1996
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/prompt.ml" 66 1974 1998 "examples/prompt.ml" 66 1974 2016
+type(
+  exn -> string
+)
+ident(
+  ext_ref Printexc.to_string
+)
+"examples/prompt.ml" 66 1974 2017 "examples/prompt.ml" 66 1974 2018
+type(
+  exn
+)
+ident(
+  int_ref e "examples/prompt.ml" 66 1974 1978 "examples/prompt.ml" 66 1974 1979
+)
+"examples/prompt.ml" 66 1974 1997 "examples/prompt.ml" 66 1974 2019
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 66 1974 1983 "examples/prompt.ml" 66 1974 2019
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 57 1721 1723 "examples/prompt.ml" 66 1974 2019
+type(
+  unit
+)
+"examples/prompt.ml" 68 2021 2025 "examples/prompt.ml" 68 2021 2029
+type(
+  unit -> unit
+)
+ident(
+  def main "examples/prompt.ml" 85 2487 2487 --
+)
+"examples/prompt.ml" 68 2021 2030 "examples/prompt.ml" 68 2021 2032
+type(
+  unit
+)
+"examples/prompt.ml" 69 2035 2040 "examples/prompt.ml" 69 2035 2052
+type(
+  Obj.t -> bool
+)
+ident(
+  ext_ref Obj.is_block
+)
+"examples/prompt.ml" 69 2035 2054 "examples/prompt.ml" 69 2035 2062
+type(
+  Unix.file_descr -> Obj.t
+)
+ident(
+  ext_ref Obj.repr
+)
+"examples/prompt.ml" 69 2035 2063 "examples/prompt.ml" 69 2035 2073
+type(
+  Unix.file_descr
+)
+ident(
+  ext_ref Unix.stdin
+)
+"examples/prompt.ml" 69 2035 2053 "examples/prompt.ml" 69 2035 2074
+type(
+  Obj.t
+)
+"examples/prompt.ml" 69 2035 2040 "examples/prompt.ml" 69 2035 2074
+type(
+  bool
+)
+"examples/prompt.ml" 70 2080 2084 "examples/prompt.ml" 70 2080 2092
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"examples/prompt.ml" 70 2080 2093 "examples/prompt.ml" 70 2080 2116
+type(
+  string
+)
+"examples/prompt.ml" 70 2080 2084 "examples/prompt.ml" 70 2080 2116
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 69 2035 2037 "examples/prompt.ml" 70 2080 2116
+type(
+  unit
+)
+"examples/prompt.ml" 71 2118 2124 "examples/prompt.ml" 71 2118 2128
+type(
+  Postgresql.connection
+)
+"examples/prompt.ml" 71 2118 2131 "examples/prompt.ml" 71 2118 2145
+type(
+  ?host:string ->
+  ?hostaddr:string ->
+  ?port:string ->
+  ?dbname:string ->
+  ?user:string ->
+  ?password:string ->
+  ?options:string ->
+  ?tty:string ->
+  ?requiressl:string -> ?conninfo:string -> unit -> Postgresql.connection
+)
+"examples/prompt.ml" 71 2118 2147 "examples/prompt.ml" 71 2118 2155
+type(
+  string
+)
+ident(
+  int_ref conninfo "examples/prompt.ml" 11 179 183 "examples/prompt.ml" 11 179 191
+)
+"examples/prompt.ml" 71 2118 2156 "examples/prompt.ml" 71 2118 2158
+type(
+  unit
+)
+"examples/prompt.ml" 71 2118 2131 "examples/prompt.ml" 71 2118 2158
+call(
+  stack
+)
+type(
+  Postgresql.connection
+)
+"examples/prompt.ml" 72 2162 2164 "examples/prompt.ml" 72 2162 2179
+type(
+  Postgresql.connection -> unit
+)
+ident(
+  int_ref print_conn_info "examples/prompt.ml" 13 208 212 "examples/prompt.ml" 13 208 227
+)
+"examples/prompt.ml" 72 2162 2180 "examples/prompt.ml" 72 2162 2184
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref conn "examples/prompt.ml" 71 2118 2124 "examples/prompt.ml" 71 2118 2128
+)
+"examples/prompt.ml" 72 2162 2164 "examples/prompt.ml" 72 2162 2184
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 73 2186 2188 "examples/prompt.ml" 73 2186 2193
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"examples/prompt.ml" 73 2186 2194 "examples/prompt.ml" 73 2186 2200
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"examples/prompt.ml" 73 2186 2188 "examples/prompt.ml" 73 2186 2200
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 74 2202 2204 "examples/prompt.ml" 74 2202 2208
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref conn "examples/prompt.ml" 71 2118 2124 "examples/prompt.ml" 71 2118 2128
+)
+"examples/prompt.ml" 74 2202 2204 "examples/prompt.ml" 74 2202 2229
+call(
+  stack
+)
+type(
+  (string -> unit) -> unit
+)
+"examples/prompt.ml" 74 2202 2235 "examples/prompt.ml" 74 2202 2236
+type(
+  string
+)
+ident(
+  def s "examples/prompt.ml" 74 2202 2240 "examples/prompt.ml" 74 2202 2275
+)
+"examples/prompt.ml" 74 2202 2240 "examples/prompt.ml" 74 2202 2247
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.eprintf
+)
+"examples/prompt.ml" 74 2202 2248 "examples/prompt.ml" 74 2202 2273
+type(
+  (string -> unit, out_channel, unit) format
+)
+"examples/prompt.ml" 74 2202 2274 "examples/prompt.ml" 74 2202 2275
+type(
+  string
+)
+ident(
+  int_ref s "examples/prompt.ml" 74 2202 2235 "examples/prompt.ml" 74 2202 2236
+)
+"examples/prompt.ml" 74 2202 2240 "examples/prompt.ml" 74 2202 2275
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 74 2202 2230 "examples/prompt.ml" 74 2202 2276
+type(
+  string -> unit
+)
+"examples/prompt.ml" 74 2202 2204 "examples/prompt.ml" 74 2202 2276
+type(
+  unit
+)
+"examples/prompt.ml" 75 2278 2284 "examples/prompt.ml" 75 2278 2285
+type(
+  Thread.t
+)
+"examples/prompt.ml" 75 2278 2288 "examples/prompt.ml" 75 2278 2301
+type(
+  (Postgresql.connection -> unit) -> Postgresql.connection -> Thread.t
+)
+ident(
+  ext_ref Thread.create
+)
+"examples/prompt.ml" 75 2278 2302 "examples/prompt.ml" 75 2278 2310
+type(
+  Postgresql.connection -> unit
+)
+ident(
+  int_ref listener "examples/prompt.ml" 56 1701 1705 "examples/prompt.ml" 56 1701 1713
+)
+"examples/prompt.ml" 75 2278 2311 "examples/prompt.ml" 75 2278 2315
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref conn "examples/prompt.ml" 71 2118 2124 "examples/prompt.ml" 71 2118 2128
+)
+"examples/prompt.ml" 75 2278 2288 "examples/prompt.ml" 75 2278 2315
+call(
+  stack
+)
+type(
+  Thread.t
+)
+"examples/prompt.ml" 77 2325 2335 "examples/prompt.ml" 77 2325 2339
+type(
+  bool
+)
+"examples/prompt.ml" 78 2343 2349 "examples/prompt.ml" 78 2343 2361
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"examples/prompt.ml" 78 2343 2362 "examples/prompt.ml" 78 2343 2366
+type(
+  string
+)
+"examples/prompt.ml" 78 2343 2349 "examples/prompt.ml" 78 2343 2366
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 79 2368 2378 "examples/prompt.ml" 79 2368 2379
+type(
+  string
+)
+ident(
+  def s "examples/prompt.ml" 80 2398 2404 "examples/prompt.ml" 81 2423 2442
+)
+"examples/prompt.ml" 79 2368 2382 "examples/prompt.ml" 79 2368 2391
+type(
+  unit -> string
+)
+ident(
+  ext_ref Pervasives.read_line
+)
+"examples/prompt.ml" 79 2368 2392 "examples/prompt.ml" 79 2368 2394
+type(
+  unit
+)
+"examples/prompt.ml" 79 2368 2382 "examples/prompt.ml" 79 2368 2394
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 80 2398 2404 "examples/prompt.ml" 80 2398 2408
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref conn "examples/prompt.ml" 71 2118 2124 "examples/prompt.ml" 71 2118 2128
+)
+"examples/prompt.ml" 80 2398 2404 "examples/prompt.ml" 80 2398 2419
+call(
+  stack
+)
+type(
+  ?params:string array -> ?binary_params:bool array -> string -> unit
+)
+"examples/prompt.ml" 80 2398 2420 "examples/prompt.ml" 80 2398 2421
+type(
+  string
+)
+ident(
+  int_ref s "examples/prompt.ml" 79 2368 2378 "examples/prompt.ml" 79 2368 2379
+)
+"examples/prompt.ml" 80 2398 2404 "examples/prompt.ml" 80 2398 2421
+type(
+  unit
+)
+"examples/prompt.ml" 81 2423 2429 "examples/prompt.ml" 81 2423 2437
+type(
+  Postgresql.connection -> unit
+)
+ident(
+  int_ref dump_res "examples/prompt.ml" 43 1361 1369 "examples/prompt.ml" 43 1361 1377
+)
+"examples/prompt.ml" 81 2423 2438 "examples/prompt.ml" 81 2423 2442
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref conn "examples/prompt.ml" 71 2118 2124 "examples/prompt.ml" 71 2118 2128
+)
+"examples/prompt.ml" 81 2423 2429 "examples/prompt.ml" 81 2423 2442
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 80 2398 2404 "examples/prompt.ml" 81 2423 2442
+type(
+  unit
+)
+"examples/prompt.ml" 79 2368 2374 "examples/prompt.ml" 81 2423 2442
+type(
+  unit
+)
+"examples/prompt.ml" 78 2343 2349 "examples/prompt.ml" 81 2423 2442
+type(
+  unit
+)
+"examples/prompt.ml" 77 2325 2329 "examples/prompt.ml" 82 2443 2451
+type(
+  unit
+)
+"examples/prompt.ml" 83 2452 2459 "examples/prompt.ml" 83 2452 2470
+type(
+  exn
+)
+"examples/prompt.ml" 83 2452 2474 "examples/prompt.ml" 83 2452 2478
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref conn "examples/prompt.ml" 71 2118 2124 "examples/prompt.ml" 71 2118 2128
+)
+"examples/prompt.ml" 83 2452 2474 "examples/prompt.ml" 83 2452 2485
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/prompt.ml" 76 2319 2321 "examples/prompt.ml" 83 2452 2485
+type(
+  unit
+)
+"examples/prompt.ml" 75 2278 2280 "examples/prompt.ml" 83 2452 2485
+type(
+  unit
+)
+"examples/prompt.ml" 74 2202 2204 "examples/prompt.ml" 83 2452 2485
+type(
+  unit
+)
+"examples/prompt.ml" 73 2186 2188 "examples/prompt.ml" 83 2452 2485
+type(
+  unit
+)
+"examples/prompt.ml" 72 2162 2164 "examples/prompt.ml" 83 2452 2485
+type(
+  unit
+)
+"examples/prompt.ml" 71 2118 2120 "examples/prompt.ml" 83 2452 2485
+type(
+  unit
+)
+"examples/prompt.ml" 69 2035 2037 "examples/prompt.ml" 83 2452 2485
+type(
+  unit
+)
+"examples/prompt.ml" 86 2495 2501 "examples/prompt.ml" 86 2495 2505
+type(
+  unit -> unit
+)
+ident(
+  int_ref main "examples/prompt.ml" 68 2021 2025 "examples/prompt.ml" 68 2021 2029
+)
+"examples/prompt.ml" 86 2495 2506 "examples/prompt.ml" 86 2495 2508
+type(
+  unit
+)
+"examples/prompt.ml" 86 2495 2501 "examples/prompt.ml" 86 2495 2508
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 87 2514 2524 "examples/prompt.ml" 87 2514 2525
+type(
+  Postgresql.error
+)
+ident(
+  def e "examples/prompt.ml" 87 2514 2529 "examples/prompt.ml" 87 2514 2562
+)
+"examples/prompt.ml" 87 2514 2518 "examples/prompt.ml" 87 2514 2525
+type(
+  exn
+)
+"examples/prompt.ml" 87 2514 2529 "examples/prompt.ml" 87 2514 2542
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/prompt.ml" 87 2514 2544 "examples/prompt.ml" 87 2514 2559
+type(
+  Postgresql.error -> string
+)
+ident(
+  ext_ref Postgresql.string_of_error
+)
+"examples/prompt.ml" 87 2514 2560 "examples/prompt.ml" 87 2514 2561
+type(
+  Postgresql.error
+)
+ident(
+  int_ref e "examples/prompt.ml" 87 2514 2524 "examples/prompt.ml" 87 2514 2525
+)
+"examples/prompt.ml" 87 2514 2543 "examples/prompt.ml" 87 2514 2562
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 87 2514 2529 "examples/prompt.ml" 87 2514 2562
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 88 2563 2567 "examples/prompt.ml" 88 2563 2568
+type(
+  exn
+)
+ident(
+  def e "examples/prompt.ml" 88 2563 2572 "examples/prompt.ml" 88 2563 2608
+)
+"examples/prompt.ml" 88 2563 2572 "examples/prompt.ml" 88 2563 2585
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/prompt.ml" 88 2563 2587 "examples/prompt.ml" 88 2563 2605
+type(
+  exn -> string
+)
+ident(
+  ext_ref Printexc.to_string
+)
+"examples/prompt.ml" 88 2563 2606 "examples/prompt.ml" 88 2563 2607
+type(
+  exn
+)
+ident(
+  int_ref e "examples/prompt.ml" 88 2563 2567 "examples/prompt.ml" 88 2563 2568
+)
+"examples/prompt.ml" 88 2563 2586 "examples/prompt.ml" 88 2563 2608
+call(
+  stack
+)
+type(
+  string
+)
+"examples/prompt.ml" 88 2563 2572 "examples/prompt.ml" 88 2563 2608
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/prompt.ml" 86 2495 2497 "examples/prompt.ml" 88 2563 2608
+type(
+  unit
+)

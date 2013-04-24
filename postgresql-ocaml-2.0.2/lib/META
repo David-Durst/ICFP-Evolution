@@ -1,0 +1,12 @@
+# OASIS_START
+# DO NOT EDIT (digest: 067b5e28dc99e0a024e8611054b32a28)
+version = "2.0.2"
+description = "postgresql-ocaml - bindings to the PostgreSQL library"
+requires = "threads bigarray"
+archive(byte) = "postgresql.cma"
+archive(byte, plugin) = "postgresql.cma"
+archive(native) = "postgresql.cmxa"
+archive(native, plugin) = "postgresql.cmxs"
+exists_if = "postgresql.cma"
+# OASIS_STOP
+

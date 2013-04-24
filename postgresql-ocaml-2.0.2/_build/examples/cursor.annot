@@ -1,0 +1,777 @@
+"examples/cursor.ml" 6 90 95 "examples/cursor.ml" 6 90 107
+type(
+  string array -> int
+)
+ident(
+  ext_ref Array.length
+)
+"examples/cursor.ml" 6 90 108 "examples/cursor.ml" 6 90 116
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/cursor.ml" 6 90 95 "examples/cursor.ml" 6 90 116
+type(
+  int
+)
+"examples/cursor.ml" 6 90 117 "examples/cursor.ml" 6 90 119
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"examples/cursor.ml" 6 90 120 "examples/cursor.ml" 6 90 121
+type(
+  int
+)
+"examples/cursor.ml" 6 90 95 "examples/cursor.ml" 6 90 121
+type(
+  bool
+)
+"examples/cursor.ml" 7 129 133 "examples/cursor.ml" 7 129 146
+type(
+  (unit, out_channel, unit) format -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/cursor.ml" 7 129 147 "examples/cursor.ml" 10 263 313
+type(
+  (unit, out_channel, unit) format
+)
+"examples/cursor.ml" 7 129 133 "examples/cursor.ml" 10 263 313
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/cursor.ml" 11 315 319 "examples/cursor.ml" 11 315 323
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.exit
+)
+"examples/cursor.ml" 11 315 324 "examples/cursor.ml" 11 315 325
+type(
+  int
+)
+"examples/cursor.ml" 11 315 319 "examples/cursor.ml" 11 315 325
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/cursor.ml" 6 90 127 "examples/cursor.ml" 11 315 326
+type(
+  unit
+)
+"examples/cursor.ml" 6 90 92 "examples/cursor.ml" 11 315 326
+type(
+  unit
+)
+"examples/cursor.ml" 13 328 332 "examples/cursor.ml" 13 328 336
+type(
+  unit -> unit
+)
+ident(
+  def main "examples/cursor.ml" 33 990 990 --
+)
+"examples/cursor.ml" 13 328 337 "examples/cursor.ml" 13 328 339
+type(
+  unit
+)
+"examples/cursor.ml" 14 342 348 "examples/cursor.ml" 14 342 349
+type(
+  Postgresql.connection
+)
+"examples/cursor.ml" 14 342 352 "examples/cursor.ml" 14 342 366
+type(
+  ?host:string ->
+  ?hostaddr:string ->
+  ?port:string ->
+  ?dbname:string ->
+  ?user:string ->
+  ?password:string ->
+  ?options:string ->
+  ?tty:string ->
+  ?requiressl:string -> ?conninfo:string -> unit -> Postgresql.connection
+)
+"examples/cursor.ml" 14 342 377 "examples/cursor.ml" 14 342 385
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/cursor.ml" 14 342 387 "examples/cursor.ml" 14 342 388
+type(
+  int
+)
+"examples/cursor.ml" 14 342 377 "examples/cursor.ml" 14 342 389
+type(
+  string
+)
+"examples/cursor.ml" 14 342 390 "examples/cursor.ml" 14 342 392
+type(
+  unit
+)
+"examples/cursor.ml" 14 342 352 "examples/cursor.ml" 14 342 392
+call(
+  stack
+)
+type(
+  Postgresql.connection
+)
+"examples/cursor.ml" 15 396 398 "examples/cursor.ml" 15 396 404
+type(
+  Postgresql.result -> unit
+)
+ident(
+  ext_ref Pervasives.ignore
+)
+"examples/cursor.ml" 15 396 406 "examples/cursor.ml" 15 396 407
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/cursor.ml" 14 342 348 "examples/cursor.ml" 14 342 349
+)
+"examples/cursor.ml" 15 396 406 "examples/cursor.ml" 15 396 412
+call(
+  stack
+)
+type(
+  ?expect:Postgresql.result_status list ->
+  ?params:string array ->
+  ?binary_params:bool array -> string -> Postgresql.result
+)
+"examples/cursor.ml" 15 396 422 "examples/cursor.ml" 15 396 432
+type(
+  Postgresql.result_status
+)
+"examples/cursor.ml" 15 396 421 "examples/cursor.ml" 15 396 433
+type(
+  Postgresql.result_status list
+)
+"examples/cursor.ml" 15 396 434 "examples/cursor.ml" 15 396 441
+type(
+  string
+)
+"examples/cursor.ml" 15 396 405 "examples/cursor.ml" 15 396 442
+type(
+  Postgresql.result
+)
+"examples/cursor.ml" 15 396 398 "examples/cursor.ml" 15 396 442
+type(
+  unit
+)
+"examples/cursor.ml" 16 444 446 "examples/cursor.ml" 16 444 452
+type(
+  Postgresql.result -> unit
+)
+ident(
+  ext_ref Pervasives.ignore
+)
+"examples/cursor.ml" 17 455 459 "examples/cursor.ml" 17 455 460
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/cursor.ml" 14 342 348 "examples/cursor.ml" 14 342 349
+)
+"examples/cursor.ml" 17 455 459 "examples/cursor.ml" 17 455 465
+call(
+  stack
+)
+type(
+  ?expect:Postgresql.result_status list ->
+  ?params:string array ->
+  ?binary_params:bool array -> string -> Postgresql.result
+)
+"examples/cursor.ml" 18 466 481 "examples/cursor.ml" 18 466 491
+type(
+  Postgresql.result_status
+)
+"examples/cursor.ml" 18 466 480 "examples/cursor.ml" 18 466 492
+type(
+  Postgresql.result_status list
+)
+"examples/cursor.ml" 19 493 500 "examples/cursor.ml" 19 493 545
+type(
+  string
+)
+"examples/cursor.ml" 19 493 546 "examples/cursor.ml" 19 493 547
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"examples/cursor.ml" 19 493 548 "examples/cursor.ml" 19 493 556
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/cursor.ml" 19 493 558 "examples/cursor.ml" 19 493 559
+type(
+  int
+)
+"examples/cursor.ml" 19 493 548 "examples/cursor.ml" 19 493 560
+type(
+  string
+)
+"examples/cursor.ml" 19 493 499 "examples/cursor.ml" 19 493 561
+call(
+  stack
+)
+type(
+  string
+)
+"examples/cursor.ml" 16 444 453 "examples/cursor.ml" 19 493 562
+type(
+  Postgresql.result
+)
+"examples/cursor.ml" 16 444 446 "examples/cursor.ml" 19 493 562
+type(
+  unit
+)
+"examples/cursor.ml" 20 564 574 "examples/cursor.ml" 20 564 578
+type(
+  unit -> unit
+)
+"examples/cursor.ml" 20 564 579 "examples/cursor.ml" 20 564 581
+type(
+  unit
+)
+"examples/cursor.ml" 21 584 592 "examples/cursor.ml" 21 584 595
+type(
+  Postgresql.result
+)
+"examples/cursor.ml" 21 584 598 "examples/cursor.ml" 21 584 599
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/cursor.ml" 14 342 348 "examples/cursor.ml" 14 342 349
+)
+"examples/cursor.ml" 21 584 598 "examples/cursor.ml" 21 584 604
+call(
+  stack
+)
+type(
+  ?expect:Postgresql.result_status list ->
+  ?params:string array ->
+  ?binary_params:bool array -> string -> Postgresql.result
+)
+"examples/cursor.ml" 21 584 614 "examples/cursor.ml" 21 584 623
+type(
+  Postgresql.result_status
+)
+"examples/cursor.ml" 21 584 613 "examples/cursor.ml" 21 584 624
+type(
+  Postgresql.result_status list
+)
+"examples/cursor.ml" 21 584 625 "examples/cursor.ml" 21 584 645
+type(
+  string
+)
+"examples/cursor.ml" 21 584 598 "examples/cursor.ml" 21 584 645
+type(
+  Postgresql.result
+)
+"examples/cursor.ml" 22 649 656 "examples/cursor.ml" 22 649 659
+type(
+  Postgresql.result
+)
+ident(
+  int_ref res "examples/cursor.ml" 21 584 592 "examples/cursor.ml" 21 584 595
+)
+"examples/cursor.ml" 22 649 656 "examples/cursor.ml" 22 649 667
+call(
+  stack
+)
+type(
+  int
+)
+"examples/cursor.ml" 22 649 668 "examples/cursor.ml" 22 649 670
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"examples/cursor.ml" 22 649 671 "examples/cursor.ml" 22 649 672
+type(
+  int
+)
+"examples/cursor.ml" 22 649 656 "examples/cursor.ml" 22 649 672
+type(
+  bool
+)
+"examples/cursor.ml" 23 680 690 "examples/cursor.ml" 23 680 693
+type(
+  string array
+)
+"examples/cursor.ml" 23 680 696 "examples/cursor.ml" 23 680 699
+type(
+  Postgresql.result
+)
+ident(
+  int_ref res "examples/cursor.ml" 21 584 592 "examples/cursor.ml" 21 584 595
+)
+"examples/cursor.ml" 23 680 696 "examples/cursor.ml" 23 680 709
+call(
+  stack
+)
+type(
+  int -> string array
+)
+"examples/cursor.ml" 23 680 710 "examples/cursor.ml" 23 680 711
+type(
+  int
+)
+"examples/cursor.ml" 23 680 696 "examples/cursor.ml" 23 680 711
+type(
+  string array
+)
+"examples/cursor.ml" 24 715 721 "examples/cursor.ml" 24 715 733
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"examples/cursor.ml" 24 715 734 "examples/cursor.ml" 24 715 737
+type(
+  string array
+)
+ident(
+  int_ref tpl "examples/cursor.ml" 23 680 690 "examples/cursor.ml" 23 680 693
+)
+"examples/cursor.ml" 24 715 739 "examples/cursor.ml" 24 715 740
+type(
+  int
+)
+"examples/cursor.ml" 24 715 734 "examples/cursor.ml" 24 715 741
+type(
+  string
+)
+"examples/cursor.ml" 24 715 721 "examples/cursor.ml" 24 715 741
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/cursor.ml" 25 743 757 "examples/cursor.ml" 25 743 758
+type(
+  int
+)
+"examples/cursor.ml" 25 743 762 "examples/cursor.ml" 25 743 774
+type(
+  string array -> int
+)
+ident(
+  ext_ref Array.length
+)
+"examples/cursor.ml" 25 743 775 "examples/cursor.ml" 25 743 778
+type(
+  string array
+)
+ident(
+  int_ref tpl "examples/cursor.ml" 23 680 690 "examples/cursor.ml" 23 680 693
+)
+"examples/cursor.ml" 25 743 762 "examples/cursor.ml" 25 743 778
+type(
+  int
+)
+"examples/cursor.ml" 25 743 779 "examples/cursor.ml" 25 743 780
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"examples/cursor.ml" 25 743 781 "examples/cursor.ml" 25 743 782
+type(
+  int
+)
+"examples/cursor.ml" 25 743 762 "examples/cursor.ml" 25 743 782
+type(
+  int
+)
+"examples/cursor.ml" 25 743 786 "examples/cursor.ml" 25 743 798
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"examples/cursor.ml" 25 743 800 "examples/cursor.ml" 25 743 803
+type(
+  string
+)
+"examples/cursor.ml" 25 743 804 "examples/cursor.ml" 25 743 805
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"examples/cursor.ml" 25 743 806 "examples/cursor.ml" 25 743 809
+type(
+  string array
+)
+ident(
+  int_ref tpl "examples/cursor.ml" 23 680 690 "examples/cursor.ml" 23 680 693
+)
+"examples/cursor.ml" 25 743 811 "examples/cursor.ml" 25 743 812
+type(
+  int
+)
+"examples/cursor.ml" 25 743 806 "examples/cursor.ml" 25 743 813
+type(
+  string
+)
+"examples/cursor.ml" 25 743 799 "examples/cursor.ml" 25 743 814
+call(
+  stack
+)
+type(
+  string
+)
+"examples/cursor.ml" 25 743 786 "examples/cursor.ml" 25 743 814
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/cursor.ml" 25 743 749 "examples/cursor.ml" 25 743 819
+type(
+  unit
+)
+"examples/cursor.ml" 26 821 827 "examples/cursor.ml" 26 821 840
+type(
+  unit -> unit
+)
+ident(
+  ext_ref Pervasives.print_newline
+)
+"examples/cursor.ml" 26 821 841 "examples/cursor.ml" 26 821 843
+type(
+  unit
+)
+"examples/cursor.ml" 26 821 827 "examples/cursor.ml" 26 821 843
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/cursor.ml" 27 845 851 "examples/cursor.ml" 27 845 855
+type(
+  unit -> unit
+)
+ident(
+  int_ref loop "examples/cursor.ml" 20 564 574 "examples/cursor.ml" 20 564 578
+)
+"examples/cursor.ml" 27 845 856 "examples/cursor.ml" 27 845 858
+type(
+  unit
+)
+"examples/cursor.ml" 27 845 851 "examples/cursor.ml" 27 845 858
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/cursor.ml" 26 821 827 "examples/cursor.ml" 27 845 858
+type(
+  unit
+)
+"examples/cursor.ml" 25 743 749 "examples/cursor.ml" 27 845 858
+type(
+  unit
+)
+"examples/cursor.ml" 24 715 721 "examples/cursor.ml" 27 845 858
+type(
+  unit
+)
+"examples/cursor.ml" 22 649 678 "examples/cursor.ml" 27 845 859
+type(
+  unit
+)
+"examples/cursor.ml" 22 649 653 "examples/cursor.ml" 27 845 859
+type(
+  unit
+)
+"examples/cursor.ml" 21 584 588 "examples/cursor.ml" 27 845 859
+type(
+  unit
+)
+"examples/cursor.ml" 28 863 865 "examples/cursor.ml" 28 863 869
+type(
+  unit -> unit
+)
+ident(
+  int_ref loop "examples/cursor.ml" 20 564 574 "examples/cursor.ml" 20 564 578
+)
+"examples/cursor.ml" 28 863 870 "examples/cursor.ml" 28 863 872
+type(
+  unit
+)
+"examples/cursor.ml" 28 863 865 "examples/cursor.ml" 28 863 872
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/cursor.ml" 29 874 876 "examples/cursor.ml" 29 874 882
+type(
+  Postgresql.result -> unit
+)
+ident(
+  ext_ref Pervasives.ignore
+)
+"examples/cursor.ml" 29 874 884 "examples/cursor.ml" 29 874 885
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/cursor.ml" 14 342 348 "examples/cursor.ml" 14 342 349
+)
+"examples/cursor.ml" 29 874 884 "examples/cursor.ml" 29 874 890
+call(
+  stack
+)
+type(
+  ?expect:Postgresql.result_status list ->
+  ?params:string array ->
+  ?binary_params:bool array -> string -> Postgresql.result
+)
+"examples/cursor.ml" 29 874 900 "examples/cursor.ml" 29 874 910
+type(
+  Postgresql.result_status
+)
+"examples/cursor.ml" 29 874 899 "examples/cursor.ml" 29 874 911
+type(
+  Postgresql.result_status list
+)
+"examples/cursor.ml" 29 874 912 "examples/cursor.ml" 29 874 929
+type(
+  string
+)
+"examples/cursor.ml" 29 874 883 "examples/cursor.ml" 29 874 930
+type(
+  Postgresql.result
+)
+"examples/cursor.ml" 29 874 876 "examples/cursor.ml" 29 874 930
+type(
+  unit
+)
+"examples/cursor.ml" 30 932 934 "examples/cursor.ml" 30 932 940
+type(
+  Postgresql.result -> unit
+)
+ident(
+  ext_ref Pervasives.ignore
+)
+"examples/cursor.ml" 30 932 942 "examples/cursor.ml" 30 932 943
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/cursor.ml" 14 342 348 "examples/cursor.ml" 14 342 349
+)
+"examples/cursor.ml" 30 932 942 "examples/cursor.ml" 30 932 948
+call(
+  stack
+)
+type(
+  ?expect:Postgresql.result_status list ->
+  ?params:string array ->
+  ?binary_params:bool array -> string -> Postgresql.result
+)
+"examples/cursor.ml" 30 932 958 "examples/cursor.ml" 30 932 968
+type(
+  Postgresql.result_status
+)
+"examples/cursor.ml" 30 932 957 "examples/cursor.ml" 30 932 969
+type(
+  Postgresql.result_status list
+)
+"examples/cursor.ml" 30 932 970 "examples/cursor.ml" 30 932 975
+type(
+  string
+)
+"examples/cursor.ml" 30 932 941 "examples/cursor.ml" 30 932 976
+type(
+  Postgresql.result
+)
+"examples/cursor.ml" 30 932 934 "examples/cursor.ml" 30 932 976
+type(
+  unit
+)
+"examples/cursor.ml" 31 978 980 "examples/cursor.ml" 31 978 981
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/cursor.ml" 14 342 348 "examples/cursor.ml" 14 342 349
+)
+"examples/cursor.ml" 31 978 980 "examples/cursor.ml" 31 978 988
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/cursor.ml" 30 932 934 "examples/cursor.ml" 31 978 988
+type(
+  unit
+)
+"examples/cursor.ml" 29 874 876 "examples/cursor.ml" 31 978 988
+type(
+  unit
+)
+"examples/cursor.ml" 28 863 865 "examples/cursor.ml" 31 978 988
+type(
+  unit
+)
+"examples/cursor.ml" 20 564 566 "examples/cursor.ml" 31 978 988
+type(
+  unit
+)
+"examples/cursor.ml" 16 444 446 "examples/cursor.ml" 31 978 988
+type(
+  unit
+)
+"examples/cursor.ml" 15 396 398 "examples/cursor.ml" 31 978 988
+type(
+  unit
+)
+"examples/cursor.ml" 14 342 344 "examples/cursor.ml" 31 978 988
+type(
+  unit
+)
+"examples/cursor.ml" 34 998 1004 "examples/cursor.ml" 34 998 1008
+type(
+  unit -> unit
+)
+ident(
+  int_ref main "examples/cursor.ml" 13 328 332 "examples/cursor.ml" 13 328 336
+)
+"examples/cursor.ml" 34 998 1009 "examples/cursor.ml" 34 998 1011
+type(
+  unit
+)
+"examples/cursor.ml" 34 998 1004 "examples/cursor.ml" 34 998 1011
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/cursor.ml" 35 1017 1027 "examples/cursor.ml" 35 1017 1028
+type(
+  Postgresql.error
+)
+ident(
+  def e "examples/cursor.ml" 35 1017 1032 "examples/cursor.ml" 35 1017 1065
+)
+"examples/cursor.ml" 35 1017 1021 "examples/cursor.ml" 35 1017 1028
+type(
+  exn
+)
+"examples/cursor.ml" 35 1017 1032 "examples/cursor.ml" 35 1017 1045
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/cursor.ml" 35 1017 1047 "examples/cursor.ml" 35 1017 1062
+type(
+  Postgresql.error -> string
+)
+ident(
+  ext_ref Postgresql.string_of_error
+)
+"examples/cursor.ml" 35 1017 1063 "examples/cursor.ml" 35 1017 1064
+type(
+  Postgresql.error
+)
+ident(
+  int_ref e "examples/cursor.ml" 35 1017 1027 "examples/cursor.ml" 35 1017 1028
+)
+"examples/cursor.ml" 35 1017 1046 "examples/cursor.ml" 35 1017 1065
+call(
+  stack
+)
+type(
+  string
+)
+"examples/cursor.ml" 35 1017 1032 "examples/cursor.ml" 35 1017 1065
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/cursor.ml" 36 1066 1070 "examples/cursor.ml" 36 1066 1071
+type(
+  exn
+)
+ident(
+  def e "examples/cursor.ml" 36 1066 1075 "examples/cursor.ml" 36 1066 1111
+)
+"examples/cursor.ml" 36 1066 1075 "examples/cursor.ml" 36 1066 1088
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/cursor.ml" 36 1066 1090 "examples/cursor.ml" 36 1066 1108
+type(
+  exn -> string
+)
+ident(
+  ext_ref Printexc.to_string
+)
+"examples/cursor.ml" 36 1066 1109 "examples/cursor.ml" 36 1066 1110
+type(
+  exn
+)
+ident(
+  int_ref e "examples/cursor.ml" 36 1066 1070 "examples/cursor.ml" 36 1066 1071
+)
+"examples/cursor.ml" 36 1066 1089 "examples/cursor.ml" 36 1066 1111
+call(
+  stack
+)
+type(
+  string
+)
+"examples/cursor.ml" 36 1066 1075 "examples/cursor.ml" 36 1066 1111
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/cursor.ml" 34 998 1000 "examples/cursor.ml" 36 1066 1111
+type(
+  unit
+)

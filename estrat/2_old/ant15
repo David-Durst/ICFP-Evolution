@@ -1,0 +1,17 @@
+Move 2 0
+PickUp 8 0
+Flip 3 4 5
+Turn Left 0
+Flip 2 6 7
+Turn Right 0
+Move 0 3
+Sense Ahead 9 11 Home
+Move 10 8
+Turn Left 8
+Sense 5 8 FoeHome
+Turn Right 8
+Sense 5 10 Friend
+Move 8 11
+Move 13 8
+Drop 8
+Flip 2 3 14

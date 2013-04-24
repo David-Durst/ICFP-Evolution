@@ -451,7 +451,9 @@ let generate_ant color p =
 let make_ants_array file_red file_black machine_reader =
     List.map (fun a -> 
         match a.color with 
-        | Red -> a.state_machine <- machine_reader file_red
-        | Black -> a.state_machine <- machine_reader file_black
+        | Red -> a.state_machine <- machine_reader (file_red ^ 
+            string_of_int (Random.int 50) )
+        | Black -> a.state_machine <- machine_reader (file_black ^
+            string_of_int (Random.int 50) )
     ) !ant_list;
     Array.of_list (List.rev !ant_list)

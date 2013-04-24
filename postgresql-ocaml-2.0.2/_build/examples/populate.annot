@@ -1,0 +1,374 @@
+"examples/populate.ml" 6 106 111 "examples/populate.ml" 6 106 123
+type(
+  string array -> int
+)
+ident(
+  ext_ref Array.length
+)
+"examples/populate.ml" 6 106 124 "examples/populate.ml" 6 106 132
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/populate.ml" 6 106 111 "examples/populate.ml" 6 106 132
+type(
+  int
+)
+"examples/populate.ml" 6 106 133 "examples/populate.ml" 6 106 135
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"examples/populate.ml" 6 106 136 "examples/populate.ml" 6 106 137
+type(
+  int
+)
+"examples/populate.ml" 6 106 111 "examples/populate.ml" 6 106 137
+type(
+  bool
+)
+"examples/populate.ml" 7 145 149 "examples/populate.ml" 7 145 162
+type(
+  (unit, out_channel, unit) format -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"examples/populate.ml" 7 145 163 "examples/populate.ml" 10 281 315
+type(
+  (unit, out_channel, unit) format
+)
+"examples/populate.ml" 7 145 149 "examples/populate.ml" 10 281 315
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/populate.ml" 11 317 321 "examples/populate.ml" 11 317 325
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.exit
+)
+"examples/populate.ml" 11 317 326 "examples/populate.ml" 11 317 327
+type(
+  int
+)
+"examples/populate.ml" 11 317 321 "examples/populate.ml" 11 317 327
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/populate.ml" 6 106 143 "examples/populate.ml" 11 317 328
+type(
+  unit
+)
+"examples/populate.ml" 6 106 108 "examples/populate.ml" 11 317 328
+type(
+  unit
+)
+"examples/populate.ml" 13 330 334 "examples/populate.ml" 13 330 338
+type(
+  unit -> unit
+)
+ident(
+  def main "examples/populate.ml" 19 516 516 --
+)
+"examples/populate.ml" 13 330 339 "examples/populate.ml" 13 330 341
+type(
+  unit
+)
+"examples/populate.ml" 14 344 350 "examples/populate.ml" 14 344 351
+type(
+  Postgresql.connection
+)
+"examples/populate.ml" 14 344 354 "examples/populate.ml" 14 344 368
+type(
+  ?host:string ->
+  ?hostaddr:string ->
+  ?port:string ->
+  ?dbname:string ->
+  ?user:string ->
+  ?password:string ->
+  ?options:string ->
+  ?tty:string ->
+  ?requiressl:string -> ?conninfo:string -> unit -> Postgresql.connection
+)
+"examples/populate.ml" 14 344 379 "examples/populate.ml" 14 344 387
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/populate.ml" 14 344 389 "examples/populate.ml" 14 344 390
+type(
+  int
+)
+"examples/populate.ml" 14 344 379 "examples/populate.ml" 14 344 391
+type(
+  string
+)
+"examples/populate.ml" 14 344 392 "examples/populate.ml" 14 344 394
+type(
+  unit
+)
+"examples/populate.ml" 14 344 354 "examples/populate.ml" 14 344 394
+call(
+  stack
+)
+type(
+  Postgresql.connection
+)
+"examples/populate.ml" 15 398 404 "examples/populate.ml" 15 398 405
+type(
+  Postgresql.result
+)
+"examples/populate.ml" 15 398 408 "examples/populate.ml" 15 398 409
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/populate.ml" 14 344 350 "examples/populate.ml" 14 344 351
+)
+"examples/populate.ml" 15 398 408 "examples/populate.ml" 15 398 414
+call(
+  stack
+)
+type(
+  ?expect:Postgresql.result_status list ->
+  ?params:string array ->
+  ?binary_params:bool array -> string -> Postgresql.result
+)
+"examples/populate.ml" 15 398 424 "examples/populate.ml" 15 398 431
+type(
+  Postgresql.result_status
+)
+"examples/populate.ml" 15 398 423 "examples/populate.ml" 15 398 432
+type(
+  Postgresql.result_status list
+)
+"examples/populate.ml" 15 398 434 "examples/populate.ml" 15 398 441
+type(
+  string
+)
+"examples/populate.ml" 15 398 442 "examples/populate.ml" 15 398 443
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"examples/populate.ml" 15 398 444 "examples/populate.ml" 15 398 452
+type(
+  string array
+)
+ident(
+  ext_ref Sys.argv
+)
+"examples/populate.ml" 15 398 454 "examples/populate.ml" 15 398 455
+type(
+  int
+)
+"examples/populate.ml" 15 398 444 "examples/populate.ml" 15 398 456
+type(
+  string
+)
+"examples/populate.ml" 15 398 457 "examples/populate.ml" 15 398 458
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"examples/populate.ml" 15 398 459 "examples/populate.ml" 15 398 472
+type(
+  string
+)
+"examples/populate.ml" 15 398 444 "examples/populate.ml" 15 398 472
+call(
+  stack
+)
+type(
+  string
+)
+"examples/populate.ml" 15 398 433 "examples/populate.ml" 15 398 473
+call(
+  stack
+)
+type(
+  string
+)
+"examples/populate.ml" 15 398 408 "examples/populate.ml" 15 398 473
+type(
+  Postgresql.result
+)
+"examples/populate.ml" 16 477 479 "examples/populate.ml" 16 477 480
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/populate.ml" 14 344 350 "examples/populate.ml" 14 344 351
+)
+"examples/populate.ml" 16 477 479 "examples/populate.ml" 16 477 496
+call(
+  stack
+)
+type(
+  in_channel -> unit
+)
+"examples/populate.ml" 16 477 497 "examples/populate.ml" 16 477 502
+type(
+  in_channel
+)
+ident(
+  ext_ref Pervasives.stdin
+)
+"examples/populate.ml" 16 477 479 "examples/populate.ml" 16 477 502
+type(
+  unit
+)
+"examples/populate.ml" 17 504 506 "examples/populate.ml" 17 504 507
+type(
+  Postgresql.connection
+)
+ident(
+  int_ref c "examples/populate.ml" 14 344 350 "examples/populate.ml" 14 344 351
+)
+"examples/populate.ml" 17 504 506 "examples/populate.ml" 17 504 514
+call(
+  tail
+)
+type(
+  unit
+)
+"examples/populate.ml" 16 477 479 "examples/populate.ml" 17 504 514
+type(
+  unit
+)
+"examples/populate.ml" 15 398 400 "examples/populate.ml" 17 504 514
+type(
+  unit
+)
+"examples/populate.ml" 14 344 346 "examples/populate.ml" 17 504 514
+type(
+  unit
+)
+"examples/populate.ml" 20 524 530 "examples/populate.ml" 20 524 534
+type(
+  unit -> unit
+)
+ident(
+  int_ref main "examples/populate.ml" 13 330 334 "examples/populate.ml" 13 330 338
+)
+"examples/populate.ml" 20 524 535 "examples/populate.ml" 20 524 537
+type(
+  unit
+)
+"examples/populate.ml" 20 524 530 "examples/populate.ml" 20 524 537
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/populate.ml" 21 543 553 "examples/populate.ml" 21 543 554
+type(
+  Postgresql.error
+)
+ident(
+  def e "examples/populate.ml" 21 543 558 "examples/populate.ml" 21 543 591
+)
+"examples/populate.ml" 21 543 547 "examples/populate.ml" 21 543 554
+type(
+  exn
+)
+"examples/populate.ml" 21 543 558 "examples/populate.ml" 21 543 571
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/populate.ml" 21 543 573 "examples/populate.ml" 21 543 588
+type(
+  Postgresql.error -> string
+)
+ident(
+  ext_ref Postgresql.string_of_error
+)
+"examples/populate.ml" 21 543 589 "examples/populate.ml" 21 543 590
+type(
+  Postgresql.error
+)
+ident(
+  int_ref e "examples/populate.ml" 21 543 553 "examples/populate.ml" 21 543 554
+)
+"examples/populate.ml" 21 543 572 "examples/populate.ml" 21 543 591
+call(
+  stack
+)
+type(
+  string
+)
+"examples/populate.ml" 21 543 558 "examples/populate.ml" 21 543 591
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/populate.ml" 22 592 596 "examples/populate.ml" 22 592 597
+type(
+  exn
+)
+ident(
+  def e "examples/populate.ml" 22 592 601 "examples/populate.ml" 22 592 637
+)
+"examples/populate.ml" 22 592 601 "examples/populate.ml" 22 592 614
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.prerr_endline
+)
+"examples/populate.ml" 22 592 616 "examples/populate.ml" 22 592 634
+type(
+  exn -> string
+)
+ident(
+  ext_ref Printexc.to_string
+)
+"examples/populate.ml" 22 592 635 "examples/populate.ml" 22 592 636
+type(
+  exn
+)
+ident(
+  int_ref e "examples/populate.ml" 22 592 596 "examples/populate.ml" 22 592 597
+)
+"examples/populate.ml" 22 592 615 "examples/populate.ml" 22 592 637
+call(
+  stack
+)
+type(
+  string
+)
+"examples/populate.ml" 22 592 601 "examples/populate.ml" 22 592 637
+call(
+  stack
+)
+type(
+  unit
+)
+"examples/populate.ml" 20 524 526 "examples/populate.ml" 22 592 637
+type(
+  unit
+)
