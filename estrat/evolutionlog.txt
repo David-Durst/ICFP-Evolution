@@ -1,0 +1,8124 @@
+Trial 1
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 2
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 3
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 4
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 5
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 6
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 7
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 8
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 9
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 10
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 11
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 12
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 13
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 14
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 15
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 16
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 17
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 18
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 19
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 20
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 21
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 22
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 23
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 24
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 25
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 26
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 27
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 28
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 29
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 30
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 31
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 32
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 33
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 34
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 35
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 36
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 37
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 38
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 39
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 40
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 41
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 42
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 43
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 44
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 45
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 46
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 47
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 48
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 49
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 50
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 51
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 52
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 53
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 54
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 55
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 56
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 57
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 58
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 59
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 60
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 61
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 62
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 63
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 64
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 65
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 66
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 67
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 68
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 69
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 70
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 71
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 72
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 73
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 74
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 75
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 76
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 77
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 78
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 79
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 80
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 81
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 82
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 83
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 84
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 85
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 86
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 87
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 88
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 89
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 90
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 91
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 92
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 93
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 94
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 95
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 96
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 97
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 98
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 99
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 100
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 101
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 102
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 103
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 104
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 105
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 106
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 107
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 108
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 109
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 110
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 111
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 112
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 113
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 114
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 115
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 116
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 117
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 118
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 119
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 120
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 121
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 122
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 123
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 124
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 125
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 126
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 127
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 128
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 129
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 130
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 131
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 132
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 133
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 134
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 135
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 136
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 137
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 138
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 139
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 140
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 141
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 142
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 143
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 144
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 145
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 146
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 147
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 148
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 149
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 150
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 151
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 152
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 153
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 154
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 155
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 156
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 157
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 158
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 159
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 160
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 161
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 162
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 163
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 164
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 165
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 166
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 167
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 168
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 169
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 170
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 171
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 172
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 173
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 174
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 175
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 176
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 177
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 178
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 179
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 180
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 181
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 182
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 183
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 184
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 185
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 186
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 187
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 188
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 189
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 190
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 191
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 192
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 193
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 194
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 195
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 196
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 197
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 198
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 199
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 200
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 201
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 202
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 203
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 204
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 205
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 206
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 207
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 208
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 209
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 210
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 211
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 212
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 213
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 214
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 215
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 216
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 217
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 218
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 219
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 220
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 221
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 222
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 223
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 224
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 225
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 226
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 227
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 228
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 229
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 230
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 231
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 232
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 233
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 234
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 235
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 236
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 237
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 238
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 239
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 240
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 241
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 242
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 243
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 244
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 245
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 246
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 247
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 248
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 249
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 250
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 251
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 252
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 253
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 254
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 255
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 256
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 257
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 258
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 259
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 260
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 261
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 262
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 263
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 264
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 265
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 266
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 267
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 268
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 269
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 270
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 271
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 272
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 273
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 274
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 275
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 276
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 277
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 278
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 279
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 280
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 281
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 282
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 283
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 284
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 285
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 286
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 287
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 288
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 289
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 290
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 291
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 292
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 293
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 294
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 295
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 296
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 297
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 298
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 299
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 300
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 301
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 302
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 303
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 304
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 305
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 306
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 307
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 308
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 309
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 310
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 311
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 312
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 313
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 314
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 315
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 316
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 317
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 318
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 319
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 320
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 321
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 322
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 323
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 324
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 325
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 326
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 327
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 328
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 329
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 330
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 331
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 332
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 333
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 334
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 335
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 336
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 337
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 338
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 339
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 340
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 341
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 342
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 343
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 344
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 345
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 346
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 347
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 348
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 349
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 350
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 351
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 352
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 353
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 354
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 355
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 356
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 357
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 358
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 359
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 360
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 361
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 362
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 363
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 364
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 365
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 366
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 367
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 368
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 369
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 370
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 371
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 372
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 373
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 374
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 375
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 376
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 377
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 378
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 379
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 380
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 381
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 382
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 383
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 384
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 385
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 386
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 387
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 388
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 389
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 390
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 391
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 392
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 393
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 394
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 395
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 396
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 397
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 398
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 399
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 400
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 401
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 402
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 403
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 404
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 405
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 406
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 407
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 408
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 409
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 410
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 411
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 412
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 413
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 414
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 415
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 416
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 417
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 418
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 419
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 420
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 421
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 422
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 423
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 424
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 425
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 426
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 427
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 428
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 429
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 430
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 431
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 432
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 433
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 434
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 435
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 436
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 437
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 438
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 439
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 440
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 441
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 442
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 443
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 444
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 445
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 446
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 447
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 448
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 449
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 450
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 451
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 452
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 453
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 454
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 455
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 456
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 457
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 458
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 459
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 460
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 461
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 462
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 463
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 464
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 465
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 466
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 467
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 468
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 469
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 470
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 471
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 472
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 473
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 474
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 475
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 476
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 477
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 478
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 479
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 480
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 481
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 482
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 483
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 484
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 485
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 486
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 487
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 488
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 489
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 490
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 491
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 492
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 493
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 494
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 495
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 496
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 497
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 498
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 499
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 500
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 501
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 502
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 503
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 504
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 505
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 506
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 507
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 508
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 509
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 510
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 511
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 512
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 513
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 514
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 515
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 516
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 517
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 518
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 519
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 520
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 521
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 522
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 523
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 524
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 525
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 526
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 527
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 528
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 529
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 530
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 531
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 532
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 533
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 534
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 535
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 536
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 537
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 538
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 539
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 540
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 541
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 542
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 543
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 544
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 545
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 546
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 547
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 548
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 549
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 550
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 551
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 552
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 553
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 554
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 555
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 556
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 557
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 558
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 559
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 560
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 561
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 562
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 563
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 564
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 565
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 566
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 567
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 568
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 569
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 570
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 571
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 572
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 573
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 574
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 575
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 576
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 577
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 578
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 579
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 580
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 581
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 582
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 583
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 584
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 585
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 586
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 587
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 588
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 589
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 590
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 591
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 592
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 593
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 594
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 595
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 596
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 597
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 598
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 599
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 600
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 601
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 602
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 603
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 604
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 605
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 606
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 607
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 608
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 609
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 610
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 611
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 612
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 613
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 614
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 615
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 616
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 617
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 618
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 619
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 620
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 621
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 622
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 623
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 624
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 625
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 626
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 627
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 628
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 629
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 630
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 631
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 632
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 633
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 634
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 635
+GDG
+Red collected:   0
+Black collected: 3
+Trial 636
+GDG
+Red collected:   0
+Black collected: 3
+Trial 637
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 638
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 639
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 640
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 641
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 642
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 643
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 644
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 645
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 646
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 647
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 648
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 649
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 650
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 651
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 652
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 653
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 654
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 655
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 656
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 657
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 658
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 659
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 660
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 661
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 662
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 663
+GDG
+Red collected:   0
+Black collected: 3
+Trial 664
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 665
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 666
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 667
+GDG
+Red collected:   3
+Black collected: 0
+Trial 668
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 669
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 670
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 671
+GDG
+Red collected:   3
+Black collected: 0
+Trial 672
+GDG
+Red collected:   2
+Black collected: 0
+Trial 673
+GDG
+Red collected:   3
+Black collected: 0
+Trial 674
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 675
+GDG
+Red collected:   3
+Black collected: 0
+Trial 676
+GDG
+Red collected:   3
+Black collected: 0
+Trial 677
+GDG
+Red collected:   3
+Black collected: 0
+Trial 678
+GDG
+Red collected:   9
+Black collected: 0
+Trial 679
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 680
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 681
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 682
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 683
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 684
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 685
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 686
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 687
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 688
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 689
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 690
+GDG
+Red collected:   3
+Black collected: 0
+Trial 691
+GDG
+Red collected:   6
+Black collected: 0
+Trial 692
+GDG
+Red collected:   3
+Black collected: 0
+Trial 693
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 694
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 695
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 696
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 697
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 698
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 699
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 700
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 701
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 702
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 703
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 704
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 705
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 706
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 707
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 708
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 709
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 710
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 711
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 712
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 713
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 714
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 715
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 716
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 717
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 718
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 719
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 720
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 721
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 722
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 723
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 724
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 725
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 726
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 727
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 728
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 729
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 730
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 731
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 732
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 733
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 734
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 735
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 736
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 737
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 738
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 739
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 740
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 741
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 742
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 743
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 744
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 745
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 746
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 747
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 748
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 749
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 750
+GDG
+Red collected:   3
+Black collected: 0
+Trial 751
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 752
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 753
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 754
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 755
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 756
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 757
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 758
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 759
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 760
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 761
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 762
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 763
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 764
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 765
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 766
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 767
+GDG
+Red collected:   3
+Black collected: 0
+Trial 768
+GDG
+Red collected:   3
+Black collected: 0
+Trial 769
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 770
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 771
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 772
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 773
+GDG
+Red collected:   2
+Black collected: 0
+Trial 774
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 775
+GDG
+Red collected:   2
+Black collected: 0
+Trial 776
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 777
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 778
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 779
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 780
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 781
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 782
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 783
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 784
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 785
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 786
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 787
+GDG
+Red collected:   1
+Black collected: 0
+Trial 788
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 789
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 790
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 791
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 792
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 793
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 794
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 795
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 796
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 797
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 798
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 799
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 800
+GDG
+Red collected:   0
+Black collected: 1
+Trial 801
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 802
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 803
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 804
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 805
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 806
+GDG
+Red collected:   0
+Black collected: 3
+Trial 807
+GDG
+Red collected:   0
+Black collected: 1
+Trial 808
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 809
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 810
+GDG
+Red collected:   0
+Black collected: 3
+Trial 811
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 812
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 813
+GDG
+Red collected:   0
+Black collected: 1
+Trial 814
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 815
+GDG
+Red collected:   0
+Black collected: 3
+Trial 816
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 817
+GDG
+Red collected:   3
+Black collected: 0
+Trial 818
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 819
+GDG
+Red collected:   0
+Black collected: 4
+Trial 820
+GDG
+Red collected:   3
+Black collected: 0
+Trial 821
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 822
+GDG
+Red collected:   3
+Black collected: 0
+Trial 823
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 824
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 825
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 826
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 827
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 828
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 829
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 830
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 831
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 832
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 833
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 834
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 835
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 836
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 837
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 838
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 839
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 840
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 841
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 842
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 843
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 844
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 845
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 846
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 847
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 848
+GDG
+Red collected:   0
+Black collected: 3
+Trial 849
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 850
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 851
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 852
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 853
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 854
+GDG
+Red collected:   3
+Black collected: 0
+Trial 855
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 856
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 857
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 858
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 859
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 860
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 861
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 862
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 863
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 864
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 865
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 866
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 867
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 868
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 869
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 870
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 871
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 872
+GDG
+Red collected:   2
+Black collected: 0
+Trial 873
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 874
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 875
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 876
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 877
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 878
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 879
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 880
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 881
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 882
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 883
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 884
+GDG
+Red collected:   3
+Black collected: 0
+Trial 885
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 886
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 887
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 888
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 889
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 890
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 891
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 892
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 893
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 894
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 895
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 896
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 897
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 898
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 899
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 900
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 901
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 902
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 903
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 904
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 905
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 906
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 907
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 908
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 909
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 910
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 911
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 912
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 913
+GDG
+Red collected:   1
+Black collected: 0
+Trial 914
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 915
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 916
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 917
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 918
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 919
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 920
+GDG
+Red collected:   0
+Black collected: 1
+Trial 921
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 922
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 923
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 924
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 925
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 926
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 927
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 928
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 929
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 930
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 931
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 932
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 933
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 934
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 935
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 936
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 937
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 938
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 939
+GDG
+Red collected:   3
+Black collected: 0
+Trial 940
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 941
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 942
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 943
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 944
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 945
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 946
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 947
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 948
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 949
+GDG
+Red collected:   0
+Black collected: 3
+Trial 950
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 951
+GDG
+Red collected:   0
+Black collected: 1
+Trial 952
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 953
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 954
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 955
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 956
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 957
+GDG
+Red collected:   3
+Black collected: 0
+Trial 958
+GDG
+Red collected:   3
+Black collected: 0
+Trial 959
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 960
+GDG
+Red collected:   3
+Black collected: 0
+Trial 961
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 962
+GDG
+Red collected:   3
+Black collected: 0
+Trial 963
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 964
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 965
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 966
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 967
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 968
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 969
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 970
+GDG
+Red collected:   3
+Black collected: 0
+Trial 971
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 972
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 973
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 974
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 975
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 976
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 977
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 978
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 979
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 980
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 981
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 982
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 983
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 984
+GDG
+Red collected:   3
+Black collected: 0
+Trial 985
+GDG
+Red collected:   3
+Black collected: 0
+Trial 986
+GDG
+Red collected:   6
+Black collected: 1
+Trial 987
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 988
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 989
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 990
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 991
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 992
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 993
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 994
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 995
+GDG
+Red collected:   0
+Black collected: 3
+Trial 996
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 997
+GDG
+Red collected:   0
+Black collected: 2
+Trial 998
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 999
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1000
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1001
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1002
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1003
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1004
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1005
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1006
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1007
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1008
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1009
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1010
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1011
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1012
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1013
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1014
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1015
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1016
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1017
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1018
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1019
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1020
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1021
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1022
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1023
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1024
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1025
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1026
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1027
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1028
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1029
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1030
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1031
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1032
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1033
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1034
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1035
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1036
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1037
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1038
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1039
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1040
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1041
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1042
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1043
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1044
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1045
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1046
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1047
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1048
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1049
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1050
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1051
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1052
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1053
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1054
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1055
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1056
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1057
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1058
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1059
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1060
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1061
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1062
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1063
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1064
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1065
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1066
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1067
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1068
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1069
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1070
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1071
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1072
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1073
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1074
+GDG
+Red collected:   3
+Black collected: 6
+Trial 1075
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1076
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1077
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1078
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1079
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1080
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1081
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1082
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1083
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1084
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1085
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1086
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1087
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1088
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1089
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1090
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1091
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1092
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1093
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1094
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1095
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1096
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1097
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1098
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1099
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1100
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1101
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1102
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1103
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1104
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1105
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1106
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1107
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1108
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1109
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1110
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1111
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1112
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1113
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1114
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1115
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1116
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1117
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1118
+GDG
+Red collected:   3
+Black collected: 2
+Trial 1119
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1120
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1121
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1122
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1123
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1124
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1125
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1126
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1127
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1128
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1129
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1130
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1131
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1132
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1133
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1134
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1135
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1136
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1137
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1138
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1139
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1140
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1141
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1142
+GDG
+Red collected:   0
+Black collected: 7
+Trial 1143
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1144
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1145
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1146
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1147
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1148
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1149
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1150
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1151
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1152
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1153
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1154
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1155
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1156
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1157
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1158
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1159
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1160
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1161
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1162
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1163
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1164
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1165
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1166
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1167
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1168
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1169
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1170
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1171
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1172
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1173
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1174
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1175
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1176
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1177
+GDG
+Red collected:   1
+Black collected: 5
+Trial 1178
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1179
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1180
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1181
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1182
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1183
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1184
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1185
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1186
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1187
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1188
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1189
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1190
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1191
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1192
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1193
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1194
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1195
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1196
+GDG
+Red collected:   3
+Black collected: 9
+Trial 1197
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1198
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1199
+GDG
+Red collected:   1
+Black collected: 0
+Trial 1200
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1201
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1202
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1203
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1204
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1205
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1206
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1207
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1208
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1209
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1210
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1211
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1212
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1213
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1214
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1215
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1216
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1217
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1218
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1219
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1220
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1221
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1222
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1223
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1224
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1225
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1226
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1227
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1228
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1229
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1230
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1231
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1232
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1233
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1234
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1235
+GDG
+Red collected:   0
+Black collected: 5
+Trial 1236
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1237
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1238
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1239
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1240
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1241
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1242
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1243
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1244
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1245
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1246
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1247
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1248
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1249
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1250
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1251
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1252
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1253
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1254
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1255
+GDG
+Red collected:   9
+Black collected: 0
+Trial 1256
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1257
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1258
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1259
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1260
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1261
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1262
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1263
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1264
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1265
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1266
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1267
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1268
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1269
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1270
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1271
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1272
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1273
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1274
+GDG
+Red collected:   1
+Black collected: 0
+Trial 1275
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1276
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1277
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1278
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1279
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1280
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1281
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1282
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1283
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1284
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1285
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1286
+GDG
+Red collected:   0
+Black collected: 16
+Trial 1287
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1288
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1289
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1290
+GDG
+Red collected:   2
+Black collected: 0
+Trial 1291
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1292
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1293
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1294
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1295
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1296
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1297
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1298
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1299
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1300
+GDG
+Red collected:   1
+Black collected: 4
+Trial 1301
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1302
+GDG
+Red collected:   0
+Black collected: 10
+Trial 1303
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1304
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1305
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1306
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1307
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1308
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1309
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1310
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1311
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1312
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1313
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1314
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1315
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1316
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1317
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1318
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1319
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1320
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1321
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1322
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1323
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1324
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1325
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1326
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1327
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1328
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1329
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1330
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1331
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1332
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1333
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1334
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1335
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1336
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1337
+GDG
+Red collected:   4
+Black collected: 3
+Trial 1338
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1339
+GDG
+Red collected:   9
+Black collected: 1
+Trial 1340
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1341
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1342
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1343
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1344
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1345
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1346
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1347
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1348
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1349
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1350
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1351
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1352
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1353
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1354
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1355
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1356
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1357
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1358
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1359
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1360
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1361
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1362
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1363
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1364
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1365
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1366
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1367
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1368
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1369
+GDG
+Red collected:   6
+Black collected: 0
+Trial 1370
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1371
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1372
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1373
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1374
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1375
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1376
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1377
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1378
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1379
+GDG
+Red collected:   1
+Black collected: 0
+Trial 1380
+GDG
+Red collected:   3
+Black collected: 16
+Trial 1381
+GDG
+Red collected:   9
+Black collected: 2
+Trial 1382
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1383
+GDG
+Red collected:   2
+Black collected: 0
+Trial 1384
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1385
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1386
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1387
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1388
+GDG
+Red collected:   0
+Black collected: 9
+Trial 1389
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1390
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1391
+GDG
+Red collected:   6
+Black collected: 2
+Trial 1392
+GDG
+Red collected:   3
+Black collected: 6
+Trial 1393
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1394
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1395
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1396
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1397
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1398
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1399
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1400
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1401
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1402
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1403
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1404
+GDG
+Red collected:   6
+Black collected: 0
+Trial 1405
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1406
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1407
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1408
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1409
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1410
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1411
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1412
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1413
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1414
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1415
+GDG
+Red collected:   6
+Black collected: 0
+Trial 1416
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1417
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1418
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1419
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1420
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1421
+GDG
+Red collected:   0
+Black collected: 9
+Trial 1422
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1423
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1424
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1425
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1426
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1427
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1428
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1429
+GDG
+Red collected:   3
+Black collected: 2
+Trial 1430
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1431
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1432
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1433
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1434
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1435
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1436
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1437
+GDG
+Red collected:   6
+Black collected: 0
+Trial 1438
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1439
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1440
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1441
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1442
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1443
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1444
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1445
+GDG
+Red collected:   6
+Black collected: 2
+Trial 1446
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1447
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1448
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1449
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1450
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1451
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1452
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1453
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1454
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1455
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1456
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1457
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1458
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1459
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1460
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1461
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1462
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1463
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1464
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1465
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1466
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1467
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1468
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1469
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1470
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1471
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1472
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1473
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1474
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1475
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1476
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1477
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1478
+GDG
+Red collected:   6
+Black collected: 4
+Trial 1479
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1480
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1481
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1482
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1483
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1484
+GDG
+Red collected:   6
+Black collected: 3
+Trial 1485
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1486
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1487
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1488
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1489
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1490
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1491
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1492
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1493
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1494
+GDG
+Red collected:   1
+Black collected: 7
+Trial 1495
+GDG
+Red collected:   3
+Black collected: 6
+Trial 1496
+GDG
+Red collected:   6
+Black collected: 0
+Trial 1497
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1498
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1499
+GDG
+Red collected:   6
+Black collected: 3
+Trial 1500
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1501
+GDG
+Red collected:   4
+Black collected: 0
+Trial 1502
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1503
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1504
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1505
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1506
+GDG
+Red collected:   3
+Black collected: 10
+Trial 1507
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1508
+GDG
+Red collected:   2
+Black collected: 1
+Trial 1509
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1510
+GDG
+Red collected:   6
+Black collected: 2
+Trial 1511
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1512
+GDG
+Red collected:   3
+Black collected: 8
+Trial 1513
+GDG
+Red collected:   9
+Black collected: 2
+Trial 1514
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1515
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1516
+GDG
+Red collected:   3
+Black collected: 6
+Trial 1517
+GDG
+Red collected:   6
+Black collected: 2
+Trial 1518
+GDG
+Red collected:   0
+Black collected: 10
+Trial 1519
+GDG
+Red collected:   6
+Black collected: 3
+Trial 1520
+GDG
+Red collected:   5
+Black collected: 4
+Trial 1521
+GDG
+Red collected:   1
+Black collected: 2
+Trial 1522
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1523
+GDG
+Red collected:   6
+Black collected: 3
+Trial 1524
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1525
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1526
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1527
+GDG
+Red collected:   9
+Black collected: 4
+Trial 1528
+GDG
+Red collected:   3
+Black collected: 7
+Trial 1529
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1530
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1531
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1532
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1533
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1534
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1535
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1536
+GDG
+Red collected:   6
+Black collected: 6
+Draw
+Trial 1537
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1538
+GDG
+Red collected:   0
+Black collected: 19
+Trial 1539
+GDG
+Red collected:   3
+Black collected: 5
+Trial 1540
+GDG
+Red collected:   3
+Black collected: 13
+Trial 1541
+GDG
+Red collected:   3
+Black collected: 6
+Trial 1542
+GDG
+Red collected:   6
+Black collected: 8
+Trial 1543
+GDG
+Red collected:   8
+Black collected: 4
+Trial 1544
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1545
+GDG
+Red collected:   6
+Black collected: 11
+Trial 1546
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1547
+GDG
+Red collected:   9
+Black collected: 3
+Trial 1548
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1549
+GDG
+Red collected:   7
+Black collected: 2
+Trial 1550
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1551
+GDG
+Red collected:   3
+Black collected: 6
+Trial 1552
+GDG
+Red collected:   3
+Black collected: 5
+Trial 1553
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1554
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1555
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1556
+GDG
+Red collected:   2
+Black collected: 0
+Trial 1557
+GDG
+Red collected:   9
+Black collected: 0
+Trial 1558
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1559
+GDG
+Red collected:   1
+Black collected: 1
+Draw
+Trial 1560
+GDG
+Red collected:   9
+Black collected: 0
+Trial 1561
+GDG
+Red collected:   2
+Black collected: 4
+Trial 1562
+GDG
+Red collected:   9
+Black collected: 3
+Trial 1563
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1564
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1565
+GDG
+Red collected:   6
+Black collected: 3
+Trial 1566
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1567
+GDG
+Red collected:   4
+Black collected: 3
+Trial 1568
+GDG
+Red collected:   6
+Black collected: 7
+Trial 1569
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1570
+GDG
+Red collected:   12
+Black collected: 1
+Trial 1571
+GDG
+Red collected:   14
+Black collected: 1
+Trial 1572
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1573
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1574
+GDG
+Red collected:   11
+Black collected: 5
+Trial 1575
+GDG
+Red collected:   9
+Black collected: 5
+Trial 1576
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1577
+GDG
+Red collected:   6
+Black collected: 5
+Trial 1578
+GDG
+Red collected:   9
+Black collected: 0
+Trial 1579
+GDG
+Red collected:   3
+Black collected: 11
+Trial 1580
+GDG
+Red collected:   6
+Black collected: 3
+Trial 1581
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1582
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1583
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1584
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1585
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1586
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1587
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1588
+GDG
+Red collected:   6
+Black collected: 1
+Trial 1589
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1590
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1591
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1592
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1593
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1594
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1595
+GDG
+Red collected:   6
+Black collected: 4
+Trial 1596
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1597
+GDG
+Red collected:   7
+Black collected: 5
+Trial 1598
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1599
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1600
+GDG
+Red collected:   0
+Black collected: 9
+Trial 1601
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1602
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1603
+GDG
+Red collected:   0
+Black collected: 8
+Trial 1604
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1605
+GDG
+Red collected:   0
+Black collected: 4
+Trial 1606
+GDG
+Red collected:   2
+Black collected: 3
+Trial 1607
+GDG
+Red collected:   3
+Black collected: 10
+Trial 1608
+GDG
+Red collected:   0
+Black collected: 2
+Trial 1609
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1610
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1611
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1612
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1613
+GDG
+Red collected:   0
+Black collected: 7
+Trial 1614
+GDG
+Red collected:   3
+Black collected: 3
+Draw
+Trial 1615
+GDG
+Red collected:   6
+Black collected: 3
+Trial 1616
+GDG
+Red collected:   3
+Black collected: 8
+Trial 1617
+GDG
+Red collected:   12
+Black collected: 9
+Trial 1618
+GDG
+Red collected:   3
+Black collected: 10
+Trial 1619
+GDG
+Red collected:   6
+Black collected: 11
+Trial 1620
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1621
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1622
+GDG
+Red collected:   3
+Black collected: 15
+Trial 1623
+GDG
+Red collected:   6
+Black collected: 2
+Trial 1624
+GDG
+Red collected:   3
+Black collected: 9
+Trial 1625
+GDG
+Red collected:   15
+Black collected: 4
+Trial 1626
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1627
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1628
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1629
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1630
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1631
+GDG
+Red collected:   0
+Black collected: 9
+Trial 1632
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1633
+GDG
+Red collected:   6
+Black collected: 8
+Trial 1634
+GDG
+Red collected:   3
+Black collected: 5
+Trial 1635
+GDG
+Red collected:   6
+Black collected: 3
+Trial 1636
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1637
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1638
+GDG
+Red collected:   9
+Black collected: 10
+Trial 1639
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1640
+GDG
+Red collected:   0
+Black collected: 9
+Trial 1641
+GDG
+Red collected:   6
+Black collected: 0
+Trial 1642
+GDG
+Red collected:   15
+Black collected: 7
+Trial 1643
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1644
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1645
+GDG
+Red collected:   0
+Black collected: 7
+Trial 1646
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1647
+GDG
+Red collected:   6
+Black collected: 1
+Trial 1648
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1649
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1650
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1651
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1652
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1653
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1654
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1655
+GDG
+Red collected:   0
+Black collected: 13
+Trial 1656
+GDG
+Red collected:   5
+Black collected: 4
+Trial 1657
+GDG
+Red collected:   6
+Black collected: 9
+Trial 1658
+GDG
+Red collected:   0
+Black collected: 9
+Trial 1659
+GDG
+Red collected:   3
+Black collected: 2
+Trial 1660
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1661
+GDG
+Red collected:   3
+Black collected: 9
+Trial 1662
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1663
+GDG
+Red collected:   6
+Black collected: 5
+Trial 1664
+GDG
+Red collected:   3
+Black collected: 9
+Trial 1665
+GDG
+Red collected:   3
+Black collected: 5
+Trial 1666
+GDG
+Red collected:   0
+Black collected: 5
+Trial 1667
+GDG
+Red collected:   6
+Black collected: 9
+Trial 1668
+GDG
+Red collected:   3
+Black collected: 5
+Trial 1669
+GDG
+Red collected:   3
+Black collected: 0
+Trial 1670
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1671
+GDG
+Red collected:   0
+Black collected: 15
+Trial 1672
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1673
+GDG
+Red collected:   3
+Black collected: 2
+Trial 1674
+GDG
+Red collected:   6
+Black collected: 0
+Trial 1675
+GDG
+Red collected:   3
+Black collected: 8
+Trial 1676
+GDG
+Red collected:   4
+Black collected: 4
+Draw
+Trial 1677
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1678
+GDG
+Red collected:   6
+Black collected: 5
+Trial 1679
+GDG
+Red collected:   0
+Black collected: 7
+Trial 1680
+GDG
+Red collected:   3
+Black collected: 5
+Trial 1681
+GDG
+Red collected:   8
+Black collected: 16
+Trial 1682
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1683
+GDG
+Red collected:   0
+Black collected: 9
+Trial 1684
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1685
+GDG
+Red collected:   0
+Black collected: 0
+Draw
+Trial 1686
+GDG
+Red collected:   3
+Black collected: 7
+Trial 1687
+GDG
+Red collected:   6
+Black collected: 3
+Trial 1688
+GDG
+Red collected:   4
+Black collected: 3
+Trial 1689
+GDG
+Red collected:   3
+Black collected: 4
+Trial 1690
+GDG
+Red collected:   3
+Black collected: 1
+Trial 1691
+GDG
+Red collected:   0
+Black collected: 12
+Trial 1692
+GDG
+Red collected:   3
+Black collected: 6
+Trial 1693
+GDG
+Red collected:   0
+Black collected: 6
+Trial 1694
+GDG
+Red collected:   11
+Black collected: 1
+Trial 1695
+GDG
+Red collected:   0
+Black collected: 3
+Trial 1696
+GDG
+Red collected:   0
+Black collected: 1
+Trial 1697
+GDG
+out of range: 100233 > 99999 in line 6420
+Trial 1698
+GDG
+out of range: 100457 > 99999 in line 4220
+Trial 1699
+GDG
+out of range: 100457 > 99999 in line 4231
+Trial 1700
+GDG
+out of range: 100168 > 99999 in line 3875
+Trial 1701
+GDG
+out of range: 100168 > 99999 in line 3887
+Trial 1702
+GDG
+out of range: 100168 > 99999 in line 3900
+Trial 1703
+GDG
+out of range: 100690 > 99999 in line 2419
+Trial 1704
+GDG
+out of range: 100690 > 99999 in line 2425
+Trial 1705
+GDG
+out of range: 104322 > 99999 in line 1927
+Trial 1706
+GDG
+out of range: 104322 > 99999 in line 1930
+Trial 1707
+GDG
+out of range: 104322 > 99999 in line 1935
+Trial 1708
+GDG
+out of range: 102096 > 99999 in line 388
+Trial 1709
+GDG
+out of range: 102096 > 99999 in line 390
+Trial 1710
+GDG
+out of range: 102096 > 99999 in line 391
+Traceback (most recent call last):
+  File "mutate.py", line 103, in <module>
+    main()
+  File "mutate.py", line 100, in main
+    mutateDirectory()
+  File "mutate.py", line 92, in mutateDirectory
+    fileCountAndFunc(fname, mutateFile)
+  File "mutate.py", line 82, in fileCountAndFunc
+    newFileStr = fileFunc(f, countLines(fileLines))
+  File "mutate.py", line 55, in mutateFile
+    elif randFloat < appendLine + insertLine:
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "mutate.py", line 103, in <module>
+    main()
+  File "mutate.py", line 100, in main
+    mutateDirectory()
+  File "mutate.py", line 92, in mutateDirectory
+    fileCountAndFunc(fname, mutateFile)
+  File "mutate.py", line 82, in fileCountAndFunc
+    newFileStr = fileFunc(f, countLines(fileLines))
+  File "mutate.py", line 55, in mutateFile
+    elif randFloat < appendLine + insertLine:
+KeyboardInterrupt
+Trial 1711

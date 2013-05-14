@@ -40,9 +40,9 @@ def generateLine(lines):
 
 #mutate the file, ie examine ever instruction and with certain probabilities add a line at the current position or at the end of the file, or delete the current line
 def mutateFile(f, lines):
-    appendLine = 0.01
-    insertLine = 0.01
-    deleteLine = 0.0012
+    appendLine = 0.001
+    insertLine = 0.001
+    deleteLine = 0.00012
     ResultStr = ''
     AppendStr = ''
     i = 0

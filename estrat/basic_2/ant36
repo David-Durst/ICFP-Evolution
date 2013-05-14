@@ -1,0 +1,5968 @@
+Turn Left 0
+Drop 1059
+Drop 1441
+Mark 1 1831
+Flip 3 2 2
+Unmark 2 4614
+Flip 2 206 105
+Mark 5 177
+Sense Ahead 610 405 FoeMarker
+Unmark 3 265
+Drop 602
+Mark 2 198
+Sense LeftAhead 428 245 FoeMarker
+Turn Right 104
+Mark 5 4166
+PickUp 4011 4023
+Turn Right 725
+Turn Left 2142
+Drop 36
+Flip 3 20 20
+Move 125 83
+Unmark 2 2722
+Flip 2 972 2375
+PickUp 597 512
+Mark 4 1087
+Drop 162
+Mark 2 2512
+Mark 5 71
+Drop 3172
+Turn Right 3990
+PickUp 545 1142
+Drop 1534
+Sense LeftAhead 419 811 FriendWithFood
+PickUp 6 2
+Flip 3 31 31
+Flip 2 1576 1175
+Mark 4 4735
+Drop 1103
+Flip 2 439 442
+Flip 2 1763 3571
+Move 417 495
+Sense RightAhead 402 70 FriendWithFood
+PickUp 64 4
+PickUp 510 689
+Move 3223 3503
+Drop 34
+Turn Left 1677
+Sense LeftAhead 381 798 Rock
+Flip 2 342 964
+PickUp 20 49
+Unmark 1 294
+Turn Right 2871
+Unmark 1 936
+Flip 2 861 1085
+Flip 3 29 29
+Move 132 80
+Unmark 5 0
+Move 41 203
+Mark 5 46
+Unmark 2 1215
+Mark 2 239
+Flip 2 1936 780
+Mark 2 142
+Sense Ahead 1925 1229 FoeHome
+Unmark 1 122
+Unmark 0 2
+Turn Left 2358
+PickUp 315 469
+Mark 3 60
+PickUp 1156 4884
+PickUp 566 2697
+Flip 2 896 516
+Flip 3 14 14
+Flip 3 27 27
+Unmark 0 2364
+Flip 3 9 9
+PickUp 378 4827
+Unmark 2 1004
+Unmark 5 2728
+Mark 2 128
+Unmark 5 3
+Unmark 5 1924
+Move 574 2193
+Move 646 1487
+Mark 1 625
+Move 3857 307
+Drop 2186
+Sense LeftAhead 2928 2809 FoeMarker
+Turn Right 691
+Sense RightAhead 162 177 Food
+Mark 2 3181
+PickUp 69 140
+Mark 1 1225
+Move 3802 319
+Flip 2 1589 2169
+Mark 5 2
+Flip 2 147 59
+Flip 3 76 76
+Move 605 1348
+Move 593 1281
+Move 1128 1174
+Flip 2 645 1558
+Flip 2 150 215
+Flip 2 0 49
+Unmark 0 67
+Mark 2 455
+Drop 4283
+Sense Here 803 201 Marker 3
+Mark 0 2800
+Flip 3 32 32
+Drop 2626
+Move 566 555
+Sense Ahead 2 3 Friend
+Drop 373
+Flip 3 86 86
+Sense Ahead 1753 43 Foe
+PickUp 964 1309
+PickUp 569 211
+Flip 2 210 334
+Mark 3 4981
+Turn Left 233
+Move 240 9
+Flip 3 83 83
+Drop 2566
+Mark 4 28
+Turn Right 558
+Sense RightAhead 4874 5191 Home
+Turn Left 255
+Turn Left 276
+PickUp 1921 2758
+Turn Right 2674
+Unmark 2 3652
+PickUp 2373 72
+Flip 2 670 3
+Turn Left 1927
+Mark 0 35
+Flip 2 13 12
+Turn Right 216
+Flip 2 717 949
+Turn Left 872
+Unmark 4 560
+Turn Left 1179
+Unmark 4 643
+PickUp 188 129
+Drop 16
+Sense Here 2034 2231 Rock
+Unmark 3 536
+Flip 2 2705 4847
+Drop 67
+PickUp 1222 4270
+Turn Right 73
+Turn Right 2174
+Flip 2 3140 2740
+Drop 208
+Sense Here 3118 4816 Marker 0
+Turn Left 274
+Drop 5
+Flip 2 240 336
+PickUp 1982 474
+Sense RightAhead 2059 992 Home
+Turn Left 1624
+Mark 0 1714
+Unmark 0 3794
+Move 31 21
+Drop 94
+Flip 3 21 21
+Mark 5 82
+Mark 4 229
+Drop 1220
+Sense Ahead 625 2347 FriendWithFood
+Move 1 68
+Flip 3 71 71
+Flip 3 87 87
+PickUp 109 72
+Turn Left 164
+PickUp 864 445
+Mark 4 3703
+Turn Left 281
+Turn Left 179
+Flip 2 922 666
+Mark 2 24
+Sense Ahead 2564 518 Food
+PickUp 3096 4490
+Flip 2 866 1598
+Turn Right 3941
+PickUp 167 526
+Turn Right 1439
+Move 233 256
+Flip 2 247 209
+Unmark 5 613
+Sense Here 11 2 FriendWithFood
+PickUp 770 446
+Drop 1135
+Drop 192
+Move 3 4
+Drop 857
+Sense LeftAhead 102 903 FoeMarker
+Flip 3 149 149
+Mark 2 1312
+Unmark 2 184
+Turn Right 3936
+Sense RightAhead 360 1449 Foe
+Flip 2 1056 2970
+Mark 2 164
+Flip 3 103 103
+Flip 2 0 3
+Unmark 0 1216
+Flip 3 78 78
+Mark 5 2049
+Move 1624 832
+Drop 386
+Drop 1138
+Mark 1 98
+PickUp 517 298
+Turn Left 39
+PickUp 1026 3042
+Flip 3 164 164
+Flip 3 61 61
+Flip 3 137 137
+Flip 3 78 78
+Sense RightAhead 84 757 Food
+Flip 2 255 1437
+Drop 1757
+Unmark 5 777
+Sense Here 2 5 FoeMarker
+PickUp 1641 1227
+Turn Right 165
+Turn Left 699
+Unmark 2 3722
+Unmark 1 1203
+Drop 0
+Unmark 3 766
+Flip 3 216 216
+Flip 3 83 83
+Drop 1169
+Flip 3 123 123
+Mark 4 203
+Unmark 3 743
+Move 704 164
+Mark 3 1195
+Turn Left 653
+Sense Here 654 529 FriendWithFood
+Drop 377
+Turn Right 267
+Turn Right 505
+Unmark 4 16
+Unmark 4 1638
+Mark 5 3199
+Drop 549
+Move 15 5
+Drop 4
+Mark 0 213
+PickUp 32 2
+Mark 2 1099
+Flip 3 65 65
+Turn Right 208
+Turn Left 5516
+Drop 4541
+Unmark 4 900
+Flip 2 742 406
+Drop 1435
+Move 84 185
+Turn Left 409
+Turn Right 401
+Drop 5108
+Turn Left 352
+Flip 2 6 10
+Flip 2 1427 504
+Move 1298 433
+Flip 2 3312 3162
+Mark 4 44
+Flip 2 382 1668
+Sense Ahead 2148 2092 FoeHome
+Flip 2 438 493
+Flip 2 668 822
+Turn Left 277
+Unmark 2 275
+Flip 2 71 83
+Flip 2 6 72
+Drop 461
+Turn Left 151
+Drop 146
+Flip 3 119 119
+Mark 4 1116
+PickUp 70 3370
+PickUp 683 571
+Unmark 5 4
+Sense Here 2427 171 Home
+Flip 2 94 104
+Move 192 979
+Sense LeftAhead 220 299 Foe
+Mark 2 593
+Flip 2 360 997
+Mark 4 1248
+Mark 2 484
+Mark 2 1045
+Flip 3 244 244
+Mark 5 3886
+Flip 3 78 78
+Drop 938
+Turn Left 9
+Sense Ahead 1 652 Rock
+Unmark 0 3099
+Turn Left 1
+Flip 3 234 234
+Sense LeftAhead 2898 2845 Rock
+Flip 2 1093 2752
+Drop 195
+PickUp 170 1156
+Sense Ahead 1077 62 Foe
+Sense Ahead 815 324 Home
+Drop 981
+Turn Left 23
+Drop 1388
+Unmark 2 1100
+Turn Right 87
+Drop 7
+Flip 2 6 8
+Move 159 961
+Sense Here 478 1515 Foe
+Flip 2 3235 82
+PickUp 3497 1592
+PickUp 846 806
+Flip 3 314 314
+Mark 4 1347
+Drop 9
+Move 1032 450
+Drop 3318
+Move 2 61
+PickUp 59 28
+Turn Right 975
+PickUp 30 62
+Turn Right 141
+Sense Ahead 285 290 Friend
+Turn Right 1009
+Flip 3 52 52
+Turn Left 194
+Flip 2 617 1026
+Unmark 5 455
+Flip 2 23 18
+Drop 76
+Move 401 2975
+Unmark 2 1533
+Flip 2 3595 152
+PickUp 5 670
+Turn Left 5
+Turn Left 1147
+Move 1887 3999
+Flip 2 3119 3110
+Drop 3388
+Turn Left 1783
+Sense Ahead 3868 1175 Home
+Drop 2215
+Flip 2 340 332
+Turn Left 2522
+Mark 0 94
+Turn Left 1703
+PickUp 11 24
+Move 322 233
+Flip 2 1741 1762
+Flip 3 47 47
+Unmark 0 3750
+Flip 2 376 705
+Move 2665 441
+Unmark 1 8
+Sense Here 831 12 Friend
+PickUp 70 346
+Sense LeftAhead 8 220 Friend
+Flip 2 1871 503
+Mark 1 1377
+Drop 324
+Sense RightAhead 175 1385 Friend
+Move 16 5
+Sense Here 3068 4328 FoeMarker
+Flip 3 301 301
+Turn Left 357
+Unmark 2 1173
+Move 3829 4178
+Flip 3 65 65
+Move 1847 1063
+Move 234 187
+Flip 3 359 359
+Flip 2 0 30
+Drop 1597
+Mark 3 257
+Move 15 908
+Turn Right 1371
+Unmark 2 1039
+Flip 2 1754 1268
+Move 213 55
+Flip 3 271 271
+PickUp 421 245
+Sense Ahead 1240 3376 Foe
+Unmark 0 212
+PickUp 6 18
+Flip 3 228 228
+Mark 0 622
+Unmark 2 1071
+Sense Ahead 4687 3735 FoeHome
+Turn Right 114
+Flip 2 1929 1928
+Move 3369 141
+Mark 5 16
+Flip 2 44 66
+PickUp 1397 1945
+Flip 3 277 277
+Move 166 70
+Sense RightAhead 2391 526 Foe
+Unmark 1 1293
+Flip 2 80 118
+Mark 2 3090
+Flip 2 1171 585
+Sense RightAhead 561 249 Friend
+Mark 0 2845
+Sense LeftAhead 1147 921 FoeHome
+Drop 1233
+Mark 1 77
+Sense Here 1095 2062 FoeMarker
+Drop 997
+PickUp 3349 3326
+PickUp 683 566
+Flip 3 72 72
+Flip 3 221 221
+Mark 1 554
+Unmark 4 982
+Move 1422 585
+Drop 4419
+Mark 5 964
+Flip 2 52 15
+PickUp 4624 1930
+Sense LeftAhead 106 117 Rock
+Move 453 116
+Mark 4 1806
+Flip 2 3916 3068
+Flip 2 121 144
+Drop 3615
+PickUp 225 457
+Turn Left 19
+Flip 3 274 274
+Drop 95
+Unmark 4 1430
+Drop 696
+Unmark 1 220
+Turn Right 554
+Mark 2 4150
+Unmark 4 140
+Flip 2 1316 2043
+PickUp 1113 1527
+Flip 2 1020 1027
+PickUp 1174 1281
+Sense Here 2622 4942 FoeHome
+Drop 151
+Turn Right 3112
+Mark 5 345
+Mark 3 258
+Sense RightAhead 1946 300 Food
+Move 366 149
+Move 165 133
+Mark 5 782
+Drop 29
+Move 311 258
+Flip 2 1352 399
+PickUp 513 440
+Mark 4 4281
+PickUp 4 16
+Drop 1152
+Drop 2103
+Unmark 4 3390
+Drop 28
+Drop 1948
+PickUp 10 16
+Move 2531 53
+Flip 2 782 976
+Move 785 1569
+Drop 776
+Flip 3 151 151
+Move 1286 46
+Move 1575 3413
+PickUp 30 13
+Mark 5 67
+Flip 3 379 379
+Mark 4 416
+PickUp 964 2111
+Mark 1 210
+Flip 3 446 446
+Turn Right 156
+Sense Ahead 814 620 FoeHome
+Flip 3 202 202
+PickUp 1556 3021
+Flip 2 1442 2335
+Flip 2 29 37
+Drop 0
+Sense RightAhead 11 29 Food
+Unmark 0 4180
+Turn Right 1111
+Sense RightAhead 4087 2730 Foe
+Mark 3 114
+Sense Here 952 3461 Food
+Mark 3 576
+Turn Left 560
+Drop 657
+Flip 3 254 254
+Mark 1 1096
+Turn Left 28
+Mark 4 2374
+Flip 3 389 389
+Flip 2 372 370
+Turn Right 573
+Move 636 125
+Sense RightAhead 817 1016 Food
+PickUp 520 363
+Move 2529 883
+PickUp 387 551
+Unmark 1 827
+Sense RightAhead 2624 3962 Food
+Turn Left 954
+Unmark 5 2688
+Flip 2 192 1008
+Flip 2 22 30
+Sense LeftAhead 3734 1335 FriendWithFood
+Drop 31
+Turn Left 1161
+PickUp 226 83
+Drop 1417
+Turn Right 1017
+Flip 3 118 118
+Mark 0 454
+Turn Left 859
+Mark 1 2475
+Mark 4 1864
+Sense RightAhead 22 3756 FriendWithFood
+Mark 2 421
+Unmark 4 259
+PickUp 1763 1172
+PickUp 3624 1666
+Move 1991 2675
+Move 179 636
+Mark 0 3500
+Turn Left 89
+Unmark 3 3914
+PickUp 124 460
+Drop 3645
+Sense Here 33 15 FoeMarker
+Move 1190 1265
+Drop 1242
+Mark 0 2665
+Turn Left 14
+Unmark 3 41
+PickUp 308 120
+Unmark 0 1552
+Sense Here 4 7 Food
+Move 106 175
+Flip 2 1013 1527
+Turn Right 1793
+Move 2216 408
+Flip 2 2925 168
+PickUp 1 11
+Sense RightAhead 895 379 FriendWithFood
+PickUp 1413 271
+Drop 677
+PickUp 3382 1565
+PickUp 37 187
+Drop 1841
+Drop 257
+Flip 3 441 441
+Unmark 3 864
+Flip 3 294 294
+Turn Right 1760
+Mark 0 150
+Flip 2 4440 1184
+Drop 350
+Mark 0 106
+Flip 2 0 11
+Flip 3 399 399
+Unmark 3 1344
+Turn Left 4502
+Flip 3 542 542
+Flip 2 1300 525
+Move 2551 3038
+Drop 143
+PickUp 1846 1529
+Flip 2 1362 763
+PickUp 729 4260
+Flip 3 464 464
+Unmark 0 17
+Move 116 104
+Turn Left 124
+Sense Ahead 103 93 Friend
+Move 257 1504
+Mark 3 942
+Unmark 4 2634
+Sense Here 1812 2180 FoeMarker
+Sense Ahead 962 36 Rock
+Mark 2 1899
+Unmark 3 748
+Sense RightAhead 111 42 FoeMarker
+Drop 61
+Mark 5 546
+Turn Left 148
+Turn Left 678
+Mark 2 5413
+Drop 29
+Turn Left 2764
+Move 70 296
+Flip 3 93 93
+PickUp 46 40
+Mark 5 357
+Flip 3 101 101
+Turn Left 2540
+Turn Left 123
+Unmark 4 758
+Turn Left 213
+Drop 206
+Drop 490
+Flip 3 307 307
+PickUp 16 52
+Unmark 4 69
+PickUp 3754 3175
+Unmark 3 2078
+Move 72 64
+Sense LeftAhead 319 272 Foe
+Move 2053 3046
+Mark 0 3141
+Flip 3 247 247
+Drop 1847
+Flip 2 661 1771
+Flip 2 62 132
+Turn Left 4937
+Unmark 1 270
+PickUp 466 507
+Turn Left 1263
+Move 3425 142
+Drop 3673
+Unmark 5 20
+Move 24 55
+PickUp 172 138
+Unmark 0 292
+Flip 2 184 14
+Flip 2 9 3583
+Flip 2 3204 3653
+Flip 3 351 351
+Move 241 160
+Mark 0 214
+Flip 2 2445 275
+Drop 83
+Drop 612
+Move 54 228
+Mark 2 649
+Flip 3 235 235
+Unmark 4 1790
+Flip 3 205 205
+Unmark 5 1353
+Mark 1 410
+PickUp 2714 527
+Turn Right 381
+Unmark 2 1504
+Mark 0 1309
+Turn Right 74
+Turn Left 5620
+Turn Right 12
+Flip 3 309 309
+Sense RightAhead 4525 1908 Foe
+Drop 116
+Turn Right 1734
+Move 2393 3042
+Move 2764 1423
+Flip 3 514 514
+Sense RightAhead 55 45 FoeMarker
+Drop 2490
+Flip 2 65 41
+PickUp 2031 289
+Flip 2 263 2371
+Mark 3 85
+Move 46 62
+Move 1186 1921
+Flip 3 360 360
+Drop 3652
+Unmark 5 232
+Flip 2 1386 476
+Mark 0 1444
+Turn Left 1576
+Drop 378
+Unmark 2 2373
+Unmark 3 2172
+Unmark 3 131
+Unmark 5 300
+Flip 2 1048 1860
+Mark 1 3746
+Mark 5 181
+Flip 2 282 143
+Flip 2 297 1846
+PickUp 58 49
+Mark 5 205
+PickUp 1056 1199
+Drop 47
+Flip 2 95 329
+PickUp 132 350
+Move 3374 792
+Unmark 1 5334
+Drop 4
+Drop 856
+Turn Left 515
+Sense RightAhead 18 132 FoeMarker
+Mark 2 150
+Unmark 0 3874
+Drop 71
+Mark 1 1645
+Mark 1 6
+Flip 2 1189 1534
+PickUp 1248 620
+Unmark 5 396
+Turn Left 2
+Flip 3 323 323
+Unmark 2 4310
+PickUp 222 67
+Drop 71
+Drop 3116
+Mark 5 200
+Drop 434
+Mark 0 169
+Turn Right 1499
+Drop 216
+Turn Right 119
+Drop 3690
+Mark 5 424
+Turn Left 1883
+Move 1786 2140
+Mark 4 5
+Drop 774
+Flip 3 630 630
+Unmark 3 3012
+Sense LeftAhead 1658 464 Home
+Drop 20
+Flip 3 660 660
+Turn Right 21
+Move 357 226
+Flip 2 2427 693
+Sense LeftAhead 1279 1551 FoeHome
+Mark 5 37
+Sense LeftAhead 797 996 FoeHome
+Flip 2 4052 2685
+Flip 2 154 277
+PickUp 4951 830
+Flip 2 38 61
+Unmark 0 274
+Unmark 0 565
+Turn Left 635
+Unmark 2 133
+Turn Right 256
+Turn Right 1664
+Mark 3 479
+Sense Here 977 2429 FoeMarker
+Flip 2 52 79
+Unmark 5 147
+Flip 3 473 473
+Mark 5 1385
+Move 421 87
+Move 1039 271
+Turn Left 50
+Sense Ahead 683 2074 Marker 1
+Move 3 492
+Flip 3 289 289
+Mark 3 2299
+PickUp 15 530
+Flip 3 323 323
+Flip 3 665 665
+Drop 567
+Turn Right 2300
+Drop 2267
+Flip 2 4512 1718
+PickUp 642 465
+Sense Here 950 2026 Friend
+Flip 2 533 1197
+Turn Left 729
+Mark 5 63
+Move 21 73
+Sense RightAhead 52 112 Marker 2
+Mark 5 3060
+Move 598 145
+Flip 3 131 131
+Move 4679 2094
+Flip 2 1644 4246
+Drop 1218
+Mark 3 245
+Unmark 4 90
+Sense Here 4030 2786 Food
+Move 1956 1876
+Flip 2 2356 2230
+PickUp 148 751
+Turn Right 85
+Unmark 1 1925
+Sense LeftAhead 512 1836 Rock
+Move 260 812
+Drop 1064
+PickUp 2413 654
+Move 1437 855
+Mark 2 711
+Drop 1156
+PickUp 170 732
+Flip 2 37 213
+Sense Ahead 1055 5351 FriendWithFood
+Sense Ahead 2293 1609 Friend
+Drop 869
+Mark 0 3995
+Drop 2513
+Flip 2 28 252
+PickUp 41 11
+Unmark 4 3721
+Unmark 4 85
+Sense Here 247 2760 Friend
+Turn Right 1306
+PickUp 162 2
+Mark 4 1883
+Sense RightAhead 12 3086 FoeMarker
+Sense Ahead 223 1277 FoeHome
+Drop 853
+Mark 1 418
+Sense Ahead 771 2174 FoeMarker
+Flip 3 411 411
+Unmark 0 293
+PickUp 245 322
+Sense RightAhead 0 106 FriendWithFood
+PickUp 610 36
+Drop 1112
+Sense RightAhead 143 88 Friend
+Sense Ahead 930 1065 Home
+Flip 3 401 401
+Move 2460 658
+Unmark 3 253
+Unmark 0 2114
+Unmark 2 697
+Flip 2 743 1148
+PickUp 63 199
+Mark 1 7
+PickUp 706 565
+PickUp 504 558
+Drop 1503
+Drop 360
+Flip 2 5182 5245
+Sense Here 6 95 Foe
+PickUp 106 116
+Flip 2 684 2126
+Mark 1 1133
+Move 1015 2127
+Mark 1 6
+Turn Left 793
+Turn Left 1149
+Mark 3 2973
+Flip 2 615 1498
+Drop 726
+Mark 2 583
+Unmark 2 263
+Unmark 3 402
+Flip 3 482 482
+PickUp 994 226
+Turn Left 4254
+Sense LeftAhead 105 519 Food
+Flip 2 410 697
+PickUp 3293 913
+Turn Left 432
+Unmark 1 397
+Move 36 28
+Turn Right 801
+Turn Left 89
+PickUp 18 242
+Move 398 3270
+Turn Right 736
+Mark 0 273
+Drop 63
+PickUp 452 758
+Turn Right 244
+Flip 2 204 178
+Drop 181
+Move 346 339
+Flip 2 58 756
+Sense Here 1120 1470 FriendWithFood
+Mark 2 1917
+Flip 2 778 420
+Sense Ahead 1661 2157 Friend
+Turn Left 4267
+Flip 3 413 413
+PickUp 1027 271
+Turn Left 120
+Turn Right 313
+Sense RightAhead 2237 977 Food
+Flip 2 342 3381
+PickUp 1837 909
+Sense Ahead 3254 2978 Home
+Sense Ahead 1550 2644 Marker 2
+Move 171 124
+Flip 2 3694 2171
+Move 54 57
+Flip 2 224 238
+Unmark 4 628
+PickUp 552 4718
+Flip 3 892 892
+Drop 59
+Turn Right 384
+Mark 0 878
+Turn Left 415
+Drop 114
+Drop 1346
+Move 377 209
+Turn Right 388
+Unmark 1 1190
+Move 1 855
+Flip 2 831 1004
+Flip 2 766 23
+Flip 2 21 980
+PickUp 1370 2935
+Drop 2877
+Flip 2 3 108
+Turn Right 107
+Drop 2231
+Flip 2 2919 1250
+Drop 944
+Flip 3 616 616
+PickUp 554 102
+Move 104 81
+Move 212 767
+Unmark 1 397
+Move 693 215
+Mark 4 1491
+Move 2721 884
+Turn Right 780
+Flip 3 808 808
+Flip 3 435 435
+Unmark 4 1050
+Flip 3 239 239
+PickUp 479 1348
+Turn Right 1768
+Move 3149 869
+Move 12 6
+Flip 3 269 269
+Sense Here 1114 1201 Rock
+Unmark 3 33
+Sense Ahead 867 463 Rock
+Unmark 3 582
+Mark 3 298
+Flip 2 2849 735
+Mark 1 450
+Flip 3 896 896
+Drop 2998
+Flip 2 1629 3534
+Turn Right 106
+Move 2959 4039
+Unmark 3 252
+Mark 3 712
+Move 55 127
+Flip 2 977 4298
+Drop 3
+Flip 2 1743 2891
+Flip 3 470 470
+Flip 3 203 203
+Mark 4 127
+Mark 5 472
+Unmark 1 925
+PickUp 236 1647
+Drop 1285
+Drop 1037
+PickUp 2810 1387
+PickUp 47 365
+Unmark 3 612
+Move 4 121
+Move 149 5
+Flip 3 632 632
+Flip 2 1268 2154
+Mark 5 76
+Mark 1 3332
+Turn Right 97
+Turn Left 334
+Drop 364
+Drop 205
+Mark 3 3838
+Unmark 5 1473
+Turn Right 3415
+PickUp 39 115
+Turn Right 2018
+Sense Ahead 55 127 Home
+Drop 563
+Flip 3 710 710
+Drop 105
+Move 5 124
+Unmark 5 1275
+Sense LeftAhead 114 24 Home
+Turn Right 780
+Flip 2 0 87
+Flip 3 358 358
+PickUp 897 1416
+Flip 2 3120 3794
+Drop 77
+Turn Right 850
+Unmark 0 371
+Unmark 5 2589
+Drop 10
+Drop 28
+Drop 2940
+Flip 3 495 495
+Sense Ahead 193 801 Foe
+PickUp 134 66
+Flip 2 774 394
+PickUp 70 88
+Unmark 2 408
+Flip 3 648 648
+Move 57 8
+Mark 2 183
+Mark 1 180
+Turn Right 165
+Drop 3950
+Sense RightAhead 245 177 FoeHome
+Unmark 2 1929
+PickUp 329 2397
+Move 1156 287
+Move 1951 586
+Drop 774
+Turn Right 50
+Sense LeftAhead 142 339 Food
+Unmark 4 115
+Unmark 0 1455
+Drop 638
+Mark 5 332
+PickUp 18 9
+PickUp 2919 212
+Mark 4 3268
+Drop 168
+Flip 2 774 840
+Flip 2 57 144
+Sense RightAhead 665 419 Friend
+Sense Ahead 3313 12 Food
+Turn Left 1584
+Flip 2 106 102
+Mark 2 1111
+Sense Here 0 101 FoeHome
+Sense Ahead 156 94 Home
+Flip 3 547 547
+Drop 1635
+Mark 2 7
+Drop 63
+Sense Here 2498 3632 Food
+Mark 3 3484
+Flip 2 3390 63
+Flip 2 4337 3780
+Drop 694
+Mark 3 4692
+Flip 3 766 766
+Flip 2 810 606
+Flip 2 1065 549
+Turn Left 738
+Move 263 816
+Flip 2 527 219
+Flip 3 471 471
+Flip 3 519 519
+Turn Right 223
+Sense Here 76 537 FriendWithFood
+Drop 1346
+PickUp 245 352
+Move 248 196
+PickUp 1087 1002
+Mark 4 1246
+Unmark 1 67
+PickUp 1151 2787
+Drop 2980
+Unmark 3 1158
+PickUp 1352 431
+Turn Left 38
+Flip 2 386 266
+Unmark 2 602
+Move 157 458
+Move 1424 1991
+PickUp 1103 236
+Mark 1 728
+Flip 2 1349 642
+Unmark 1 1435
+Unmark 5 148
+Unmark 3 154
+Unmark 0 1948
+Flip 3 607 607
+PickUp 1936 1677
+PickUp 3286 3455
+PickUp 1192 943
+Sense Here 1532 1346 Food
+Flip 3 936 936
+Unmark 0 1993
+Drop 360
+Mark 0 2218
+Turn Right 1930
+PickUp 22 178
+Move 11 392
+Turn Right 316
+Sense RightAhead 43 236 Home
+PickUp 165 21
+Turn Left 1416
+Sense Ahead 4683 3353 FoeMarker
+Unmark 0 3376
+Flip 3 281 281
+Flip 3 665 665
+Turn Right 76
+Mark 0 391
+PickUp 249 604
+Flip 2 3361 1781
+Sense LeftAhead 1718 3344 Food
+Move 2106 1800
+Drop 1594
+Sense Ahead 539 413 Marker 0
+Drop 2959
+Flip 2 4138 1844
+Unmark 4 197
+Unmark 3 2011
+PickUp 883 3160
+Mark 2 1743
+Unmark 4 303
+PickUp 115 807
+Flip 3 1094 1094
+Sense LeftAhead 733 2101 Friend
+Mark 3 762
+Mark 1 63
+Flip 2 1649 2522
+Drop 201
+Drop 175
+Flip 3 539 539
+Unmark 3 1928
+Move 123 149
+Unmark 2 302
+Move 1632 2458
+Sense Here 163 23 Foe
+Move 151 466
+PickUp 461 1118
+Mark 3 51
+Flip 2 2138 2083
+Turn Left 1205
+Flip 2 850 1410
+Drop 999
+Flip 2 560 1220
+Mark 4 1742
+Flip 3 441 441
+Turn Left 1372
+Move 199 40
+Unmark 0 487
+PickUp 1898 1435
+Flip 3 848 848
+Move 550 3903
+Sense Ahead 732 2040 FoeHome
+Turn Right 447
+Move 356 3695
+Flip 2 1079 2003
+Unmark 0 39
+Drop 126
+Turn Right 2225
+Mark 4 311
+Move 90 94
+Flip 2 2225 91
+Drop 93
+Sense Ahead 7 186 Marker 0
+Turn Right 338
+Sense RightAhead 438 1376 Friend
+Move 395 181
+PickUp 1785 1896
+Mark 1 410
+Drop 338
+Drop 108
+Sense RightAhead 130 76 Food
+Drop 1151
+PickUp 3384 2510
+Flip 3 361 361
+Drop 748
+Drop 331
+Move 717 1363
+Sense LeftAhead 53 18 Rock
+Drop 541
+Flip 3 418 418
+PickUp 46 511
+Mark 2 96
+Drop 796
+Mark 0 1
+Move 56 162
+Flip 2 3024 305
+Move 892 2117
+Unmark 1 167
+Flip 2 129 36
+PickUp 22 294
+Flip 2 80 37
+PickUp 1098 553
+Drop 86
+Flip 2 151 181
+Flip 2 604 643
+Drop 482
+Unmark 2 1632
+Flip 3 1060 1060
+Sense RightAhead 241 209 FriendWithFood
+Sense LeftAhead 2195 2712 Rock
+Sense Here 657 1437 Foe
+Unmark 2 1698
+Flip 2 4164 2551
+Flip 2 209 110
+Drop 84
+Sense Here 235 44 Foe
+PickUp 816 1014
+Turn Left 1460
+Unmark 2 4782
+Turn Right 1434
+Drop 2378
+Drop 327
+Move 1516 2127
+Unmark 4 1084
+Drop 959
+Mark 5 1056
+Flip 2 458 987
+Mark 5 679
+Mark 1 156
+Turn Left 66
+Mark 2 1115
+Mark 0 4291
+Flip 2 2968 571
+Sense LeftAhead 1480 601 Food
+Turn Left 103
+Mark 3 5
+Flip 2 2558 2552
+Turn Right 2604
+Drop 552
+Mark 2 839
+Move 702 2023
+PickUp 296 582
+Mark 2 2113
+Flip 2 703 1136
+PickUp 1234 2662
+Move 189 74
+Drop 186
+Sense Here 230 50 Food
+Drop 130
+Turn Right 459
+Sense LeftAhead 152 54 FriendWithFood
+Unmark 4 375
+Flip 2 806 1824
+PickUp 4188 3776
+Drop 2150
+Drop 138
+Drop 97
+Turn Right 2170
+Mark 3 454
+Mark 5 1109
+Flip 3 458 458
+Sense RightAhead 138 20 FoeMarker
+Mark 1 500
+Flip 3 620 620
+Mark 0 1064
+Drop 534
+Move 3009 3319
+Sense RightAhead 217 232 FriendWithFood
+Unmark 0 63
+PickUp 2324 2715
+Unmark 1 2027
+Sense Ahead 34 1558 FoeMarker
+Flip 2 189 110
+Sense Here 1363 602 FriendWithFood
+Unmark 0 2471
+Turn Right 694
+Move 107 126
+Flip 2 1962 16
+Sense RightAhead 203 761 Friend
+Mark 0 63
+Flip 3 929 929
+Unmark 2 1562
+PickUp 226 38
+Unmark 0 2804
+Unmark 4 1137
+Move 224 175
+Mark 4 346
+Turn Left 266
+Flip 3 394 394
+Drop 26
+Move 162 61
+Mark 4 485
+Flip 2 1 301
+PickUp 616 1147
+PickUp 883 1463
+PickUp 696 823
+Unmark 5 1911
+PickUp 1 108
+Flip 3 552 552
+Unmark 1 3931
+Flip 2 557 590
+Turn Left 371
+Unmark 2 239
+PickUp 4047 1433
+Flip 3 829 829
+Turn Left 383
+Unmark 3 2591
+Move 1580 230
+Flip 2 588 2469
+Drop 912
+Turn Left 770
+Flip 3 1205 1205
+Mark 1 226
+Unmark 2 252
+Drop 457
+Flip 2 79 228
+Mark 4 1412
+Drop 898
+PickUp 2101 781
+Sense LeftAhead 2985 2345 Friend
+PickUp 168 63
+PickUp 25 157
+Sense Here 4920 476 FoeHome
+Mark 1 43
+Move 88 307
+Unmark 5 3
+Drop 731
+Unmark 1 1257
+Drop 47
+Turn Right 739
+Unmark 1 516
+Move 51 1257
+Drop 2599
+PickUp 1142 2071
+Mark 4 409
+Sense Ahead 2380 1233 Foe
+Unmark 3 1263
+Unmark 4 299
+Move 207 97
+PickUp 16 57
+Flip 3 879 879
+Flip 2 1283 1114
+Unmark 5 1144
+Unmark 1 3233
+Drop 1111
+Drop 77
+Unmark 3 520
+Turn Right 470
+Mark 3 1250
+Turn Right 2483
+Unmark 0 1063
+Move 106 196
+Unmark 0 3368
+PickUp 459 75
+Turn Right 2616
+Sense LeftAhead 1472 123 FriendWithFood
+Mark 1 1439
+Mark 2 2901
+Drop 3982
+Sense Ahead 654 1355 Friend
+Flip 2 214 419
+Move 533 360
+Turn Left 1821
+Flip 2 1481 1513
+Flip 2 445 929
+Turn Left 3960
+Sense LeftAhead 695 1254 FoeHome
+Move 744 443
+Move 1314 719
+Flip 3 390 390
+Sense Here 1550 2351 Food
+Sense RightAhead 2563 4138 Home
+Flip 2 1688 3263
+Drop 1169
+Flip 3 976 976
+Move 439 497
+Unmark 4 85
+Sense Here 648 845 FoeHome
+Sense RightAhead 472 3080 Marker 5
+Sense Here 857 7 Foe
+Flip 3 948 948
+Unmark 3 162
+Turn Right 674
+PickUp 2420 1210
+Sense RightAhead 1684 37 Rock
+Sense Here 172 322 Foe
+Flip 2 2084 1978
+Turn Right 2557
+Mark 5 101
+Flip 3 913 913
+Unmark 1 1265
+Drop 1492
+Drop 686
+Move 3451 1710
+Mark 3 1713
+Turn Left 1696
+Turn Left 1032
+Drop 3995
+Flip 2 111 330
+Sense Here 1617 1020 FoeHome
+Turn Left 391
+PickUp 3116 2206
+Unmark 1 287
+Sense RightAhead 1889 3854 FoeHome
+Move 2343 2674
+Drop 1335
+Move 4177 148
+Mark 1 1166
+Unmark 3 168
+Mark 2 749
+Turn Left 2730
+Mark 3 299
+PickUp 222 321
+Unmark 3 482
+Flip 2 153 163
+PickUp 2373 1899
+Drop 1081
+Flip 2 2992 1691
+Unmark 1 2513
+Sense LeftAhead 52 307 FoeMarker
+Drop 216
+Flip 3 942 942
+Flip 2 2958 3228
+Turn Left 156
+Move 172 137
+Mark 3 117
+Mark 4 886
+Unmark 1 34
+Drop 351
+PickUp 415 802
+Turn Right 2631
+Flip 3 1167 1167
+Drop 942
+Flip 3 1092 1092
+Drop 313
+Mark 0 2830
+Sense LeftAhead 1280 1803 Food
+Sense Here 2495 1775 Rock
+Flip 2 603 26
+Turn Left 1632
+Flip 2 727 228
+Mark 1 4402
+Flip 2 1726 2194
+Move 1643 1464
+Flip 3 1299 1299
+Mark 5 416
+PickUp 208 2905
+Mark 4 2374
+Move 2433 2263
+Mark 2 138
+Flip 2 668 3974
+PickUp 278 146
+PickUp 465 969
+PickUp 204 289
+Drop 3658
+Move 5195 1953
+Flip 3 822 822
+Unmark 0 2109
+Flip 2 47 52
+PickUp 178 8
+Drop 105
+Sense LeftAhead 1296 206 Friend
+Sense Ahead 395 656 Marker 4
+Sense Ahead 206 1732 FoeMarker
+Flip 2 260 2925
+Sense RightAhead 318 422 Friend
+Flip 3 697 697
+Drop 2147
+Sense RightAhead 345 269 Food
+Turn Left 476
+Turn Right 2414
+Mark 3 1173
+Sense Ahead 289 255 FoeMarker
+Turn Left 207
+Sense Here 3776 1786 FoeMarker
+Mark 2 6
+Turn Left 1254
+Move 58 229
+Flip 2 2967 638
+Mark 4 9
+Flip 3 590 590
+Sense Here 1191 222 Food
+Flip 2 307 164
+Flip 2 281 70
+Sense Here 197 121 Rock
+Move 4368 1305
+Move 1595 1037
+PickUp 216 261
+Move 629 53
+Mark 3 8
+PickUp 2761 4124
+Flip 2 87 118
+Turn Left 70
+Flip 2 210 12
+Mark 3 422
+Turn Right 4155
+Sense LeftAhead 143 1123 Rock
+Unmark 3 266
+Sense RightAhead 39 56 Rock
+Drop 534
+Turn Left 4030
+Move 200 925
+Unmark 5 883
+Flip 2 23 305
+Flip 2 4482 1892
+Mark 5 1698
+Move 265 468
+Move 56 300
+Unmark 5 243
+Sense RightAhead 497 861 FoeHome
+Mark 4 154
+Mark 1 241
+PickUp 538 82
+Move 373 298
+Unmark 1 225
+PickUp 3294 2577
+Sense RightAhead 108 226 FoeHome
+PickUp 284 490
+Unmark 0 1280
+Sense RightAhead 3504 3502 Marker 3
+PickUp 250 36
+Drop 605
+Drop 384
+Unmark 3 29
+Flip 3 1301 1301
+Flip 2 1399 622
+Drop 114
+Mark 2 360
+Flip 2 241 87
+Turn Left 431
+Flip 3 951 951
+Turn Left 355
+Move 1071 1318
+Flip 2 1006 1100
+Drop 1773
+Sense Here 831 1345 Foe
+Move 1624 2924
+Mark 0 962
+Unmark 1 2058
+Flip 2 1279 702
+Flip 2 170 331
+Unmark 5 1370
+Drop 4381
+Turn Right 1331
+Sense Ahead 2802 1471 FoeHome
+Flip 3 1105 1105
+Drop 1563
+Sense LeftAhead 1207 629 Food
+Flip 2 732 742
+Flip 3 612 612
+Flip 2 1268 908
+Flip 3 608 608
+PickUp 654 515
+Turn Left 1897
+Drop 351
+Drop 3890
+Mark 1 71
+Mark 3 4319
+Unmark 4 210
+Drop 3298
+PickUp 276 590
+Drop 2063
+Flip 2 3031 3377
+Flip 3 709 709
+Mark 3 1697
+Turn Right 20
+Move 39 163
+Move 936 184
+Flip 3 864 864
+Drop 248
+Move 941 792
+Turn Right 1397
+Move 444 834
+Flip 2 190 138
+Sense RightAhead 790 4603 Friend
+Move 2957 2460
+Flip 2 978 2998
+Sense LeftAhead 357 183 Home
+Move 76 299
+Sense Here 964 1038 Marker 1
+Mark 5 578
+Unmark 2 1184
+PickUp 2992 1243
+Unmark 5 4991
+Flip 3 1145 1145
+Sense LeftAhead 330 332 Home
+Unmark 2 3890
+Unmark 2 3549
+Move 688 733
+Turn Left 53
+Unmark 2 455
+Unmark 2 1327
+PickUp 14 0
+Drop 2091
+Flip 3 1027 1027
+Mark 2 200
+Turn Left 1094
+PickUp 3252 5212
+Sense LeftAhead 1513 664 Home
+Turn Left 906
+Sense Here 137 224 FoeHome
+Flip 2 99 189
+Move 116 370
+Flip 3 1478 1478
+Move 443 1570
+Sense LeftAhead 556 2109 Marker 4
+Flip 2 486 398
+PickUp 3546 1882
+Mark 4 1403
+Sense LeftAhead 348 41 FoeMarker
+Unmark 4 2637
+Unmark 0 364
+Flip 2 596 2235
+Move 137 127
+PickUp 1637 244
+Turn Left 364
+Drop 357
+PickUp 206 333
+Unmark 4 4097
+Drop 3742
+Move 101 191
+Sense RightAhead 1206 781 Friend
+Flip 2 2197 2996
+Flip 2 2537 1138
+Turn Left 4293
+Turn Right 217
+Flip 2 331 276
+Turn Right 1097
+Sense LeftAhead 100 338 Friend
+Flip 2 4606 4703
+Mark 3 1060
+Sense RightAhead 168 62 Friend
+Sense LeftAhead 747 1213 FriendWithFood
+Mark 5 3076
+Move 4740 2889
+Sense Ahead 1526 3477 Rock
+PickUp 349 318
+Flip 2 276 411
+Sense LeftAhead 232 63 Foe
+Flip 2 601 1497
+Move 811 617
+Turn Right 485
+PickUp 208 287
+Flip 3 1145 1145
+Sense Here 294 51 Foe
+Move 4362 3531
+Flip 2 873 5333
+Drop 1180
+Flip 2 253 21
+Move 3088 2247
+PickUp 266 412
+Drop 5021
+Move 2101 2725
+Turn Left 1869
+Unmark 2 359
+Sense RightAhead 85 150 Rock
+Flip 2 247 175
+Sense Here 336 1510 FoeMarker
+Unmark 4 935
+Flip 2 1353 1305
+Drop 247
+Mark 3 2297
+Unmark 5 315
+Unmark 3 2056
+Unmark 2 3497
+Sense Ahead 244 55 Home
+Mark 5 1166
+Move 710 190
+Drop 410
+Turn Left 764
+Unmark 2 2004
+Flip 2 197 1612
+Flip 3 573 573
+Flip 3 985 985
+Sense LeftAhead 130 116 Rock
+Sense Ahead 3876 452 FoeMarker
+Drop 993
+Move 79 1767
+Unmark 2 25
+Mark 2 1663
+Unmark 5 1368
+PickUp 501 546
+Unmark 3 1892
+Drop 839
+Flip 3 925 925
+Move 1396 140
+Drop 122
+Turn Left 1674
+Drop 310
+Drop 531
+Move 831 1366
+Turn Left 1971
+PickUp 1598 285
+Turn Left 5061
+Turn Left 199
+Unmark 1 5619
+Sense RightAhead 5092 2057 Food
+Move 1792 529
+Flip 2 1728 3378
+Turn Right 52
+Drop 89
+Turn Right 2478
+Unmark 5 175
+Turn Right 7
+Turn Right 835
+Drop 318
+Flip 2 3766 2098
+Sense Here 87 243 Rock
+Flip 3 1405 1405
+Drop 225
+Drop 214
+PickUp 1464 176
+Drop 2941
+Drop 4226
+Sense Here 2021 1046 FriendWithFood
+Turn Right 1294
+Turn Left 209
+Move 2310 2673
+Unmark 3 4403
+Flip 2 133 95
+Unmark 4 5169
+Turn Left 3739
+Flip 3 1359 1359
+Move 544 692
+Flip 2 327 244
+Turn Left 707
+Drop 1943
+Flip 2 93 338
+Flip 3 952 952
+PickUp 1576 2274
+PickUp 1016 311
+Flip 3 1495 1495
+Mark 4 4364
+Drop 292
+Move 137 376
+Mark 0 213
+Mark 3 710
+Mark 3 30
+Drop 253
+Turn Left 259
+Sense RightAhead 108 446 Rock
+Sense LeftAhead 2244 2995 FoeHome
+Move 640 1490
+Move 352 1742
+Drop 616
+Move 230 396
+Sense Ahead 422 182 Marker 5
+Drop 1069
+Flip 2 409 449
+Flip 3 915 915
+Turn Left 2484
+Unmark 5 1365
+PickUp 1221 872
+Turn Left 451
+Turn Right 142
+PickUp 451 262
+Flip 3 690 690
+Flip 3 613 613
+Flip 3 1679 1679
+Drop 654
+Sense LeftAhead 948 118 FoeMarker
+Mark 4 851
+Turn Left 970
+Mark 1 217
+Unmark 3 1363
+Drop 371
+Turn Left 2175
+Flip 2 376 785
+Turn Left 498
+Move 185 524
+Turn Right 673
+Unmark 4 100
+PickUp 104 198
+Flip 3 1094 1094
+Mark 2 547
+Unmark 4 2061
+Flip 2 246 362
+Move 1948 1431
+PickUp 3075 2641
+Flip 3 1633 1633
+Turn Right 2248
+Flip 3 595 595
+Drop 32
+Sense Here 386 21 Rock
+Move 419 384
+Move 321 245
+Move 11 182
+Sense RightAhead 574 1883 Marker 2
+PickUp 821 793
+Drop 61
+Move 0 147
+Mark 3 457
+Flip 2 129 68
+Move 1806 3949
+Turn Left 142
+Unmark 3 1023
+Sense Here 2200 394 FoeHome
+Turn Right 2067
+Flip 2 447 224
+Flip 3 1697 1697
+Flip 3 647 647
+Unmark 1 2010
+Drop 2536
+Move 1106 1379
+Drop 3803
+Mark 2 238
+Flip 2 33 426
+Move 2672 2234
+Drop 1161
+Move 583 1070
+Move 4229 4008
+Flip 3 1789 1789
+PickUp 3974 725
+Flip 2 2229 4392
+Unmark 3 5347
+Flip 3 943 943
+Drop 179
+Flip 3 689 689
+Sense LeftAhead 238 1212 Rock
+Unmark 2 4094
+Sense Ahead 2915 899 Rock
+Mark 2 5032
+Sense Ahead 2 272 Marker 5
+PickUp 4306 2082
+Move 303 308
+Flip 2 636 1855
+Turn Right 464
+Unmark 0 3716
+PickUp 3400 2863
+Unmark 4 34
+Turn Left 3125
+Turn Right 1659
+Turn Right 685
+Flip 2 224 93
+Drop 159
+Mark 1 415
+PickUp 2020 1918
+Sense Ahead 433 272 Foe
+Sense Here 5184 560 Home
+Drop 615
+PickUp 440 1210
+Move 1747 1002
+Drop 3762
+Flip 2 1137 651
+Turn Left 555
+Sense RightAhead 204 1069 Friend
+Move 1007 137
+Sense Here 1449 1024 FoeMarker
+PickUp 86 970
+Turn Right 493
+Mark 5 1456
+Flip 3 870 870
+PickUp 178 2629
+Move 370 4367
+Move 323 149
+Turn Right 8
+Unmark 2 96
+Turn Right 1158
+Sense RightAhead 74 23 Marker 5
+Move 2288 3298
+Move 326 511
+Turn Left 126
+Move 1641 2472
+Sense RightAhead 639 23 FoeHome
+Flip 2 1615 15
+Move 508 10
+Flip 3 1416 1416
+Unmark 5 486
+PickUp 2663 2335
+Turn Left 22
+Sense Here 1847 4016 Home
+Move 1184 1189
+Unmark 4 2075
+Flip 2 3282 1094
+Drop 227
+Move 4480 3598
+Unmark 0 170
+Flip 3 712 712
+Unmark 5 1205
+Drop 4192
+Sense LeftAhead 1994 5006 Home
+Unmark 5 432
+Move 372 347
+Unmark 1 3003
+Mark 3 1336
+Move 863 464
+Move 843 3996
+Sense Ahead 161 197 Marker 3
+Mark 3 2919
+Drop 1024
+Flip 2 1099 2475
+Sense Ahead 1805 2850 FriendWithFood
+PickUp 726 1382
+Turn Left 243
+Unmark 4 1159
+PickUp 50 71
+PickUp 264 164
+Move 417 26
+Flip 3 1440 1440
+Unmark 5 64
+Mark 2 408
+Drop 6
+Drop 989
+Turn Right 1965
+Move 854 987
+Move 148 209
+Sense Here 95 250 Home
+Mark 1 725
+Drop 276
+Move 280 399
+PickUp 3879 4078
+Mark 1 402
+Unmark 3 514
+Unmark 0 227
+Unmark 2 175
+Turn Right 46
+Turn Left 250
+Unmark 2 510
+Move 3861 1644
+Flip 2 471 259
+PickUp 1345 1346
+Flip 3 1648 1648
+Turn Left 798
+PickUp 92 721
+Mark 4 190
+Unmark 4 1594
+Turn Right 758
+PickUp 3341 3158
+PickUp 474 18
+Sense Here 3683 4082 Rock
+Flip 3 729 729
+Unmark 1 1875
+Flip 2 1259 2364
+Flip 2 982 829
+Unmark 4 2218
+Mark 2 1205
+Flip 3 916 916
+Turn Right 261
+Flip 2 332 658
+Mark 5 174
+Mark 3 951
+Mark 5 2155
+Flip 2 318 336
+Move 353 500
+Turn Right 1104
+Unmark 3 292
+Flip 2 434 359
+Sense RightAhead 1962 353 FriendWithFood
+Mark 2 1516
+Flip 2 427 499
+Unmark 0 422
+Flip 2 396 1223
+Turn Right 158
+Turn Left 109
+Mark 0 135
+Turn Right 3161
+Flip 2 259 588
+Mark 5 3232
+Mark 4 3956
+PickUp 5046 4787
+Sense LeftAhead 191 271 FoeHome
+Flip 2 1040 631
+Flip 3 1401 1401
+Mark 1 3748
+Flip 3 1713 1713
+Flip 2 983 2147
+Mark 4 191
+Move 204 280
+PickUp 1887 1233
+Move 24 43
+Turn Right 592
+Flip 2 220 229
+Sense LeftAhead 441 348 Friend
+Flip 2 593 1614
+PickUp 2944 107
+Unmark 0 72
+Turn Right 159
+PickUp 2414 1784
+Drop 546
+Flip 3 648 648
+Flip 2 365 471
+Flip 2 318 593
+Sense RightAhead 334 69 FoeHome
+Turn Left 300
+Mark 1 492
+Sense Here 1526 4116 Home
+Sense RightAhead 314 1678 Foe
+Sense Here 978 436 FoeHome
+Flip 2 926 628
+Flip 2 2188 631
+Move 324 315
+Flip 2 87 582
+Sense LeftAhead 134 1089 Friend
+Flip 2 716 2933
+Turn Left 201
+Turn Left 126
+Unmark 1 1986
+Mark 0 2134
+Turn Right 1490
+Flip 3 707 707
+Flip 2 608 1519
+PickUp 5183 5047
+Unmark 1 196
+PickUp 211 572
+Flip 2 80 381
+PickUp 602 1518
+Mark 1 4396
+Sense RightAhead 213 482 FriendWithFood
+Sense LeftAhead 1799 825 FoeHome
+Move 426 458
+Flip 2 189 1441
+Flip 3 998 998
+Unmark 5 245
+Flip 3 913 913
+Drop 793
+PickUp 3226 2335
+Mark 2 4663
+Flip 3 793 793
+PickUp 1455 1
+Flip 2 501 1660
+Mark 1 2018
+Sense RightAhead 487 190 Foe
+Turn Left 649
+Unmark 5 306
+Move 95 467
+Drop 1822
+Drop 34
+Move 387 157
+Flip 2 45 1465
+Drop 3217
+Flip 2 1788 2977
+Move 2231 1344
+Flip 2 2000 2857
+Flip 2 98 607
+Move 494 338
+PickUp 810 1474
+Drop 4597
+Mark 1 341
+Mark 4 2384
+Turn Right 1404
+PickUp 511 962
+Flip 2 807 752
+Flip 2 159 588
+Turn Right 997
+Flip 2 966 1006
+Sense RightAhead 565 385 FriendWithFood
+Turn Right 1592
+Drop 1673
+Turn Left 185
+Sense LeftAhead 83 770 Friend
+Flip 2 514 172
+Mark 0 445
+Unmark 5 2079
+Flip 2 251 385
+Flip 2 293 602
+Flip 2 4140 1032
+Sense Ahead 3555 2402 Friend
+Flip 2 975 2643
+Unmark 5 346
+Turn Left 411
+Drop 1262
+PickUp 3196 3430
+Drop 506
+Drop 406
+Unmark 3 101
+Move 56 1239
+Sense LeftAhead 960 2077 FoeHome
+Turn Right 379
+Move 1704 1773
+Unmark 1 212
+Mark 5 505
+Move 345 609
+Unmark 2 425
+Turn Left 1047
+Sense Ahead 1741 1941 FriendWithFood
+Move 133 108
+PickUp 893 620
+PickUp 1571 3079
+Turn Left 1281
+Drop 1290
+Mark 0 2768
+Flip 2 703 422
+Flip 2 100 663
+PickUp 409 109
+Turn Right 457
+Drop 370
+Flip 2 20 617
+PickUp 174 160
+Unmark 1 3461
+Drop 565
+Unmark 2 1828
+Unmark 0 985
+Mark 3 832
+PickUp 1075 2082
+PickUp 578 327
+Flip 2 1839 1663
+Sense Here 1455 757 Rock
+PickUp 555 75
+Sense RightAhead 1142 1243 Friend
+Flip 2 127 258
+Drop 1057
+Unmark 1 307
+Mark 2 2977
+Move 401 207
+Turn Right 816
+Drop 242
+Turn Right 4200
+Sense Ahead 620 125 Foe
+PickUp 953 891
+Turn Right 1096
+Turn Left 455
+Unmark 4 359
+Unmark 0 172
+Unmark 0 620
+Sense RightAhead 896 1037 Home
+Flip 3 2079 2079
+Sense LeftAhead 279 568 Rock
+Move 603 149
+PickUp 810 141
+Sense RightAhead 1056 856 Rock
+Drop 492
+PickUp 555 176
+Flip 3 1637 1637
+Flip 2 2895 2751
+Drop 1851
+Move 1511 305
+Mark 3 5256
+Move 3367 2280
+Move 3898 3340
+PickUp 284 1880
+Move 54 414
+Flip 2 455 646
+Flip 2 2980 1617
+Turn Right 526
+Flip 2 1948 192
+Drop 612
+Unmark 0 922
+Sense Ahead 3063 242 Home
+Move 139 361
+Mark 2 3024
+Flip 3 1895 1895
+Mark 2 1728
+Drop 778
+Flip 3 1526 1526
+PickUp 3475 3555
+Sense RightAhead 1757 125 Rock
+Mark 3 429
+Unmark 2 3331
+Move 53 1567
+PickUp 1940 1927
+Flip 2 35 794
+Flip 3 1712 1712
+Mark 0 2389
+Unmark 0 193
+Sense Ahead 2111 2202 FoeHome
+Turn Right 141
+Turn Left 1485
+Turn Left 430
+Flip 3 752 752
+Unmark 0 1732
+Mark 2 434
+Unmark 3 1363
+Flip 3 1973 1973
+Move 1907 1039
+Flip 2 1155 820
+Move 74 545
+Flip 3 826 826
+Turn Left 270
+Turn Right 471
+Sense Ahead 375 89 Friend
+Drop 287
+Unmark 4 742
+PickUp 678 359
+Flip 2 483 212
+Turn Right 724
+PickUp 1457 5080
+Drop 282
+Flip 3 790 790
+Move 703 556
+Flip 3 1334 1334
+Unmark 3 2500
+Flip 2 1096 1024
+Turn Left 626
+Flip 2 384 205
+Flip 2 28 719
+Drop 420
+Flip 3 1549 1549
+Drop 429
+Sense RightAhead 2480 31 Friend
+Flip 3 1385 1385
+Flip 3 1985 1985
+Turn Right 74
+PickUp 697 609
+PickUp 954 4682
+Sense LeftAhead 2081 1100 Friend
+PickUp 3421 2502
+Unmark 0 1073
+Drop 3830
+Unmark 3 87
+Drop 481
+Drop 725
+Sense LeftAhead 235 3677 FoeMarker
+Turn Right 2232
+Mark 1 2718
+Turn Left 2650
+Turn Left 721
+Turn Right 693
+PickUp 1333 591
+Flip 3 2090 2090
+Unmark 0 782
+PickUp 1622 1996
+Mark 2 191
+Turn Right 2172
+Flip 2 713 625
+Turn Left 278
+Flip 2 530 682
+Turn Right 710
+Mark 4 347
+PickUp 103 733
+Unmark 3 331
+Flip 2 1461 259
+Move 394 753
+PickUp 2303 1185
+Move 3083 150
+Turn Left 268
+Sense LeftAhead 764 516 FoeMarker
+Sense Here 714 646 FriendWithFood
+Flip 2 2418 2089
+Sense RightAhead 679 943 FriendWithFood
+PickUp 556 127
+Drop 1097
+Move 2933 245
+Flip 2 3716 747
+Sense RightAhead 1448 896 Marker 4
+Sense RightAhead 657 1516 Foe
+Turn Right 570
+Turn Left 829
+Turn Right 2724
+Mark 1 1383
+PickUp 509 2319
+Sense LeftAhead 154 53 FriendWithFood
+Move 434 153
+Mark 3 1584
+Flip 2 2062 147
+PickUp 512 1260
+Unmark 0 57
+Mark 0 712
+Flip 2 67 464
+Unmark 4 588
+Unmark 4 125
+Mark 0 205
+Unmark 3 81
+Flip 2 888 660
+Mark 1 685
+Unmark 0 1968
+Turn Left 886
+Drop 381
+Drop 540
+Move 248 162
+Drop 537
+PickUp 412 52
+PickUp 600 945
+Drop 448
+Move 64 263
+Unmark 2 46
+Turn Right 1516
+Sense Here 2805 2258 Marker 5
+Move 442 1320
+Flip 2 1244 264
+PickUp 506 1348
+Turn Right 1844
+Drop 373
+PickUp 212 877
+Sense LeftAhead 204 564 Rock
+Mark 3 1683
+Unmark 4 532
+Drop 340
+Turn Left 1821
+Mark 2 221
+Sense Here 2988 1567 Food
+Sense RightAhead 1192 1848 Foe
+Unmark 0 114
+Drop 805
+Sense Here 408 4791 Rock
+Flip 2 4687 1598
+Move 163 416
+Flip 3 1600 1600
+Turn Left 1361
+Unmark 1 335
+Drop 435
+Sense Here 1679 1479 Rock
+Unmark 3 365
+Mark 1 1056
+Move 4327 5283
+Drop 489
+Flip 3 1451 1451
+Turn Right 524
+Flip 2 2063 1780
+Unmark 5 2165
+Move 102 523
+Flip 2 2573 363
+Move 2487 1172
+Move 1675 1161
+Drop 197
+PickUp 496 639
+Drop 187
+Drop 1124
+PickUp 3607 1004
+Flip 2 492 520
+Mark 2 628
+Sense RightAhead 3193 2680 FriendWithFood
+Flip 2 148 646
+Unmark 0 1231
+Flip 2 1759 2339
+Flip 2 536 792
+Mark 5 14
+Move 1398 1380
+Flip 3 1036 1036
+Drop 545
+Turn Left 215
+PickUp 785 110
+Mark 2 44
+Drop 105
+Move 376 18
+Move 355 144
+Flip 3 2222 2222
+Flip 3 1931 1931
+Sense Ahead 1453 971 Marker 1
+PickUp 770 597
+PickUp 165 688
+Mark 3 4341
+Turn Right 2752
+Drop 764
+Flip 3 1799 1799
+Move 1622 3072
+Flip 2 2793 1660
+Turn Left 516
+Unmark 2 791
+Sense Here 185 535 FriendWithFood
+Sense Ahead 15 506 Food
+Move 1337 981
+Flip 3 1789 1789
+PickUp 1078 1297
+Drop 2420
+Sense RightAhead 2129 1740 Foe
+Unmark 2 771
+Move 679 265
+Move 741 1245
+PickUp 2555 1394
+Flip 2 2772 3401
+Sense Ahead 868 3556 Food
+Flip 2 158 625
+Mark 2 3947
+Move 148 29
+Flip 2 354 805
+Flip 2 2045 297
+Turn Left 3209
+Flip 2 638 1487
+Drop 737
+Move 1945 4724
+Drop 1365
+PickUp 873 90
+Mark 2 352
+Flip 3 2163 2163
+Mark 5 970
+Mark 1 1152
+Turn Left 4117
+PickUp 713 625
+Turn Right 176
+Flip 2 952 132
+Unmark 0 354
+Sense Here 1945 1432 Foe
+Drop 243
+Flip 2 755 830
+Move 2015 2042
+Move 2998 3295
+Turn Left 720
+Mark 4 1001
+Sense LeftAhead 5009 1279 FoeHome
+Mark 0 1608
+Drop 221
+Mark 3 516
+Turn Left 823
+PickUp 510 1576
+Flip 3 2230 2230
+Turn Left 4293
+Sense LeftAhead 517 195 Friend
+Move 326 33
+Drop 2105
+Mark 2 642
+Sense Ahead 986 328 Home
+Mark 3 901
+Unmark 2 411
+Flip 3 1725 1725
+Sense Here 328 154 FoeMarker
+Flip 2 3241 2672
+Mark 3 484
+Sense Ahead 1260 4565 Rock
+Flip 2 701 61
+Turn Right 804
+Move 20 498
+Drop 313
+Drop 3566
+Drop 1229
+Drop 908
+Unmark 5 447
+Move 2728 4021
+Sense RightAhead 2378 2694 FoeHome
+Mark 3 755
+Turn Left 563
+Move 3184 1563
+Move 205 482
+Move 4852 3003
+Flip 3 2355 2355
+Move 1250 188
+Sense LeftAhead 661 708 FoeHome
+Move 39 672
+Turn Left 428
+Drop 826
+Drop 1411
+Move 769 1734
+Turn Right 590
+Sense RightAhead 165 1232 FoeHome
+Flip 3 1809 1809
+PickUp 429 212
+Move 383 656
+Mark 3 284
+Unmark 0 681
+PickUp 835 1291
+Drop 236
+PickUp 1810 2766
+Drop 859
+Unmark 5 1507
+Drop 1208
+Drop 822
+Flip 2 459 1288
+Flip 3 1156 1156
+Drop 11
+Unmark 2 3039
+Mark 5 2284
+Flip 3 1869 1869
+Move 650 126
+PickUp 424 879
+Drop 501
+PickUp 860 790
+Flip 2 2560 1545
+Sense RightAhead 661 716 Marker 5
+Unmark 3 931
+Drop 639
+Drop 842
+Drop 1210
+Mark 0 668
+PickUp 593 5
+Unmark 4 3147
+PickUp 1049 20
+Drop 209
+Flip 2 3196 616
+Flip 3 2195 2195
+Unmark 3 22
+Turn Left 424
+Unmark 1 954
+Turn Left 2036
+Drop 612
+Unmark 0 1200
+Mark 1 1150
+Move 1846 702
+Unmark 2 1099
+Move 338 750
+Flip 3 1424 1424
+Unmark 2 1244
+Turn Right 3511
+Mark 1 669
+Flip 2 3651 558
+Unmark 1 327
+Drop 71
+Sense Here 468 194 FriendWithFood
+Unmark 0 3028
+Flip 2 765 439
+Turn Right 450
+Drop 2756
+PickUp 411 1052
+Unmark 3 118
+Flip 3 1503 1503
+Flip 3 2432 2432
+Sense RightAhead 1909 3151 FriendWithFood
+Turn Left 889
+PickUp 2161 1785
+Mark 2 391
+Turn Left 379
+Unmark 4 1706
+PickUp 1181 1270
+Mark 2 52
+Turn Left 664
+Turn Left 503
+Drop 620
+Mark 4 207
+Flip 3 1597 1597
+Turn Right 1040
+Sense Ahead 89 428 Foe
+Sense LeftAhead 884 49 Friend
+Unmark 2 3057
+Turn Right 4367
+Unmark 5 251
+Turn Left 888
+Unmark 1 59
+PickUp 1461 4073
+Flip 3 1967 1967
+Turn Left 4859
+Drop 619
+PickUp 5146 1664
+Sense Here 1718 2303 FoeMarker
+Unmark 3 91
+PickUp 1238 1321
+Flip 2 94 191
+Unmark 3 292
+Unmark 4 384
+Unmark 5 349
+Mark 4 137
+Flip 2 953 322
+PickUp 370 6
+Drop 1955
+PickUp 2980 653
+Turn Right 1775
+Unmark 0 1631
+Unmark 3 259
+Drop 3627
+Mark 5 104
+Unmark 3 615
+Move 191 1298
+Drop 392
+Move 492 955
+Move 778 966
+Unmark 0 357
+Unmark 1 766
+PickUp 362 509
+PickUp 2747 639
+Sense Ahead 173 234 Rock
+Mark 2 555
+Move 738 176
+Move 1911 2531
+PickUp 2592 3043
+Drop 399
+PickUp 686 904
+Mark 0 2592
+Sense Ahead 3557 3820 Food
+Flip 2 375 315
+Flip 2 1640 316
+Unmark 4 768
+Turn Left 1447
+Flip 2 3505 1245
+Drop 261
+PickUp 2437 4800
+PickUp 895 1587
+Move 1586 140
+Move 4113 120
+Move 1983 719
+Mark 4 377
+Mark 3 4475
+PickUp 2280 2983
+PickUp 366 266
+PickUp 3182 4436
+Unmark 5 750
+Flip 2 246 2270
+Mark 1 2076
+Drop 1936
+Unmark 0 1148
+Mark 1 99
+Unmark 4 600
+PickUp 2598 2576
+Flip 3 2514 2514
+Turn Left 4519
+Unmark 3 2161
+Sense LeftAhead 2002 708 Marker 1
+Unmark 1 337
+Sense Ahead 5291 4132 Foe
+Turn Left 188
+Move 1290 2590
+Sense Ahead 772 82 Friend
+Unmark 5 1660
+PickUp 611 492
+PickUp 161 482
+PickUp 499 15
+Drop 321
+Mark 2 889
+Sense Here 4699 5802 Rock
+Drop 485
+Sense LeftAhead 517 562 Friend
+Move 755 297
+Drop 853
+Flip 3 2564 2564
+Flip 2 1901 1247
+Sense Ahead 95 83 FoeHome
+Turn Left 723
+Unmark 2 496
+Drop 587
+PickUp 1027 612
+Flip 2 952 453
+Mark 2 160
+Move 383 203
+Flip 3 1089 1089
+Unmark 5 1007
+Unmark 3 1122
+Sense LeftAhead 309 305 Foe
+Unmark 4 861
+Mark 2 3596
+Mark 1 641
+Flip 3 1866 1866
+Sense LeftAhead 810 274 Marker 2
+Turn Left 1257
+PickUp 364 558
+Sense Here 143 1003 FoeMarker
+Move 561 935
+PickUp 1566 265
+Mark 3 853
+Flip 2 108 601
+Sense Here 432 710 Home
+PickUp 1395 318
+Drop 1072
+Turn Right 1032
+PickUp 782 711
+Turn Left 249
+Mark 4 494
+Unmark 1 819
+Drop 204
+Mark 4 921
+Turn Right 231
+Flip 3 1351 1351
+Turn Right 1261
+Drop 403
+Unmark 0 884
+PickUp 2466 2261
+Unmark 5 1954
+PickUp 357 565
+Mark 5 45
+Sense Ahead 1122 6 Food
+Unmark 5 4685
+Sense Here 737 344 Foe
+Move 828 729
+PickUp 1812 2835
+Unmark 0 31
+Flip 3 1631 1631
+Mark 0 1298
+Move 656 279
+Turn Right 3195
+Turn Left 1039
+Unmark 0 1520
+Mark 3 598
+Unmark 3 3029
+Unmark 4 759
+Unmark 5 615
+PickUp 457 3415
+Flip 2 950 1055
+Sense Ahead 3711 2496 FoeHome
+Sense RightAhead 2088 4131 Rock
+Unmark 3 211
+Sense LeftAhead 727 377 Food
+Flip 2 3329 2975
+Turn Left 686
+Mark 2 3175
+Turn Right 195
+Sense LeftAhead 3094 748 Food
+PickUp 452 802
+Mark 1 972
+Drop 2406
+Mark 2 1034
+Drop 1155
+Mark 3 121
+Drop 2243
+PickUp 256 563
+Move 480 681
+Drop 843
+Turn Right 1831
+Drop 228
+Flip 2 500 220
+Unmark 2 563
+Move 163 486
+Move 303 829
+Move 1020 656
+Sense Here 504 904 Food
+Mark 0 2903
+Flip 3 1520 1520
+Flip 2 4636 5106
+Turn Right 574
+PickUp 138 524
+Drop 416
+Unmark 5 2929
+Move 535 693
+Unmark 1 4259
+Turn Left 848
+Move 1059 1235
+Drop 934
+Flip 2 289 349
+Move 586 407
+Unmark 0 3218
+Unmark 1 1232
+Turn Right 379
+Move 2136 3372
+PickUp 1158 527
+PickUp 2211 2639
+Flip 2 1089 253
+Sense RightAhead 1448 1325 Friend
+Move 900 257
+Drop 3429
+Move 887 365
+PickUp 886 221
+Sense RightAhead 836 204 Foe
+Flip 3 1423 1423
+Turn Left 1293
+PickUp 616 557
+Mark 2 1069
+Mark 5 2736
+Mark 0 830
+Move 669 1050
+Move 3174 3687
+Turn Right 1417
+Drop 552
+Flip 2 2894 3302
+Drop 1149
+Mark 2 974
+Unmark 3 1619
+Sense LeftAhead 723 1474 Marker 2
+Flip 3 2653 2653
+Sense Here 3633 574 Food
+Turn Right 892
+Unmark 5 609
+Unmark 1 463
+Sense Ahead 735 694 Food
+Drop 214
+Unmark 1 937
+Unmark 0 352
+Drop 589
+PickUp 1743 1281
+Flip 2 60 625
+Drop 496
+Mark 3 892
+Flip 3 1569 1569
+PickUp 628 626
+Flip 2 2256 2217
+Turn Right 221
+Drop 264
+Turn Right 1247
+Flip 2 339 100
+Turn Right 131
+Move 555 215
+Mark 0 177
+Drop 219
+Flip 2 84 380
+Mark 1 1718
+Unmark 2 936
+Mark 4 191
+Unmark 0 1402
+Turn Left 906
+Mark 0 827
+Unmark 3 1063
+Flip 2 907 393
+Drop 3988
+Mark 2 14
+Sense Ahead 1789 4401 Foe
+Mark 0 1096
+Move 174 1111
+Sense Ahead 1568 3114 Home
+Flip 2 1089 502
+Flip 2 381 423
+Sense Ahead 326 1168 Food
+Turn Right 345
+Flip 2 3309 3071
+Mark 5 652
+Flip 2 906 13
+Flip 3 1238 1238
+Mark 4 1088
+Flip 3 2047 2047
+Unmark 0 618
+PickUp 2654 2745
+Turn Right 3078
+Sense Here 893 304 Food
+Drop 1483
+PickUp 1359 683
+Flip 3 1714 1714
+Turn Left 1465
+Drop 1616
+Sense Ahead 9 1311 FoeMarker
+Flip 2 732 948
+Flip 2 1982 660
+Flip 2 1061 1202
+Sense RightAhead 901 1292 FriendWithFood
+Flip 3 1638 1638
+Move 358 2794
+Turn Right 170
+Sense Here 815 661 Home
+Flip 2 707 1060
+PickUp 972 1024
+Sense Ahead 3921 3872 Rock
+Sense Here 1494 2573 FoeMarker
+Move 533 556
+Drop 734
+Flip 2 163 1024
+Drop 3612
+Drop 760
+PickUp 910 298
+Move 2086 44
+Flip 3 2150 2150
+Flip 2 109 714
+Drop 3504
+Unmark 3 2597
+Move 626 975
+Mark 2 1037
+Turn Right 611
+Unmark 0 1105
+PickUp 2848 2485
+Mark 5 355
+Flip 2 2575 2945
+Turn Left 66
+Drop 275
+Turn Left 796
+Sense Ahead 112 331 Friend
+Drop 3820
+Turn Left 311
+PickUp 471 2262
+Drop 1233
+Unmark 3 2265
+Move 696 109
+Sense LeftAhead 478 159 FoeMarker
+Mark 2 644
+Unmark 2 867
+Turn Left 74
+Mark 1 1190
+Unmark 4 413
+Flip 2 918 429
+Turn Right 889
+Flip 2 2953 1419
+Drop 870
+Turn Right 2595
+PickUp 1134 898
+Flip 2 1281 582
+Flip 2 1808 1327
+Mark 2 1062
+PickUp 1245 2578
+Move 1605 2380
+Flip 2 873 643
+Flip 2 1496 2515
+Mark 4 3391
+Turn Right 2695
+Mark 0 740
+Sense Ahead 364 383 Home
+Unmark 2 765
+PickUp 258 796
+Drop 1199
+Sense Here 333 745 Rock
+Move 318 1077
+Drop 1060
+Flip 2 2732 1
+PickUp 326 922
+PickUp 41 352
+Move 2997 641
+PickUp 1177 340
+Move 32 3515
+Flip 3 1326 1326
+Unmark 5 779
+Sense LeftAhead 100 785 Foe
+Sense Ahead 1081 1090 Home
+Turn Right 972
+Turn Left 1129
+Flip 3 2501 2501
+Sense LeftAhead 119 1293 FriendWithFood
+Unmark 0 1132
+Turn Right 168
+Move 3 1112
+Flip 2 702 2918
+Turn Right 674
+Sense Ahead 2286 4596 FoeHome
+Move 1207 328
+Flip 3 1906 1906
+Sense Ahead 2223 741 Marker 3
+PickUp 364 842
+Turn Left 1277
+Sense Here 1022 1495 Friend
+Flip 2 813 1260
+Turn Left 327
+Sense RightAhead 233 903 Home
+Move 2498 2218
+PickUp 1261 1935
+Flip 2 4953 1047
+Turn Right 1901
+Move 277 541
+Flip 2 189 812
+Mark 4 1195
+Turn Left 3604
+Sense Ahead 2142 525 Rock
+Move 3230 3997
+Unmark 2 1286
+Sense RightAhead 364 513 Food
+Drop 1092
+PickUp 361 506
+Flip 2 57 859
+Unmark 5 444
+Flip 3 1978 1978
+Flip 3 1528 1528
+Mark 4 489
+Mark 1 852
+Sense LeftAhead 105 1162 Foe
+Flip 3 2660 2660
+Flip 2 5013 3606
+Mark 3 356
+Flip 2 753 941
+Mark 3 2084
+PickUp 116 724
+Sense Here 497 2027 FoeMarker
+Turn Right 373
+Drop 57
+Mark 2 1639
+Turn Right 1092
+Flip 3 1837 1837
+Mark 4 960
+PickUp 3080 3206
+Unmark 5 162
+PickUp 1298 426
+Turn Left 2138
+Move 348 776
+Drop 487
+Turn Right 1428
+PickUp 1231 1000
+PickUp 2329 2257
+Turn Left 1284
+Turn Left 1759
+Move 1536 2153
+Turn Left 1618
+Unmark 3 1211
+Sense Here 1361 402 Friend
+Sense Here 869 215 Food
+Flip 2 634 478
+Unmark 2 22
+Unmark 3 1730
+Flip 2 476 334
+Sense Ahead 2535 3598 FoeMarker
+Turn Right 152
+Flip 2 234 946
+Sense Ahead 817 1314 Rock
+Drop 700
+Sense Here 2855 27 Friend
+Flip 3 2484 2484
+Turn Left 417
+Mark 0 5128
+Sense Ahead 1297 167 FoeMarker
+Drop 36
+Move 273 4746
+Turn Right 241
+Move 1247 2467
+Drop 3257
+Drop 1236
+Unmark 3 1531
+PickUp 448 0
+Sense RightAhead 2520 5006 Rock
+Sense Here 641 1314 Home
+Drop 2840
+Turn Left 1202
+Flip 2 4815 2009
+Mark 3 619
+Flip 2 1127 1738
+Mark 5 719
+Flip 2 292 464
+PickUp 583 278
+Move 476 762
+Sense LeftAhead 3990 1210 Marker 2
+Unmark 1 441
+Flip 3 2217 2217
+PickUp 2118 4610
+Move 3573 1602
+Move 1283 1256
+Drop 3227
+Sense RightAhead 1107 1169 Home
+Drop 905
+PickUp 4058 3610
+Flip 3 2631 2631
+Sense LeftAhead 1103 1331 Rock
+Flip 2 1552 3339
+Mark 0 1204
+Flip 3 2567 2567
+Flip 3 2709 2709
+Move 1286 2623
+Mark 3 1323
+Unmark 4 3358
+PickUp 5198 870
+Mark 1 10
+Drop 972
+Flip 3 1665 1665
+PickUp 736 379
+Mark 5 504
+Turn Left 1724
+PickUp 945 544
+Drop 724
+PickUp 439 739
+Mark 1 770
+Move 164 3187
+PickUp 1498 1244
+Sense RightAhead 1142 95 FriendWithFood
+PickUp 1147 792
+Flip 2 5039 893
+Sense Ahead 898 997 Foe
+Drop 1197
+Move 941 1120
+Move 442 3110
+Mark 4 267
+Move 407 1307
+Turn Right 517
+Flip 3 2298 2298
+Move 1293 930
+Unmark 3 91
+Mark 0 1582
+PickUp 368 1399
+Sense Ahead 3214 4694 Rock
+Turn Right 3125
+Flip 2 515 1030
+Flip 3 1988 1988
+Turn Right 789
+Turn Left 1098
+Drop 2888
+PickUp 2913 3068
+Sense Ahead 620 716 Marker 2
+Sense Ahead 688 2479 FoeHome
+Sense Ahead 1756 521 FoeHome
+Sense Here 1544 2813 FoeMarker
+Move 1958 167
+Move 4841 1661
+Move 3440 1163
+PickUp 987 501
+PickUp 2613 1510
+Sense Ahead 851 872 Marker 4
+Mark 3 1086
+Flip 3 1950 1950
+Flip 2 1628 2067
+Sense Ahead 2124 1696 Home
+Unmark 2 1377
+Flip 3 1480 1480
+Drop 4396
+Unmark 0 1552
+Move 948 1257
+Move 2024 2385
+Drop 106
+Flip 2 992 779
+Flip 3 1854 1854
+Move 280 4204
+Sense LeftAhead 2853 2949 Friend
+Flip 3 2195 2195
+Unmark 3 772
+Sense Here 459 1699 Friend
+Mark 5 288
+Move 682 1247
+Mark 2 529
+PickUp 1017 518
+Mark 5 1334
+Mark 3 828
+Turn Right 5612
+Unmark 5 1540
+PickUp 1339 695
+PickUp 5806 104
+Turn Left 833
+Mark 4 1430
+Unmark 5 359
+PickUp 260 1455
+Turn Right 1112
+Move 2319 3789
+Unmark 3 839
+Flip 2 995 1070
+Move 1129 1143
+Drop 3178
+Flip 3 2403 2403
+Sense Here 708 1024 Foe
+Drop 46
+Drop 309
+Flip 2 765 459
+Flip 2 1424 1820
+Turn Left 1280
+Turn Right 702
+Sense LeftAhead 623 887 Marker 3
+Move 377 1635
+Turn Left 1276
+Flip 3 1939 1939
+Flip 3 2083 2083
+Flip 2 1285 55
+Turn Right 393
+Move 156 1437
+Drop 1090
+Unmark 0 3534
+PickUp 467 805
+Move 833 265
+Unmark 5 267
+Sense LeftAhead 796 1622 FriendWithFood
+Sense Here 789 1029 Friend
+Sense Here 515 603 FoeHome
+Mark 5 993
+Mark 1 45
+Flip 2 1396 1489
+Flip 3 1715 1715
+Drop 979
+Flip 3 2612 2612
+PickUp 993 1687
+PickUp 1367 679
+Flip 2 253 447
+Turn Right 1263
+Flip 3 3057 3057
+Drop 3196
+Flip 2 403 207
+Flip 3 1942 1942
+Unmark 3 800
+Mark 4 506
+Flip 2 229 190
+Drop 3024
+Turn Right 892
+Mark 3 1456
+Flip 2 1203 972
+Mark 3 715
+Turn Left 1153
+Drop 1046
+Sense Ahead 1710 529 FriendWithFood
+Turn Right 108
+Drop 1835
+Move 1186 991
+Move 740 1014
+Mark 1 1356
+Flip 2 404 1221
+Flip 2 1419 1775
+Flip 2 687 1205
+PickUp 1355 1367
+Sense Ahead 1425 228 Food
+Sense LeftAhead 278 665 FriendWithFood
+Turn Right 856
+Unmark 1 759
+PickUp 492 1159
+Sense Here 231 1181 Foe
+Move 727 423
+Unmark 5 1701
+Flip 3 2964 2964
+Drop 1365
+Sense Here 864 367 Friend
+PickUp 58 366
+Drop 218
+Sense Here 4450 3043 Home
+Drop 900
+Unmark 3 533
+Flip 2 417 93
+Mark 3 239
+PickUp 56 1102
+Move 1246 1503
+Flip 3 3063 3063
+Turn Right 1227
+Unmark 0 2916
+Flip 2 923 791
+Flip 2 347 2578
+Sense Ahead 918 271 FoeHome
+Mark 4 1488
+Unmark 0 155
+Move 1376 1214
+PickUp 750 292
+Drop 1247
+Drop 3239
+Mark 5 771
+Mark 3 1338
+Mark 1 2921
+Flip 2 1256 1363
+Turn Left 1585
+Turn Right 843
+Drop 251
+Sense LeftAhead 1710 1160 Foe
+Mark 3 325
+Turn Right 868
+Sense RightAhead 1053 2545 Rock
+Mark 2 1043
+Move 126 471
+Sense Ahead 1085 223 Marker 3
+Move 753 168
+Unmark 4 791
+Sense Ahead 63 640 Marker 4
+Sense LeftAhead 1365 347 Foe
+Flip 2 217 49
+Turn Left 401
+Flip 3 2950 2950
+Mark 3 482
+Flip 2 672 1022
+PickUp 129 380
+Turn Right 255
+Drop 1366
+Sense LeftAhead 82 1460 FriendWithFood
+Move 85 1119
+Move 2950 3253
+Turn Right 1380
+PickUp 812 533
+Turn Right 1600
+Turn Right 125
+Turn Right 899
+Move 2268 3016
+Turn Right 695
+Flip 3 2044 2044
+Flip 2 4087 1148
+Sense Ahead 2696 2586 Foe
+Drop 2676
+Unmark 4 3345
+Sense LeftAhead 734 3605 Rock
+Unmark 5 119
+Mark 2 3763
+Flip 3 1740 1740
+Flip 2 1777 502
+Mark 0 221
+Flip 2 549 740
+Turn Right 332
+Unmark 5 122
+Unmark 1 1673
+Turn Left 1172
+Flip 2 1452 263
+Turn Right 3104
+Drop 506
+Sense Ahead 805 1379 FriendWithFood
+Drop 1640
+Flip 2 1511 361
+Unmark 5 102
+Unmark 3 775
+Turn Right 2856
+Drop 130
+Move 317 1337
+PickUp 277 2348
+Unmark 4 1332
+Sense Ahead 2413 984 Rock
+Unmark 3 172
+Turn Left 4151
+Mark 4 4110
+Sense Here 452 615 Foe
+Flip 2 677 62
+Drop 162
+Drop 554
+PickUp 576 1799
+Mark 4 1213
+PickUp 603 1598
+Turn Left 3590
+Drop 2444
+PickUp 975 185
+Sense LeftAhead 2396 1051 FriendWithFood
+Drop 883
+Move 4072 564
+Flip 3 2856 2856
+PickUp 1227 442
+Sense Here 28 344 FoeHome
+Turn Left 379
+Unmark 3 2163
+Unmark 2 155
+Mark 0 1601
+Turn Right 1158
+Unmark 5 250
+Mark 1 1602
+Unmark 0 5757
+Unmark 5 1036
+Sense Here 601 1305 Friend
+Flip 2 3162 1445
+PickUp 4713 4418
+Drop 1298
+Mark 0 788
+Move 731 821
+Flip 3 2093 2093
+Sense RightAhead 1271 532 Food
+Flip 3 2211 2211
+Move 852 878
+Turn Left 758
+Turn Right 1908
+Turn Left 1374
+Drop 2734
+Flip 3 3127 3127
+Move 1796 780
+Sense Here 1454 5 Home
+Flip 3 1853 1853
+Turn Left 1140
+Move 37 2028
+PickUp 409 1445
+PickUp 2014 278
+Unmark 1 2381
+Unmark 5 2207
+Mark 2 2765
+Turn Left 256
+Turn Right 987
+Flip 2 80 142
+Sense Here 1003 364 Rock
+Sense Here 1688 1370 FoeHome
+PickUp 559 26
+Drop 1506
+Move 1448 636
+Flip 2 1037 1344
+Move 574 1363
+Unmark 3 330
+Sense Here 984 1081 FoeHome
+Drop 1043
+Turn Right 2236
+Sense Here 1770 147 Food
+Sense RightAhead 824 295 Marker 1
+Turn Right 1147
+Flip 2 2232 3635
+Move 1551 1288
+Drop 1641
+Unmark 5 4783
+Mark 1 1420
+Move 2984 2900
+Turn Right 1503
+Turn Left 1662
+Turn Right 663
+Drop 725
+Turn Right 2102
+Unmark 1 467
+Unmark 0 2139
+Flip 3 2584 2584
+Move 1179 1214
+Flip 2 55 795
+Flip 2 1681 328
+Unmark 4 2979
+Flip 2 1016 191
+PickUp 1619 1445
+Sense RightAhead 424 249 Food
+Turn Left 1730
+Sense Ahead 536 1008 FoeHome
+Flip 3 2686 2686
+Unmark 4 734
+PickUp 1412 527
+Flip 2 935 1274
+Move 532 1689
+Unmark 3 188
+Sense RightAhead 742 1253 Foe
+Unmark 1 325
+Sense Here 3156 4101 Rock
+Drop 1592
+Mark 2 569
+Flip 2 219 359
+Turn Left 896
+PickUp 272 985
+Move 1024 302
+Flip 2 5282 2822
+Unmark 0 1118
+Move 84 273
+Sense LeftAhead 305 268 Home
+Move 2648 1156
+Sense LeftAhead 1717 6 FriendWithFood
+Drop 1522
+PickUp 519 1341
+Unmark 5 1944
+Unmark 0 262
+Mark 3 1093
+Sense RightAhead 1279 775 FriendWithFood
+Move 183 1138
+Sense Ahead 3029 3239 Marker 1
+Drop 2444
+Drop 4839
+Drop 793
+Unmark 2 1630
+Unmark 5 288
+Move 1350 1630
+Drop 595
+Flip 2 1902 1927
+Flip 2 481 571
+Drop 1629
+PickUp 2974 814
+Unmark 4 994
+Flip 2 1068 1811
+Drop 5037
+Flip 2 265 1587
+Unmark 0 1394
+Flip 2 1504 2049
+Drop 554
+Unmark 2 240
+PickUp 433 1635
+Drop 1389
+Move 206 1395
+Sense Ahead 5342 5048 Foe
+PickUp 1549 54
+Unmark 0 1227
+Drop 811
+PickUp 1320 2123
+Turn Right 240
+Turn Right 494
+PickUp 2226 704
+Flip 2 1283 3195
+Flip 3 3268 3268
+Flip 2 1795 1644
+Flip 3 1953 1953
+Move 278 158
+PickUp 2222 2695
+Turn Left 568
+Drop 721
+Drop 2114
+Turn Right 1396
+Mark 1 1381
+Flip 3 2072 2072
+Move 1683 469
+Unmark 4 1543
+Move 514 1663
+Turn Right 3038
+Mark 2 64
+Drop 1592
+Move 1557 690
+Mark 1 1369
+Sense RightAhead 801 576 FriendWithFood
+Mark 2 1877
+Drop 1435
+Sense LeftAhead 1449 726 FoeHome
+Move 1204 1395
+Mark 0 1426
+Unmark 5 1196
+Flip 3 2097 2097
+Move 329 1828
+Sense Here 1827 711 Home
+Turn Left 760
+Unmark 3 2631
+Flip 2 2981 485
+Move 662 2986
+Drop 2594
+Drop 774
+Drop 286
+Drop 703
+Unmark 5 870
+Unmark 3 538
+Mark 3 828
+Flip 2 3911 4255
+Move 1263 1221
+Drop 1183
+Turn Left 233
+Unmark 4 293
+Sense RightAhead 61 1696 FoeHome
+PickUp 1860 1336
+Flip 3 3189 3189
+Sense RightAhead 5049 4696 Home
+Flip 3 2246 2246
+Flip 3 3232 3232
+Unmark 4 1308
+Sense RightAhead 982 93 Food
+Drop 383
+Flip 2 57 644
+Mark 3 388
+Flip 3 2229 2229
+PickUp 235 3151
+Unmark 5 2905
+Move 3940 836
+Move 342 599
+Sense RightAhead 2159 1443 FoeMarker
+Turn Left 935
+Turn Left 1725
+PickUp 2277 1540
+Flip 2 1090 4980
+Sense Ahead 185 300 Food
+Mark 5 2304
+Turn Left 3493
+PickUp 1563 299
+Mark 0 654
+Turn Right 2007
+PickUp 1313 1498
+Turn Right 437
+Mark 0 1784
+Unmark 0 1822
+Flip 2 2053 803
+Unmark 5 3828
+Turn Left 1017
+Sense RightAhead 4015 4111 Marker 4
+Turn Right 560
+Flip 3 2291 2291
+Flip 2 796 1809
+Move 1370 1652
+Drop 1254
+Move 1140 450
+Flip 2 447 1486
+Unmark 4 1560
+Flip 3 2465 2465
+PickUp 950 771
+Drop 1121
+Drop 89
+Drop 475
+Mark 5 4888
+Mark 1 750
+Move 2516 2314
+Turn Right 2957
+Mark 2 566
+Turn Right 895
+Move 4529 2785
+Move 1408 1257
+Mark 2 615
+Turn Right 2511
+Mark 5 390
+Sense LeftAhead 1899 1691 FoeHome
+Sense RightAhead 837 1786 FoeMarker
+PickUp 1803 1003
+Unmark 2 1007
+Turn Left 106
+Drop 1275
+Turn Right 1115
+Mark 4 1478
+Unmark 2 383
+Sense RightAhead 503 1180 Rock
+Mark 3 110
+Flip 2 2734 1741
+Turn Right 166
+Unmark 4 45
+PickUp 1688 1141
+Sense LeftAhead 881 1238 Marker 1
+Drop 404
+Unmark 5 1351
+Turn Right 1338
+Move 1951 1750
+Turn Right 3727
+Turn Right 1130
+Turn Left 1148
+Mark 0 1617
+Sense Ahead 1945 182 FoeHome
+Flip 3 2953 2953
+Move 932 1367
+Unmark 4 4155
+Flip 3 2510 2510
+Drop 1301
+Drop 218
+Drop 1970
+Unmark 0 3724
+Drop 1414
+Flip 3 2782 2782
+Unmark 1 1824
+Unmark 0 1275
+Unmark 4 2783
+Unmark 0 168
+Turn Left 457
+PickUp 143 62
+Turn Left 110
+Move 178 1390
+Sense Here 1683 1268 Food
+Turn Left 1539
+Mark 0 2540
+Unmark 5 1803
+Drop 1804
+PickUp 873 1735
+Sense Ahead 1304 755 Marker 2
+PickUp 1470 628
+Sense Here 2391 1200 Home
+Mark 5 2553
+Sense RightAhead 701 1530 Home
+Flip 3 2048 2048
+Turn Left 1976
+PickUp 2138 1917
+Turn Right 1374
+Flip 2 2094 2774
+Turn Left 1865
+Sense LeftAhead 1288 2356 Foe
+PickUp 853 1198
+PickUp 725 1560
+Flip 2 1977 595
+Turn Right 10
+Flip 3 2067 2067
+Move 164 1334
+Turn Right 441
+Mark 3 1051
+PickUp 1527 259
+PickUp 1883 235
+Turn Left 294
+Drop 4470
+Move 4276 2886
+Move 2489 2704
+PickUp 1031 1761
+Unmark 4 1473
+Turn Right 675
+Turn Left 1466
+Drop 499
+Drop 582
+PickUp 3232 3245
+Drop 1020
+Sense RightAhead 1756 1826 FoeMarker
+Drop 2336
+Drop 476
+Unmark 3 1668
+Unmark 4 1625
+PickUp 3686 720
+Mark 5 741
+Drop 1931
+Move 395 3849
+Flip 2 3022 2864
+Unmark 3 3800
+Drop 1821
+Mark 4 959
+Turn Left 2010
+Drop 56
+PickUp 1841 1014
+Flip 3 3222 3222
+Flip 2 50 1969
+Move 1391 1453
+Unmark 4 4888
+Mark 3 469
+Drop 2024
+PickUp 566 674
+Unmark 3 3515
+Flip 2 1557 4212
+Move 766 1776
+Drop 37
+Mark 4 1024
+Unmark 0 885
+Mark 0 592
+Turn Right 1824
+Flip 2 1079 911
+Turn Left 2423
+Flip 3 2921 2921
+Unmark 0 1403
+Move 3091 5068
+Flip 3 2684 2684
+Sense RightAhead 1903 1424 Rock
+Sense LeftAhead 418 1337 FriendWithFood
+Mark 0 1127
+Unmark 2 2723
+Move 2795 1938
+Unmark 4 1632
+Flip 2 1235 1907
+Mark 1 168
+Unmark 2 375
+Unmark 2 1121
+Drop 2003
+Mark 3 371
+Flip 2 219 1526
+Move 3441 2370
+Move 20 159
+Flip 2 1550 2002
+Flip 3 2751 2751
+Flip 3 2572 2572
+Drop 780
+Move 564 1298
+Drop 2091
+Move 3688 2176
+Move 1292 202
+Sense Here 1044 1040 FriendWithFood
+Turn Right 414
+Mark 1 817
+Sense Here 1988 1525 Home
+Flip 3 3227 3227
+Turn Left 542
+Mark 0 1191
+Unmark 4 1535
+Flip 2 1117 1637
+Turn Right 378
+PickUp 333 2205
+Mark 3 1543
+Flip 3 2578 2578
+Turn Left 565
+Turn Left 2049
+Drop 1675
+Mark 0 1585
+Flip 3 3134 3134
+Sense RightAhead 1599 216 Foe
+Sense Here 1645 713 Home
+Flip 2 269 219
+Unmark 1 376
+Drop 216
+Mark 3 178
+Drop 934
+Turn Right 200
+Drop 1729
+Flip 3 3025 3025
+Move 616 1755
+Mark 4 1452
+Flip 3 3053 3053
+Mark 2 721
+Drop 2721
+Mark 5 161
+Flip 2 1308 1229
+PickUp 1757 81
+PickUp 1446 859
+Flip 3 2516 2516
+Move 150 1443
+Mark 1 633
+Unmark 1 1731
+Turn Left 1402
+Sense Here 298 2674 Marker 2
+Mark 0 50
+Mark 3 1547
+Flip 2 1540 269
+Flip 2 32 3365
+Flip 2 388 328
+Mark 2 817
+PickUp 4275 616
+Turn Left 346
+Mark 0 2067
+Flip 2 700 1779
+Unmark 3 622
+Flip 2 1018 782
+Sense Ahead 1930 39 FoeHome
+Sense RightAhead 3973 586 Home
+Flip 2 1346 3739
+Flip 3 3464 3464
+Move 1509 3631
+Move 736 1790
+Turn Right 1988
+Turn Left 1237
+Unmark 2 4149
+PickUp 1397 1074
+Turn Left 1959
+Turn Right 1648
+PickUp 445 1172
+Turn Right 1929
+Drop 3863
+Drop 1281
+Unmark 1 2371
+Mark 0 1373
+Sense Ahead 691 1172 Rock
+Unmark 2 3194
+PickUp 489 1892
+Mark 2 1051
+Mark 5 1870
+Unmark 5 1416
+Turn Right 947
+PickUp 388 660
+Move 983 284
+Mark 5 767
+Flip 3 2889 2889
+PickUp 2931 2598
+Sense Ahead 863 3167 FoeHome
+Sense LeftAhead 1223 1677 FoeHome
+Flip 2 1195 1889
+Move 1811 1284
+Sense Ahead 178 1503 FoeHome
+Unmark 0 2137
+Turn Left 4827
+Sense Here 2000 2686 Food
+Unmark 5 1579
+Mark 5 1806
+Unmark 3 777
+Turn Left 1312
+Unmark 1 518
+PickUp 3744 1388
+Turn Left 2015
+Unmark 0 1487
+Move 206 686
+Unmark 5 500
+Mark 2 625
+PickUp 2510 1449
+Flip 2 1220 2134
+PickUp 660 475
+Unmark 0 1940
+Flip 2 965 69
+Move 1866 3282
+PickUp 237 1854
+Flip 3 2539 2539
+Unmark 4 1652
+Move 1575 1543
+Sense LeftAhead 289 1710 Marker 4
+Sense LeftAhead 1187 1012 FoeMarker
+Sense Here 525 2523 Home
+PickUp 1309 2068
+Move 1124 2187
+PickUp 1972 1691
+Move 2026 2250
+PickUp 1941 1019
+Mark 2 1071
+PickUp 3935 1364
+PickUp 496 901
+Flip 3 3084 3084
+Unmark 2 778
+Sense LeftAhead 1076 1585 Home
+Turn Left 1811
+Mark 1 101
+Turn Left 728
+Unmark 1 38
+Sense LeftAhead 409 2255 Foe
+PickUp 1624 819
+Sense LeftAhead 581 828 FoeMarker
+Unmark 0 2401
+PickUp 117 2188
+Turn Left 92
+PickUp 296 2351
+Turn Left 2126
+Move 833 1731
+Flip 3 3430 3430
+Mark 3 2231
+Drop 167
+Flip 3 3046 3046
+Mark 0 32
+Move 978 709
+Flip 2 1665 4830
+Turn Left 117
+Flip 3 2848 2848
+Flip 2 97 861
+Unmark 4 1927
+Flip 2 1896 1674
+Flip 2 1513 2282
+Mark 2 1576
+Unmark 3 3443
+Sense Ahead 1550 61 Home
+Mark 1 3383
+Drop 4019
+Move 829 1731
+Drop 1683
+Drop 4490
+Mark 0 560
+Move 2633 1795
+PickUp 2316 4457
+Drop 788
+Move 1317 576
+Move 703 2591
+Turn Right 1628
+Drop 288
+Sense Here 1789 1677 Friend
+Turn Right 1890
+Move 982 893
+Unmark 4 1969
+Move 5235 4872
+Mark 3 1779
+PickUp 732 49
+Flip 2 3936 333
+Turn Left 74
+Flip 2 392 857
+Mark 2 1061
+PickUp 1846 1081
+Sense LeftAhead 389 185 Home
+Turn Left 437
+Drop 1852
+Unmark 1 2052
+Unmark 2 1320
+Drop 753
+Turn Left 582
+Turn Left 2955
+PickUp 1006 1532
+Turn Right 1005
+Unmark 1 631
+Unmark 5 988
+Turn Right 2230
+Unmark 1 1443
+Flip 2 2176 1860
+Turn Right 718
+Unmark 5 1905
+Flip 2 4295 1710
+PickUp 386 701
+Move 833 1227
+Sense LeftAhead 2030 129 Rock
+Turn Right 300
+Unmark 2 972
+Flip 2 936 3819
+Turn Right 1019
+Move 2153 2310
+Flip 2 63 1965
+Flip 3 3486 3486
+Move 2152 743
+Move 1434 2174
+Drop 557
+Flip 3 3264 3264
+Sense Here 1257 482 Marker 3
+Mark 3 2411
+Turn Right 217
+Sense LeftAhead 2965 878 Marker 5
+Flip 2 1165 1850
+PickUp 2287 73
+Flip 2 2008 1390
+Move 1020 1543
+Move 588 152
+Drop 1943
+Move 122 1091
+Move 212 4606
+Turn Right 1561
+Sense Here 3065 489 Rock
+Mark 0 2294
+Unmark 5 2246
+Mark 5 2359
+Flip 2 2231 251
+Drop 1414
+Turn Left 1653
+Mark 1 1990
+Mark 0 751
+Unmark 3 480
+PickUp 727 1905
+Move 342 139
+Sense LeftAhead 46 2358 Rock
+Sense LeftAhead 520 1434 Friend
+Flip 2 2014 2548
+Drop 809
+Move 992 832
+Turn Right 1761
+Drop 979
+Mark 5 734
+Unmark 0 2290
+Unmark 3 1802
+Drop 3322
+Mark 0 986
+Drop 652
+Drop 2276
+PickUp 1577 482
+Flip 3 3364 3364
+Drop 1938
+Mark 0 46
+Turn Right 3021
+Sense LeftAhead 1689 1919 Friend
+Flip 3 2608 2608
+Move 2023 2089
+Unmark 1 2485
+Move 2048 619
+Sense Here 217 1627 FriendWithFood
+Mark 3 2023
+Flip 2 2423 2872
+Move 885 2153
+Unmark 5 1971
+Unmark 5 4859
+Sense Ahead 3341 430 Home
+Turn Right 3229
+Drop 515
+Mark 0 547
+Unmark 2 1304
+Flip 2 3953 3788
+Move 2142 1156
+Flip 2 373 1921
+Unmark 4 337
+Drop 2365
+PickUp 693 1743
+Move 1365 2142
+Move 305 3458
+Turn Left 1176
+Flip 3 2498 2498
+Unmark 3 2196
+Turn Left 370
+Drop 2245
+Unmark 1 1882
+PickUp 1119 2103
+Move 2710 1982
+PickUp 1799 718
+Turn Right 1309
+Unmark 1 1832
+Turn Right 1551
+Turn Right 848
+PickUp 443 1411
+Move 714 1283
+Turn Right 1253
+Move 132 763
+Flip 2 2235 1106
+Drop 149
+Sense LeftAhead 521 798 Home
+Mark 2 1745
+Unmark 1 1067
+Turn Right 2249
+Drop 2264
+Unmark 4 1045
+Move 1937 898
+Unmark 0 2339
+Sense Ahead 3688 258 Friend
+Mark 2 2468
+Flip 2 942 2387
+PickUp 1417 1581
+Flip 2 1713 1900
+Sense RightAhead 1374 1952 FoeMarker
+Turn Right 2417
+Move 1845 1060
+PickUp 141 400
+Mark 1 3054
+Flip 2 1823 2326
+Mark 4 651
+Flip 2 2574 80
+Turn Left 973
+Flip 3 3371 3371
+Drop 2192
+Drop 3953
+Unmark 3 2284
+Unmark 3 1640
+Move 1961 1940
+Unmark 5 2189
+Unmark 0 1499
+Unmark 5 1667
+Flip 2 1010 335
+Flip 3 3741 3741
+Flip 3 2595 2595
+Unmark 3 1488
+Sense RightAhead 559 816 Friend
+Move 1303 2481
+Flip 2 1030 1687
+Turn Left 2301
+Flip 2 1557 687
+Mark 4 1541
+Unmark 4 2844
+Turn Right 1650
+Sense Ahead 2714 486 Foe
+Sense LeftAhead 2219 217 FriendWithFood
+Drop 665
+Mark 1 1058
+Turn Left 2340
+Mark 1 601
+Unmark 4 474
+Turn Right 2553
+PickUp 2142 1751
+Unmark 5 683
+Turn Right 103
+Flip 2 2679 4036
+Flip 2 1149 1254
+Sense Here 886 9 Rock
+PickUp 1550 1715
+Sense Ahead 2104 2277 FoeMarker
+Flip 3 3722 3722
+Unmark 5 1602
+Flip 3 2596 2596
+Drop 142
+Drop 2155
+PickUp 2245 3710
+Unmark 0 4457
+Turn Left 1260
+PickUp 1828 2004
+Mark 3 434
+Turn Left 2339
+PickUp 4130 3262
+Turn Left 2326
+Sense LeftAhead 2482 2985 FriendWithFood
+Mark 2 459
+Flip 2 1801 2181
+PickUp 1752 1065
+PickUp 1599 3188
+PickUp 1063 511
+Mark 5 303
+Move 2968 1686
+Unmark 1 1356
+Unmark 5 2540
+Flip 2 595 1145
+Mark 2 1788
+PickUp 310 1913
+Move 1805 779
+Mark 4 1904
+Sense Here 1774 2312 Marker 3
+Move 159 1361
+Sense Here 1526 2268 Friend
+Flip 2 1131 1006
+Move 179 536
+Sense Ahead 2282 717 FoeMarker
+Drop 596
+Flip 3 3958 3958
+Flip 2 1574 1439
+Move 2043 1784
+Drop 4296
+Turn Right 688
+Mark 0 2783
+Move 347 2898
+Mark 0 2533
+PickUp 1112 186
+Mark 1 468
+Unmark 1 138
+Flip 2 324 1500
+Mark 1 2827
+Move 6 596
+PickUp 1445 633
+Mark 2 5008
+Unmark 0 34
+Move 2012 2371
+PickUp 311 2060
+Move 2469 1077
+Drop 2202
+Sense RightAhead 1681 1931 Marker 5
+Flip 2 2547 1952
+PickUp 2811 3518
+Drop 2083
+Unmark 0 762
+Flip 2 2032 727
+Unmark 4 68
+Unmark 5 2256
+Flip 2 2355 1708
+Sense Here 678 2401 FriendWithFood
+PickUp 2056 1774
+Flip 2 3636 515
+Move 2436 1400
+Flip 2 182 1839
+Turn Right 1392
+Sense Ahead 2438 806 Friend
+Turn Right 1799
+Unmark 0 1268
+Sense RightAhead 2032 390 FriendWithFood
+Sense LeftAhead 2363 2619 FriendWithFood
+Sense RightAhead 822 657 FoeMarker
+PickUp 1809 1356
+Turn Left 1963
+Move 898 1198
+Turn Left 2459
+PickUp 3781 2736
+Unmark 2 2420
+Unmark 2 2444
+Sense Here 2322 1571 FoeHome
+Turn Right 91
+Mark 5 2473
+Move 1224 2206
+Drop 1008
+Turn Right 2336
+Flip 3 2935 2935
+Move 1883 1062
+Drop 2291
+Move 481 895
+Flip 2 604 43
+Flip 2 2201 398
+Turn Left 2488
+Turn Left 2008
+Move 2134 1567
+PickUp 2342 102
+Flip 2 1658 2573
+Drop 1001
+Turn Right 5282
+Unmark 5 1248
+PickUp 1197 2000
+Sense Ahead 1428 135 Friend
+Sense Here 1101 2288 Home
+Flip 2 2675 1908
+Drop 2166
+Drop 2694
+Move 1117 1709
+Sense RightAhead 574 2605 FoeHome
+Drop 1449
+PickUp 313 1803
+Move 5157 2896
+Mark 4 852
+Drop 2485
+Drop 3909
+PickUp 2326 582
+Mark 5 2438
+Drop 544
+Flip 2 802 1590
+Unmark 3 2207
+Move 1593 2880
+Drop 1549
+Sense Ahead 2891 924 Marker 2
+Turn Right 1945
+Flip 3 2794 2794
+Mark 2 1857
+Flip 3 3435 3435
+Mark 1 186
+Unmark 0 2522
+Mark 1 254
+Mark 1 1741
+Drop 2076
+Sense Here 1730 576 Home
+Sense LeftAhead 1956 647 Friend
+Unmark 1 1934
+Turn Left 1895
+PickUp 2031 2172
+PickUp 1602 918
+Unmark 5 1428
+Unmark 3 2558
+Move 1515 714
+PickUp 602 472
+Turn Right 824
+Mark 4 3688
+Move 2298 201
+Unmark 0 3048
+Flip 2 2620 1818
+Mark 5 1710
+Mark 3 60
+Move 3563 1793
+Turn Left 1188
+Mark 2 1163
+Move 1061 1742
+Drop 1427
+Turn Left 2612
+Move 1358 43
+Flip 2 2115 2734
+Turn Left 4100
+Turn Left 452
+Flip 2 667 2739
+Move 1698 888
+Flip 3 2779 2779
+Sense Here 1657 2409 FoeHome
+Turn Left 215
+Mark 3 1114
+Unmark 1 2295
+Flip 2 1558 4031
+Drop 975
+Mark 3 4588
+Flip 2 2050 913
+Sense LeftAhead 775 1211 Marker 1
+Unmark 1 1212
+Sense Ahead 2475 1296 Rock
+Sense Ahead 1123 1901 Rock
+Flip 2 302 2066
+PickUp 2778 2132
+Turn Right 2482
+Unmark 3 2581
+Sense LeftAhead 2330 2158 Food
+Mark 1 1975
+Flip 2 2164 759
+Unmark 2 2278
+Turn Right 1010
+Sense Here 2246 2128 Home
+Mark 4 1053
+Unmark 4 2092
+Flip 2 823 554
+PickUp 1502 2768
+Sense Ahead 285 2483 Marker 5
+Drop 2351
+Sense RightAhead 448 2303 Rock
+Drop 438
+Unmark 2 2188
+Mark 5 1969
+Sense Ahead 2172 270 Rock
+Sense LeftAhead 220 2326 Home
+PickUp 2158 3708
+Flip 3 3065 3065
+Drop 782
+Turn Left 2136
+Mark 5 778
+Flip 2 148 1224
+PickUp 2590 2756
+Drop 2000
+Move 450 2383
+Drop 456
+Flip 2 419 2567
+Flip 2 2609 2285
+Flip 2 237 884
+Unmark 2 605
+PickUp 2859 1384
+Flip 3 3396 3396
+Sense Ahead 677 228 FoeHome
+Move 2009 167
+Move 2652 2617
+Turn Left 2045
+Mark 0 1206
+Move 4899 2617
+Sense Ahead 1697 2840 Marker 1
+Flip 2 390 1761
+Turn Left 1604
+Drop 1018
+Sense LeftAhead 136 1050 Foe
+Turn Right 42
+Mark 0 1444
+Flip 2 1617 1207
+Move 578 55
+PickUp 2076 1759
+Turn Left 885
+Flip 2 958 2856
+Mark 5 833
+PickUp 2505 1387
+Unmark 2 728
+Sense Here 2128 1757 Rock
+Mark 2 4065
+Sense Ahead 3584 2449 FoeMarker
+Turn Right 3564
+Flip 2 2466 1068
+Unmark 0 1954
+Flip 2 161 1273
+PickUp 1127 97
+Unmark 4 3472
+Sense LeftAhead 2461 269 Rock
+Drop 1683
+Sense LeftAhead 3697 2254 Food
+Flip 2 413 189
+Drop 1546
+Drop 2862
+Sense Here 18 2101 Marker 0
+Flip 2 2021 886
+Flip 2 86 1645
+Sense Here 2135 529 Home
+Move 117 1624
+Move 1980 2839
+Sense Here 1434 1564 Home
+Unmark 1 1876
+Sense RightAhead 1257 487 FoeMarker
+Sense Here 3031 260 Food
+Turn Right 108
+Sense RightAhead 968 1378 Friend
+Move 1795 2665
+Mark 4 2823
+Sense LeftAhead 2723 22 Foe
+Drop 1632
+Mark 3 2665
+Move 2111 721
+Unmark 4 151
+Flip 3 3485 3485
+PickUp 2820 2141
+Sense LeftAhead 230 2470 FoeHome
+Turn Right 1373
+Drop 1378
+PickUp 2486 2414
+Mark 1 1251
+Drop 1716
+Sense LeftAhead 3471 97 FoeHome
+PickUp 2671 1628
+Drop 1554
+Turn Left 2013
+Sense RightAhead 982 1006 FriendWithFood
+Drop 20
+Unmark 5 888
+Drop 463
+PickUp 854 357
+Sense RightAhead 2918 319 FoeHome
+Sense Here 2132 2215 FoeMarker
+Mark 3 2059
+PickUp 1922 1804
+Sense RightAhead 3355 621 FoeHome
+Move 2104 761
+Unmark 0 2724
+Drop 2958
+Unmark 5 2159
+Unmark 1 1076
+Mark 1 1004
+Turn Left 2515
+Turn Right 2557
+Move 1026 3860
+Drop 148
+PickUp 1647 213
+Drop 2214
+Unmark 5 2779
+Sense LeftAhead 2847 2810 FriendWithFood
+Unmark 5 2706
+Flip 2 1024 233
+Unmark 5 661
+Mark 4 1379
+Turn Left 3009
+PickUp 433 409
+Flip 3 4131 4131
+Flip 2 333 1117
+PickUp 5532 1981
+Sense Ahead 3758 3158 FoeMarker
+Drop 4158
+Drop 2122
+Unmark 2 812
+Turn Right 443
+Turn Right 48
+Mark 3 681
+Flip 2 1883 3625
+Turn Right 3753
+Flip 2 1572 1260
+Flip 3 3342 3342
+Turn Left 227
+Drop 2909
+Sense RightAhead 2131 799 Home
+Unmark 5 900
+PickUp 1119 866
+Move 1264 2718
+Drop 2629
+Move 2547 1216
+Mark 2 911
+Sense Ahead 75 1159 Home
+Move 1665 1597
+PickUp 2947 1891
+Move 62 1761
+Drop 1196
+Move 2491 3324
+Move 2027 1096
+Unmark 0 723
+Unmark 1 3310
+Flip 2 1503 1765
+Sense Here 3464 1374 FoeMarker
+Unmark 2 1519
+Turn Left 2522
+Flip 2 467 774
+PickUp 1883 4339
+Drop 3733
+PickUp 2653 1509
+Sense Ahead 1897 2419 Home
+Move 251 2688
+Mark 3 789
+Turn Right 839
+Sense Here 865 806 Food
+Flip 3 3149 3149
+Turn Left 2249
+Mark 4 1272
+Mark 5 1204
+Flip 2 1438 579
+Mark 0 217
+Move 1849 964
+Turn Left 961
+PickUp 1596 2172
+Flip 2 2847 416
+Flip 2 1852 1660
+Sense LeftAhead 2341 2332 Rock
+Move 1901 1500
+Sense Ahead 2353 1682 Rock
+Flip 2 2837 808
+Move 1634 1622
+Unmark 5 1166
+Unmark 0 2268
+Sense Here 1240 1865 FriendWithFood
+PickUp 2745 2989
+Mark 4 1378
+Drop 1985
+PickUp 2122 2115
+Flip 2 1659 630
+Mark 0 1111
+Mark 5 497
+Drop 2699
+Drop 2934
+Unmark 4 2177
+Mark 5 336
+Drop 2003
+Drop 2457
+Turn Right 92
+Drop 730
+Drop 746
+Unmark 5 2590
+Mark 1 1257
+Flip 2 852 2251
+Turn Left 2662
+Drop 1305
+Move 691 1739
+PickUp 1270 1904
+Drop 3688
+PickUp 4663 3234
+Flip 2 2554 4058
+PickUp 2032 1115
+Flip 2 842 3019
+Unmark 0 789
+Move 2196 1632
+Mark 0 2444
+PickUp 1418 1519
+Mark 5 1900
+Move 4701 3805
+Move 1011 1021
+Mark 3 2111
+Turn Left 194
+PickUp 3168 3618
+Move 2893 180
+Flip 2 2430 917
+Move 1552 2078
+PickUp 695 2842
+Sense LeftAhead 528 4943 Food
+Flip 3 3344 3344
+Turn Right 1398
+Sense LeftAhead 903 1505 FriendWithFood
+Flip 2 1896 2739
+Turn Right 104
+Mark 2 51
+Flip 2 1452 1771
+Turn Right 1067
+Flip 2 2588 2450
+Sense LeftAhead 509 2502 Rock
+Unmark 4 1659
+Unmark 4 578
+Sense Here 225 2368 Foe
+Unmark 4 1833
+Turn Right 0
+Flip 2 2018 1741
+Unmark 1 1700
+Sense RightAhead 1692 3022 Marker 1
+Move 1828 2985
+Flip 2 66 2066
+Drop 855
+Turn Left 2220
+PickUp 2170 2108
+PickUp 1399 2673
+Sense RightAhead 3979 1647 Rock
+Flip 2 3098 745
+Flip 2 1349 2861
+Turn Right 2103
+Unmark 4 1379
+PickUp 621 534
+Drop 1900
+Move 1709 5666
+Flip 2 1589 182
+Drop 2651
+Drop 669
+Turn Right 762
+Move 1488 439
+Mark 1 597
+PickUp 2873 2786
+PickUp 1483 2229
+Sense Here 2820 3129 Friend
+Mark 2 2642
+Flip 2 404 591
+Mark 2 1969
+Unmark 5 3035
+Mark 5 2942
+Move 1818 200
+Turn Right 88
+Mark 2 549
+Mark 4 1619
+Drop 73
+Unmark 4 895
+Turn Left 3096
+Drop 2320
+Drop 752
+Flip 3 3392 3392
+Sense RightAhead 1835 4245 Rock
+PickUp 2071 2497
+Flip 2 159 636
+Flip 2 1387 1064
+Mark 0 359
+Turn Right 2026
+Drop 326
+Turn Left 2399
+Mark 5 321
+Mark 3 2832
+Mark 1 2362
+Sense RightAhead 276 3169 FriendWithFood
+Flip 2 1326 2480
+PickUp 1506 124
+Flip 2 3822 464
+PickUp 2762 1396
+Turn Left 599
+Flip 2 288 746
+PickUp 1257 960
+PickUp 3009 543
+Move 1353 1395
+Unmark 1 3194
+Drop 1883
+Sense RightAhead 2757 867 Rock
+Flip 3 4366 4366
+Move 1313 1101
+Drop 3472
+Flip 3 4316 4316
+Flip 3 4285 4285
+Turn Right 651
+Drop 2271
+Move 342 1260
+Flip 2 2648 449
+Drop 1741
+Mark 4 3063
+Unmark 5 1774
+Unmark 0 332
+Sense RightAhead 875 754 FriendWithFood
+Unmark 4 3234
+Flip 2 508 2036
+Sense LeftAhead 756 1528 Friend
+Move 2474 1496
+Mark 0 2076
+Drop 1991
+Mark 4 2328
+Flip 2 1165 2155
+Turn Left 2481
+Move 2647 1332
+Sense RightAhead 1953 765 Food
+Unmark 5 1264
+Flip 2 2867 701
+Flip 2 2583 1559
+Mark 5 955
+Move 2690 813
+Sense LeftAhead 1884 2480 Home
+Drop 2282
+Flip 3 3992 3992
+Sense Here 1066 2200 FoeMarker
+Drop 104
+Unmark 2 4112
+Flip 2 2628 47
+Turn Left 324
+Sense LeftAhead 1190 884 FoeMarker
+Mark 1 900
+Drop 3537
+Flip 3 3587 3587
+Turn Left 2116
+Flip 2 1677 2744
+Drop 1491
+Unmark 1 1693
+Unmark 2 598
+Unmark 2 1489
+Unmark 1 2646
+Move 199 3221
+Drop 682
+Unmark 1 2934
+Unmark 1 2317
+Sense Here 3835 3164 FoeHome
+Move 224 179
+Flip 3 4187 4187
+PickUp 495 1159
+Turn Left 1861
+Flip 2 696 243
+Flip 2 2665 2188
+PickUp 2489 806
+PickUp 920 2959
+Flip 2 2742 174
+Flip 2 4771 3366
+Move 1820 1561
+Unmark 2 2823
+Sense Here 2164 1469 Rock
+Flip 3 3936 3936
+Turn Right 1220
+Move 2721 1577
+Turn Right 2011
+Turn Right 5539
+Turn Left 1740
+Flip 2 862 777
+Unmark 0 2452
+Mark 5 2860
+Drop 2993
+Unmark 4 1831
+Mark 4 2104
+Sense RightAhead 1663 1324 Foe
+Move 502 1113
+Drop 613
+PickUp 3108 868
+Move 2258 1460
+Turn Right 262
+Move 3330 3303
+Turn Right 2523
+Turn Right 2735
+Sense Ahead 276 2843 Friend
+Turn Left 710
+Unmark 5 152
+Drop 3808
+Mark 4 3265
+Move 44 2486
+Sense Here 1852 3530 Food
+Flip 2 2310 494
+PickUp 617 376
+Sense Here 932 2212 Friend
+Drop 754
+Move 2633 2478
+Unmark 4 2878
+Unmark 1 2602
+Turn Left 68
+Sense Ahead 1804 3010 Foe
+Turn Left 3552
+Sense Here 1252 1471 Home
+Move 712 1407
+Unmark 3 677
+Mark 3 271
+Unmark 0 2835
+Turn Left 3127
+Turn Right 2334
+Sense Ahead 3359 2041 FriendWithFood
+Flip 2 3356 400
+Drop 1173
+Move 4587 3439
+Sense LeftAhead 1377 2648 Home
+Flip 2 1818 530
+Sense RightAhead 1035 1506 Food
+Unmark 4 2482
+Unmark 5 3485
+Turn Right 2531
+PickUp 1408 3465
+Drop 3428
+Flip 3 4182 4182
+Unmark 2 710
+Flip 2 120 1877
+Mark 1 2900
+Flip 2 1408 2974
+Turn Left 3215
+Sense Here 2691 1106 Marker 0
+Unmark 2 3003
+Unmark 1 1107
+Unmark 5 1571
+Unmark 5 1392
+Unmark 4 3121
+Turn Left 359
+Flip 2 162 1130
+PickUp 1950 1945
+Mark 4 3423
+Mark 1 2717
+Flip 2 228 1593
+Unmark 0 1461
+Drop 3267
+Mark 2 2076
+Unmark 3 114
+Turn Left 2123
+Sense Here 3135 1292 Foe
+Sense LeftAhead 2423 2048 Food
+Unmark 0 1884
+Flip 2 3488 452
+PickUp 2564 3359
+Sense Here 3904 4526 FoeHome
+Drop 3280
+Mark 5 873
+Unmark 2 3
+PickUp 1655 3411
+Mark 4 1479
+Drop 1938
+Move 2636 2788
+Unmark 0 1062
+Flip 2 671 662
+Flip 2 2251 3308
+PickUp 715 2129
+Mark 2 25
+Turn Right 1516
+Unmark 0 2620
+Mark 3 1533
+Move 1777 2108
+Mark 4 746
+Mark 0 3279
+Flip 2 860 3506
+Move 685 262
+Turn Right 2874
+Mark 2 261
+Unmark 0 2588
+PickUp 3168 1799
+Flip 2 2273 801
+Move 3360 774
+Sense Here 2010 2268 Friend
+Unmark 5 1005
+Drop 1051
+Move 2561 1024
+Drop 2921
+PickUp 4292 3349
+Drop 70
+Unmark 4 378
+Flip 2 1207 2745
+Turn Right 3102
+Unmark 5 438
+Sense Here 551 2596 Rock
+Unmark 4 561
+Sense LeftAhead 2687 4685 FoeMarker
+PickUp 1747 3305
+Mark 3 1184
+Move 1838 1795
+Flip 2 2662 1760
+PickUp 2672 2489
+Flip 2 2043 2950
+Mark 5 1062
+Sense LeftAhead 3144 2148 Friend
+Flip 2 290 1602
+Unmark 1 1078
+PickUp 1992 1580
+Mark 4 3404
+Move 1990 2067
+PickUp 510 2047
+PickUp 1757 257
+Move 5192 5067
+Mark 3 1206
+PickUp 318 368
+Mark 3 2761
+Move 922 2171
+Sense LeftAhead 77 1865 Food
+Drop 2490
+Unmark 5 2071
+Drop 551
+PickUp 1722 2689
+Flip 3 3871 3871
+Turn Right 1967
+Flip 3 3654 3654
+Flip 3 4270 4270
+Turn Right 1914
+Flip 3 4061 4061
+Mark 2 1699
+Drop 2584
+Unmark 3 3120
+Drop 163
+Move 1815 2987
+PickUp 1549 882
+Move 724 884
+Mark 5 1592
+PickUp 1574 407
+Mark 5 3281
+PickUp 391 3346
+Move 3480 69
+Mark 2 3008
+Move 3276 2896
+PickUp 2443 3200
+Mark 0 3593
+Unmark 3 155
+Unmark 2 2363
+Sense Here 4559 310 Food
+Turn Left 2537
+Mark 3 2778
+Flip 2 716 2519
+Mark 5 775
+Unmark 5 3148
+Move 2226 193
+Move 850 877
+Drop 78
+Unmark 2 1370
+PickUp 3639 703
+Unmark 0 718
+Sense RightAhead 5536 4286 Friend
+Move 3060 3338
+Flip 2 562 4979
+PickUp 1244 3493
+Turn Left 2343
+Unmark 5 3144
+Mark 2 1340
+PickUp 754 3158
+Drop 844
+PickUp 2769 485
+Move 4081 2460
+Move 802 1103
+Flip 2 997 68
+Turn Right 1382
+Drop 1020
+Flip 2 2350 1213
+Move 333 1950
+Flip 2 2249 397
+Flip 2 293 2705
+Move 3403 74
+Turn Right 431
+Mark 2 2264
+PickUp 1918 3741
+PickUp 2082 898
+Sense Ahead 3109 3194 FoeMarker
+Turn Right 3669
+Unmark 0 2444
+Sense Ahead 3004 435 FriendWithFood
+Drop 3059
+Flip 2 1854 4252
+Flip 3 4658 4658
+Move 461 3624
+Drop 4231
+Move 488 128
+Turn Right 2462
+Move 20 1772
+PickUp 1812 3373
+PickUp 2066 504
+Turn Left 336
+Mark 5 829
+Unmark 0 3054
+Drop 3107
+Mark 1 2886
+Move 2541 3504
+Unmark 1 2617
+Drop 3467
+Turn Right 505
+Turn Left 2778
+Mark 4 1451
+Flip 2 3178 693
+Flip 2 3134 3516
+Drop 2822
+Unmark 2 2124
+Turn Right 2788
+Drop 1893
+Drop 3332
+Flip 2 2515 2358
+Turn Left 1052
+Mark 2 607
+Move 2988 3511
+Flip 2 489 2500
+Unmark 0 2490
+Unmark 0 3430
+Flip 3 4605 4605
+Turn Left 1382
+Turn Right 2850
+Drop 561
+PickUp 2238 1318
+Move 663 946
+Drop 1621
+PickUp 3357 615
+Unmark 1 893
+Unmark 1 2240
+Move 1511 3449
+Turn Right 2684
+PickUp 619 3236
+Unmark 3 1734
+Mark 2 4578
+Turn Right 2636
+Sense LeftAhead 2996 1238 FoeMarker
+Sense RightAhead 5391 4009 Foe
+Mark 3 1667
+Mark 1 66
+Sense RightAhead 317 1371 Food
+Sense RightAhead 1809 2692 Marker 4
+Unmark 0 969
+Move 2808 1846
+Drop 1970
+Turn Right 601
+Move 3304 1131
+PickUp 1127 5336
+Sense RightAhead 1663 240 Rock
+Mark 5 4224
+Sense Here 1793 720 Friend
+Mark 2 2719
+Drop 1582
+Flip 2 2452 1967
+Unmark 3 1692
+Sense Ahead 1536 1097 Foe
+Flip 3 4734 4734
+Move 1618 227
+Drop 3134
+PickUp 574 1885
+Unmark 5 61
+Unmark 4 2387
+PickUp 1698 1025
+Drop 3280
+Flip 2 3015 2159
+Flip 2 2432 1145
+Unmark 4 5109
+Drop 2773
+Unmark 4 3501
+Move 2024 1454
+Move 2307 2262
+Sense Here 886 2806 FriendWithFood
+Turn Left 1387
+Mark 4 213
+Move 2739 1125
+Unmark 0 3657
+Drop 679
+Unmark 3 5297
+Sense LeftAhead 2909 486 FoeMarker
+Sense LeftAhead 1757 3007 FoeMarker
+Move 2590 2103
+Move 2768 2888
+Sense LeftAhead 3064 65 Foe
+Flip 2 2340 496
+Drop 1106
+Move 2582 1711
+Drop 799
+Unmark 3 1645
+PickUp 168 869
+Sense Here 3052 3811 Marker 5
+Move 2315 3797
+Move 158 3520
+Unmark 4 2931
+Flip 2 268 1673
+Move 1428 727
+Drop 3750
+Unmark 4 2549
+Mark 1 3047
+Unmark 0 711
+PickUp 1800 1906
+Unmark 0 1680
+Sense Ahead 1613 681 Friend
+PickUp 1902 1483
+Flip 2 1254 3442
+Drop 3816
+Unmark 5 4778
+Sense Ahead 834 1433 Foe
+Mark 4 897
+Drop 2794
+Sense LeftAhead 907 2849 Marker 1
+Drop 570
+Turn Right 2391
+Mark 1 1002
+Sense Ahead 286 1064 Home
+Unmark 1 3066
+Sense Ahead 1258 938 FoeMarker
+Turn Right 2653
+PickUp 3159 1356
+Turn Right 783
+Unmark 4 227
+Flip 2 2496 267
+Move 3250 2857
+Unmark 3 2668
+Drop 656
+PickUp 3175 1160
+Mark 0 473
+Move 908 3354
+Mark 4 2774
+Move 460 3710
+Unmark 2 3371
+Move 217 2138
+Move 3549 333
+Sense LeftAhead 629 1071 Friend
+Mark 3 45
+PickUp 233 3420
+PickUp 29 3115
+Flip 2 1611 4617
+Move 221 913
+Unmark 1 757
+Drop 2990
+PickUp 2696 55
+PickUp 140 2235
+Flip 2 2464 3512
+Drop 2487
+PickUp 3004 606
+PickUp 2296 3222
+Sense Ahead 1582 510 FriendWithFood
+Move 3127 3683
+Flip 2 3842 5423
+Turn Left 2488
+Mark 4 502
+Drop 623
+PickUp 2391 66
+PickUp 3164 348
+Turn Right 1194
+PickUp 1760 3111
+Move 136 3290
+Turn Left 1422
+Turn Left 1823
+Flip 2 1306 4191
+PickUp 3183 3889
+Drop 2443
+PickUp 159 203
+Move 3632 2355
+PickUp 642 3373
+Move 2905 1062
+Drop 3529
+Mark 5 2439
+Turn Left 1290
+Mark 1 3322
+Move 3396 1546
+Mark 4 3784
+Sense RightAhead 3728 982 FoeMarker
+PickUp 2896 3300
+Drop 3258
+Flip 2 2477 2060
+Drop 3709
+Unmark 0 3381
+Flip 2 1217 4151
+Flip 3 4176 4176
+Flip 2 2226 4134
+Turn Left 189
+Turn Right 2341
+PickUp 3789 1709
+Mark 2 2701
+Mark 4 3893
+PickUp 3629 3685
+Turn Left 3593
+PickUp 2188 506
+Drop 1147
+Unmark 2 930
+Sense RightAhead 96 1686 Foe
+Move 785 2543
+Move 1483 966
+Move 3471 1598
+Move 1644 3275
+Turn Left 1101
+Mark 5 2414
+Mark 1 3814
+Sense Here 832 2934 Home
+PickUp 1114 676
+Unmark 0 288
+Mark 4 1829
+Turn Right 1172
+Mark 4 2912
+Sense Ahead 583 2629 Food
+Unmark 4 3489
+PickUp 1893 3616
+Turn Right 2533
+Mark 5 2496
+Sense Here 1342 3961 Foe
+Mark 4 77
+Flip 2 1250 2542
+Drop 1426
+Turn Left 539
+Unmark 4 1924
+Flip 2 536 3741
+Unmark 4 957
+PickUp 4904 3607
+Mark 3 3444
+Move 3102 1552
+Sense LeftAhead 3182 689 Marker 5
+PickUp 2473 219
+Mark 5 3894
+PickUp 2275 2593
+Flip 2 3819 998
+Mark 2 3282
+Drop 1032
+Mark 1 1
+Unmark 1 2825
+Flip 2 3807 3489
+Drop 41
+PickUp 3006 343
+Turn Left 2739
+Flip 2 1400 2599
+Move 3315 2397
+Mark 1 2770
+Turn Right 1518
+Drop 561
+Unmark 5 1757
+Turn Right 488
+Drop 2629
+Sense LeftAhead 745 861 Friend
+Flip 2 3671 1921
+Sense Here 2240 648 Marker 2
+Unmark 0 856
+PickUp 2856 807
+Sense LeftAhead 3315 1596 FriendWithFood
+Flip 2 4464 5306
+PickUp 1299 1860
+Sense RightAhead 781 2128 Foe
+Sense RightAhead 1930 2638 FriendWithFood
+Turn Right 1886
+Drop 510
+PickUp 3623 949
+Drop 3774
+Mark 1 2095
+Turn Right 1747
+Sense Here 539 215 FoeHome
+Flip 2 3977 1875
+Mark 3 1387
+PickUp 2721 1864
+PickUp 2490 70
+Unmark 2 231
+Turn Left 2577
+Turn Left 2429
+Unmark 3 3497
+PickUp 4044 395
+Sense LeftAhead 1534 112 FoeHome
+Move 1376 919
+Move 745 2558
+Drop 2287
+Unmark 5 3369
+Drop 118
+Drop 3603
+Drop 2522
+Flip 3 4931 4931
+Mark 1 4091
+Mark 0 2344
+Mark 0 256
+Flip 2 579 177
+PickUp 2335 538
+Drop 1553
+Turn Left 942
+Flip 2 719 2453
+Turn Right 2506
+Move 932 3991
+PickUp 3832 350
+Drop 1915
+Mark 2 3335
+PickUp 252 2607
+PickUp 1981 4037
+PickUp 3380 2394
+Mark 5 3880
+Move 731 2924
+Move 3903 724
+Unmark 4 3569
+Turn Left 3111
+Drop 1810
+Turn Left 2781
+Flip 2 1993 1052
+Mark 5 3609
+Mark 4 736
+Drop 1818
+PickUp 2876 331
+Drop 857
+Sense RightAhead 3786 1178 Friend
+Flip 2 3476 1329
+PickUp 2835 2470
+PickUp 3432 440
+Move 13 1131
+PickUp 2252 4088
+Turn Right 777
+Unmark 2 1788
+Drop 557
+Sense LeftAhead 3571 2573 FoeHome
+Move 2824 3806
+Sense RightAhead 403 3449 Rock
+Mark 4 296
+PickUp 5859 146
+Drop 1057
+Move 1854 356
+Move 1345 272
+Unmark 1 797
+Move 2550 1601
+Flip 2 1510 455
+Turn Left 2884
+PickUp 1146 145
+Unmark 5 3442
+PickUp 1541 1382
+Turn Left 3182
+Sense Here 42 1801 FoeHome
+Drop 828
+Sense Here 1291 545 Food
+PickUp 3913 3691
+Turn Right 1729
+Flip 2 1274 3742
+Unmark 1 3565
+Drop 2822
+Unmark 3 2302
+Turn Right 1465
+Drop 2643
+PickUp 2011 592
+Drop 2763
+Sense LeftAhead 4696 3949 Rock
+Drop 1668
+PickUp 362 647
+Unmark 3 2749
+Sense LeftAhead 3933 2708 Home
+Move 2907 1563
+Drop 1170
+Mark 0 2699
+PickUp 3438 984
+Drop 2738
+Drop 1380
+Move 3821 1208
+Sense Here 2236 521 Home
+PickUp 1917 3719
+Drop 1535
+Drop 334
+Mark 5 1676
+Move 1434 590
+Flip 2 4039 2182
+Turn Left 671
+Unmark 1 3124
+PickUp 428 1511
+Unmark 3 259
+Sense LeftAhead 484 345 Marker 5
+Turn Left 1835
+Turn Right 362
+Move 1258 1582
+Drop 2060
+Drop 1714
+Unmark 5 4200
+Drop 752
+Sense RightAhead 3521 3107 Foe
+Mark 2 1512
+Turn Left 4705
+Turn Left 1197
+PickUp 220 351
+Mark 2 65
+Unmark 2 803
+Turn Right 2938
+Drop 3122
+Drop 3812
+Flip 2 2660 2948
+Move 3184 344
+Turn Right 262
+Drop 3046
+Mark 3 3392
+Mark 0 2602
+Move 3148 1660
+Flip 3 5004 5004
+Move 3940 3693
+Drop 2909
+Drop 2661
+Drop 2122
+Mark 5 882
+Unmark 1 2
+Sense LeftAhead 168 1060 Marker 3
+Move 2401 787
+Turn Left 4060
+Sense Ahead 4251 1693 Home
+Move 2640 3067
+PickUp 2430 3205
+Flip 2 1135 3574
+Flip 2 1858 3386
+Turn Left 3409
+Turn Left 3719
+Drop 1374
+Sense Here 653 2488 Foe
+Sense RightAhead 2557 2985 Rock
+PickUp 1731 3139
+Turn Left 3056
+Sense LeftAhead 791 3338 Friend
+Move 1531 121
+Move 937 1516
+Turn Left 3310
+Move 2325 547
+Turn Left 878
+Drop 1579
+Turn Right 935
+Mark 4 1532
+PickUp 989 2802
+Drop 1060
+Move 2174 2940
+Flip 2 1136 2118
+Sense LeftAhead 1827 1285 Home
+Sense Here 336 485 FoeHome
+Drop 1070
+PickUp 2023 3688
+Sense LeftAhead 2499 2495 Marker 0
+Sense LeftAhead 3444 4303 Food
+PickUp 2806 3318
+Flip 2 3179 613
+Mark 4 5358
+Turn Right 420
+Turn Left 1319
+Unmark 1 1310
+Flip 2 18 2393
+Flip 2 1425 1426
+Turn Right 253
+Flip 2 470 2070
+PickUp 1957 3219
+Drop 2835
+Sense RightAhead 2462 3596 Rock
+Mark 0 2809
+Unmark 5 4027
+PickUp 1610 3866
+Drop 3381
+Drop 2830
+PickUp 4198 3181
+Sense LeftAhead 1357 2802 Marker 1
+PickUp 419 436
+Drop 3163
+Turn Left 2480
+Mark 0 3056
+Flip 2 849 2193
+Flip 2 2726 48
+Drop 3159
+PickUp 2446 2486
+Drop 1131
+Drop 2935
+Drop 4156
+Mark 5 3659
+Move 3793 718
+Flip 2 2399 1488
+PickUp 2275 1414
+PickUp 846 3642
+Drop 1555
+Drop 3442
+Mark 0 4136
+PickUp 3063 1622
+Drop 1239
+Flip 2 3022 425
+Flip 2 816 733
+Turn Right 3109
+Sense LeftAhead 1793 3232 Marker 3
+Unmark 1 4349
+PickUp 1410 825
+Unmark 4 3037
+Mark 4 1803
+Sense RightAhead 1516 2599 Marker 3
+Drop 3448
+Sense LeftAhead 4289 3705 Marker 4
+Unmark 3 246
+Unmark 4 1147
+PickUp 1811 1528
+Sense Ahead 4175 85 FoeMarker
+Turn Right 589
+Sense RightAhead 3443 603 Friend
+Unmark 3 1613
+Sense Ahead 1078 3887 Friend
+Mark 1 4179
+Move 2297 4341
+PickUp 3867 4288
+Move 1456 435
+Drop 793
+Sense RightAhead 2792 3225 Rock
+Mark 0 2826
+Flip 2 2777 2926
+Unmark 0 2045
+Flip 2 650 3456
+Mark 0 3662
+Move 3888 1192
+Sense LeftAhead 2197 424 FoeHome
+Mark 5 4497
+Flip 2 3585 2988
+Unmark 5 3822
+Flip 2 2837 1104
+Sense RightAhead 1298 4379 Friend
+Move 991 2745
+PickUp 3408 3615
+Unmark 0 1858
+Unmark 4 168
+Flip 2 940 2969
+Turn Right 4230
+Move 2881 3861
+Drop 2016
+Sense LeftAhead 1426 1447 Foe
+PickUp 1225 209
+PickUp 2002 2867
+Sense Here 2426 1643 Marker 1
+Turn Right 3928
+Flip 2 3263 3499
+Unmark 2 2184
+PickUp 4293 1250
+Mark 0 1751
+Flip 2 4740 842
+Mark 0 2470
+Unmark 4 3477
+Drop 3465
+Turn Right 288
+Turn Left 2503
+Flip 2 547 1169
+PickUp 1820 1875
+Drop 1402
+Flip 2 3523 2731
+Sense LeftAhead 312 4151 FoeHome
+Turn Right 2542
+Move 1708 2503
+Unmark 3 1375
+Unmark 3 150
+Move 2662 4302
+Mark 5 2914
+PickUp 5521 4252
+PickUp 1103 182
+Sense Here 117 3469 FoeHome
+Unmark 3 3695
+Sense Ahead 4002 502 Food
+Flip 2 3355 2216
+PickUp 1980 912
+Unmark 5 3047
+Mark 4 2307
+Unmark 3 1450
+Flip 2 2098 1111
+Flip 2 1029 2446
+Mark 0 1034
+Drop 2064
+Mark 2 4127
+PickUp 885 287
+PickUp 2659 691
+Sense Ahead 4467 4055 Foe
+PickUp 734 81
+Move 2907 4181
+Sense LeftAhead 4044 3837 Rock
+Flip 2 3899 541
+Drop 2273
+PickUp 3027 3540
+Move 3838 4334
+Turn Right 734
+Drop 4477
+PickUp 118 2886
+Unmark 2 2216
+Flip 2 343 2613
+Unmark 1 3157
+Unmark 2 150
+Mark 5 363
+Drop 1270
+Move 3463 4376
+Sense RightAhead 1621 4059 FoeMarker
+Drop 3532
+Drop 1599
+Move 1184 2299
+PickUp 4512 4340
+Flip 3 4809 4809
+Drop 2427
+PickUp 4463 546
+Sense LeftAhead 1409 2888 Home
+Move 127 3784
+PickUp 2986 2594
+Mark 5 404
+Drop 27
+Drop 874
+Move 280 3946
+Unmark 3 3213
+Drop 314
+Mark 5 4420
+PickUp 1387 1815
+Move 2665 436
+Drop 3356
+Flip 3 5005 5005
+Move 1851 3898
+Sense RightAhead 1580 3554 Marker 0
+Mark 1 1056
+Turn Right 2716
+Sense Ahead 3247 4586 FoeHome
+Move 2685 751
+Drop 3409
+PickUp 605 934
+Move 2439 1390
+Mark 5 2323
+Flip 2 1216 2286
+Sense Ahead 1041 1835 FoeHome
+Move 426 18
+PickUp 1746 2134
+Move 1160 1482
+Sense RightAhead 3358 3637 FriendWithFood
+PickUp 3458 257
+Move 3366 201
+Turn Right 2060
+Turn Left 150
+PickUp 2010 4773
+Sense RightAhead 1172 3913 FriendWithFood
+Turn Right 1672
+Move 2230 200
+PickUp 913 354
+Flip 2 1351 3308
+Turn Left 1636
+Move 4153 463
+Unmark 0 4560
+Flip 2 1894 2419
+Sense Here 467 3535 Marker 5
+Move 3474 4208
+Move 1538 257
+PickUp 1957 2647
+Sense LeftAhead 3165 3865 Marker 3
+PickUp 722 2124
+Flip 2 2020 1283
+Sense LeftAhead 962 2781 Home
+Mark 1 1325
+Drop 3724
+Turn Right 568
+PickUp 2165 1862
+Sense RightAhead 2664 3111 Rock
+Move 45 3353
+Sense LeftAhead 4186 4070 FoeMarker
+Unmark 2 1009
+PickUp 2058 4478
+Move 3162 431
+PickUp 2681 4735
+Unmark 1 1989
+Sense Here 2549 4465 Food
+PickUp 332 1801
+Mark 4 87
+Move 3298 3638
+Unmark 4 2237
+Flip 2 702 3467
+Flip 2 4641 3829
+PickUp 2465 485
+Turn Right 2065
+PickUp 2356 2054
+Drop 2447
+Move 1290 1235
+Unmark 0 3977
+Move 3773 1529
+Unmark 3 1732
+Mark 1 2439
+Turn Left 517
+Mark 4 3334
+PickUp 2955 956
+PickUp 2643 4267
+Turn Right 842
+Move 1620 4151
+Flip 3 4966 4966
+Sense Here 4763 1373 Friend
+Flip 2 2353 4178
+Mark 3 4439
+Sense Ahead 2439 4416 FoeMarker
+Unmark 2 4277
+PickUp 3470 2838
+Unmark 5 4421
+Unmark 3 2448
+Move 2724 4025
+Mark 2 2990
+Mark 3 2678
+Turn Left 4759
+Drop 3358
+Unmark 0 2444
+Unmark 1 2278
+PickUp 2978 3380
+Turn Left 4599
+Turn Right 1010
+PickUp 222 2913
+PickUp 1521 149
+Drop 2276
+Sense LeftAhead 158 2861 FriendWithFood
+Unmark 4 2722
+Sense Ahead 2402 3384 Home
+Turn Right 2074
+Unmark 2 2817
+Flip 2 4003 891
+Sense Ahead 1079 4043 Marker 4
+Move 2724 3190
+Mark 1 4037
+Drop 3834
+Turn Left 3675
+Sense Here 333 4002 Marker 0
+Sense Here 1908 4452 Home
+Mark 5 4537
+Turn Right 1072
+Move 246 2983
+Move 1122 2575
+Flip 2 3215 149
+Drop 196
+Unmark 0 3539
+Mark 3 3675
+PickUp 4269 3616
+PickUp 3120 3207
+Move 762 607
+Flip 3 5282 5282
+PickUp 1258 3664
+Flip 2 1239 4320
+Unmark 1 810
+Mark 5 520
+Unmark 0 598
+Unmark 0 2265
+PickUp 3211 1284
+Mark 3 2676
+Mark 5 4123
+Sense Here 910 1847 Home
+Turn Left 1879
+Sense Here 549 4609 Friend
+Mark 0 192
+Unmark 0 294
+PickUp 622 2104
+Drop 70
+PickUp 2480 1191
+Flip 2 1528 4159
+Flip 2 3494 994
+Turn Left 356
+Sense Here 2844 2396 Friend
+Turn Right 262
+Unmark 1 4602
+Move 4730 778
+Mark 1 1323
+Flip 2 2687 1894
+Drop 4845
+Unmark 3 3615
+Turn Left 1723
+Move 3085 1312
+Drop 3586
+Move 4584 3284
+Move 2442 2716
+Move 387 3863
+Move 419 1415
+Unmark 2 1540
+Turn Right 5040
+Mark 0 102
+PickUp 940 2670
+Unmark 2 1103
+Sense LeftAhead 2307 4227 Marker 5
+Drop 1563
+PickUp 26 1732
+Unmark 1 2626
+Turn Right 2902
+Move 2702 3533
+Unmark 2 4852
+Sense Here 1049 4178 Home
+Turn Left 711
+Flip 2 756 1201
+Sense RightAhead 1542 1149 FoeMarker
+Sense Here 3672 457 Rock
+Sense LeftAhead 2126 4547 Food
+Drop 4179
+PickUp 3743 290
+Unmark 0 1836
+Move 637 2359
+Flip 2 663 1140
+Sense LeftAhead 3270 1567 Friend
+Drop 2117
+Flip 2 3228 3943
+PickUp 77 1346
+Mark 1 4759
+Flip 2 4134 680
+Unmark 5 180
+Drop 78
+PickUp 4213 3098
+Unmark 3 3742
+Turn Left 1621
+Drop 2635
+PickUp 3456 784
+Turn Left 1618
+Unmark 1 3177
+Mark 3 3650
+Sense Ahead 1095 931 FoeMarker
+Move 5371 4493
+Drop 555
+Drop 3158
+Unmark 2 3049
+PickUp 2339 4670
+Unmark 1 378
+Unmark 0 32
+Move 484 919
+Drop 4293
+Sense Ahead 3327 3809 Marker 0
+Unmark 0 1856
+Unmark 0 1609
+Flip 2 4425 3214
+PickUp 493 1095
+Sense Here 2910 94 FoeMarker
+Move 214 5526
+Flip 2 3701 637
+Sense RightAhead 3402 1206 Rock
+Flip 2 3194 4812
+Sense Here 3222 1040 FoeMarker
+Move 5055 4065
+Unmark 0 680
+PickUp 2047 4764
+Mark 5 2941
+Turn Right 197
+Turn Right 1448
+Move 2213 2209
+Turn Right 1563
+Unmark 1 2390
+Flip 2 1089 4184
+Sense RightAhead 5010 2830 Foe
+Flip 2 2214 116
+Flip 3 5346 5346
+Unmark 1 3176
+Drop 4661
+Turn Right 5098
+PickUp 4147 4356
+PickUp 2891 3277
+Flip 2 5108 4766
+Move 4503 3923
+Unmark 3 103
+Drop 1032
+Move 780 3608
+Drop 4055
+PickUp 3424 3229
+Move 1264 2499
+PickUp 4286 3813
+Mark 1 4076
+Unmark 5 5182
+Turn Left 3166
+Mark 1 671
+Unmark 1 2006
+Turn Left 1972
+Turn Right 735
+Drop 4514
+Turn Right 3622
+Unmark 5 3610
+Sense LeftAhead 3100 2906 Marker 5
+Turn Left 4480
+Unmark 1 1249
+Move 2576 1112
+PickUp 1054 1760
+PickUp 819 176
+Move 3133 4586
+PickUp 1098 1111
+Turn Left 830
+PickUp 3323 1423
+Flip 2 2814 1503
+Drop 335
+Flip 2 3957 248
+Move 2233 1291
+Unmark 0 4668
+Drop 5118
+Drop 2107
+Unmark 0 965
+Mark 5 1264
+Flip 2 5223 3919
+Flip 2 2043 1774
+Drop 2309
+Sense Ahead 4368 1583 FriendWithFood
+Drop 3440
+Unmark 2 3954
+Flip 3 5328 5328
+PickUp 5267 3338
+Mark 1 4265
+Turn Left 373
+Mark 4 3374
+Drop 1235
+Move 4759 2905
+Unmark 5 2381
+Mark 1 4754
+Move 5284 1598
+Turn Right 1020
+Move 2900 3102
+Mark 5 2595
+Turn Right 1759
+Mark 0 206
+Move 4775 157
+Turn Left 2059
+Turn Left 3076
+Move 443 2163
+Move 811 545
+Turn Right 2616
+Move 2210 212
+Sense Here 4343 882 FriendWithFood
+Sense LeftAhead 2723 4205 Home
+Flip 2 3250 4475
+Mark 5 1999
+Unmark 1 3636
+Turn Right 3156
+PickUp 966 877
+PickUp 2492 5166
+Move 776 1846
+Sense LeftAhead 1696 853 Foe
+PickUp 3070 4550
+Drop 4034
+Turn Left 4409
+Sense RightAhead 3191 2741 FoeHome
+Unmark 2 3311
+PickUp 314 1069
+Flip 2 990 3396
+Unmark 0 791
+Flip 2 3584 700
+Unmark 1 270
+PickUp 3262 937
+PickUp 3963 3151
+PickUp 4423 3821
+Flip 2 5364 2091
+Unmark 4 260
+Drop 657
+Flip 2 3967 3982
+Drop 933
+Move 3338 5195
+Sense LeftAhead 133 2448 Friend
+Mark 4 5095
+Sense Here 2630 1148 Marker 3
+Mark 2 3987
+PickUp 4496 1425
+Turn Left 1233
+Move 4753 2902
+Drop 3516
+Unmark 5 1118
+Move 2837 1213
+Drop 2668
+Mark 4 3474
+Turn Right 2756
+Move 1474 2230
+Mark 5 2934
+Move 2483 1061
+Turn Left 2635
+Move 2726 4845
+Mark 5 1399
+PickUp 2216 4984
+Mark 2 1523
+Unmark 2 5228
+Turn Left 657
+Turn Left 2102
+Mark 1 155
+Drop 3041
+Sense LeftAhead 3681 3791 FriendWithFood
+Unmark 4 292
+Mark 4 1539
+Unmark 0 1117
+Flip 2 3741 648
+Unmark 0 4720
+Turn Right 2771
+PickUp 1796 5382
+Move 2620 2262
+Mark 5 1892
+Move 4023 4890
+PickUp 768 508
+Mark 2 3839
+Mark 1 494
+Move 616 4624
+Sense Here 3632 3604 Rock
+Turn Right 542
+Flip 2 2254 1017
+PickUp 4780 1476
+Turn Left 3250
+Turn Left 2680
+Sense RightAhead 5376 711 FoeMarker
+Turn Right 2719
+Flip 2 3744 3266
+Turn Left 5430
+Turn Right 1139
+Sense RightAhead 286 3898 Food
+PickUp 220 1307
+Flip 2 5056 1992
+PickUp 5315 3449
+Move 3838 507
+Turn Left 4488
+Unmark 1 5522
+Drop 3110
+Turn Left 508
+PickUp 5336 3486
+PickUp 3405 2207
+Mark 2 5173
+Move 3734 4489
+Mark 3 1949
+Unmark 3 2661
+Drop 2644
+Drop 337
+Turn Left 4464
+Turn Right 5098
+Sense RightAhead 2919 1680 Friend
+Move 863 3209
+PickUp 2991 1918
+Drop 3506
+Move 4741 2310
+Drop 3805
+PickUp 1104 1132
+Mark 1 3330
+Mark 2 1378
+Turn Left 3601
+Sense Ahead 3340 2359 FoeMarker
+Drop 4914
+Mark 2 5236
+Turn Left 2923
+Sense RightAhead 5390 2814 FriendWithFood
+Flip 2 3283 4112
+Unmark 4 138
+Drop 146
+Mark 4 347
+Drop 5588
+Turn Left 1315
+Unmark 3 3389
+Mark 4 4028
+Unmark 3 1855
+Sense Ahead 421 3861 FriendWithFood
+Move 269 868
+PickUp 2018 2315
+Mark 4 1850
+Unmark 1 5042
+Sense LeftAhead 4087 2675 Foe
+Sense Ahead 4581 5598 Rock
+Unmark 0 2168
+Sense Here 2018 97 Friend
+Unmark 4 3089
+PickUp 364 4980
+Turn Right 2794
+Turn Left 1898
+Turn Left 2340
+Move 3130 3785
+Unmark 2 1449
+Unmark 5 5261
+PickUp 392 1820
+Drop 852
+Move 3324 4751
+Unmark 4 3289
+Mark 0 2173
+Drop 439
+Turn Left 3656
+Move 631 4736
+Unmark 5 3188
+Sense LeftAhead 4980 1669 FoeHome
+Drop 4513
+Flip 2 878 1193
+Turn Left 771
+Mark 1 236
+Flip 2 3633 4933
+Drop 522
+Flip 2 3753 4094
+Flip 2 744 500
+Sense RightAhead 1412 298 FriendWithFood
+Sense Here 5557 4652 FoeHome
+PickUp 4851 5609
+Move 5316 995
+Flip 2 1538 4992
+Mark 4 5428
+Flip 2 3180 902
+Turn Right 1985
+Unmark 0 4232
+Unmark 3 1439
+Drop 3675
+Flip 2 4414 3899
+Turn Right 5057
+Unmark 0 948
+Move 5681 5379
+Move 1334 2869
+Drop 528
+Move 5210 3690
+Unmark 3 1851
+Move 4886 4941
+Flip 2 2757 1135
+Drop 4886
+Flip 2 3308 3507
+Sense Here 812 5369 Friend
+PickUp 4503 5575
+Mark 0 4570
+Mark 2 2258
+Flip 2 594 295
+Move 3672 2235
+Drop 2760
+Mark 4 1781
+Mark 3 4807
+Drop 2617
+Mark 4 1876
+Flip 2 5092 4854
+PickUp 756 1962
+Unmark 5 4809
+Drop 3934
+Unmark 5 5571
+Move 1913 3451
+Turn Left 1057
+Move 2922 4444
+Unmark 5 4324
+Drop 1318
+Sense RightAhead 2833 1951 Food
+Drop 3282
+Mark 5 3978
+Turn Right 3413
+Drop 1125
+Flip 2 4245 1321
+Move 3812 847
+Unmark 2 4062
+Sense Here 3816 635 Foe
+Flip 2 3796 3795
+Sense RightAhead 3362 5187 FoeMarker
+Drop 3252
+Drop 3760
+PickUp 507 2828
+Unmark 5 5532
+Unmark 1 4505
+Sense LeftAhead 5265 1666 Friend
+Sense RightAhead 1680 4114 Friend
+PickUp 356 3240
+Flip 2 2654 4951
+Unmark 3 4465
+Mark 1 2784
+PickUp 3237 2666
+Turn Left 145
+Mark 3 4757
+Drop 2060
+Flip 2 3516 4211
+Sense Ahead 5201 5449 Friend
+Move 616 3231
+PickUp 1548 557
+Mark 2 1300
+PickUp 1278 3131
+Mark 5 5214
+PickUp 1416 1903
+Mark 4 3204
+Mark 5 1584
+Drop 1373
+Unmark 1 5529
+Turn Left 5502
+Turn Right 3918
+Mark 2 3760
+Move 3445 2373
+Drop 1336
+Mark 2 4400
+Mark 1 3801
+Unmark 5 286
+Sense Ahead 2006 103 Home
+Drop 3975
+Mark 2 5807
+Sense LeftAhead 5173 2195 Home
+Turn Left 1480
+PickUp 628 5045
+PickUp 5865 1735
+Turn Right 3310
+PickUp 5633 4182
+Drop 1560
+PickUp 4578 4603
+Flip 2 340 5593
+Mark 1 1695
+Unmark 2 5039
+Move 5119 5572
+Flip 2 5148 3711
+Sense Here 684 339 Rock
+Unmark 3 5400
+PickUp 3217 819
+Drop 5391
+PickUp 3738 5851
+Move 3292 393
+Flip 2 3612 4417
+Unmark 5 3960
+Unmark 3 674
+Flip 2 2999 2500
+Unmark 5 204
+Drop 782
+Flip 2 191 619
+Turn Right 2985
+Flip 2 5433 1818
+PickUp 2457 4068
+Flip 2 5333 3464
+Sense Ahead 2589 3073 FoeMarker
+Sense Here 2383 2845 FoeMarker
+Mark 3 3332
+Mark 0 2815
+Mark 4 5347
+Mark 0 1862
+Unmark 2 4100
+Unmark 1 133
+Unmark 5 2302
+Flip 2 157 558
+Drop 5212
+Drop 1988
+Turn Right 5593
+Sense RightAhead 557 3764 FoeHome
+Mark 0 4322
+Turn Left 1011
+PickUp 3209 1519
+Flip 2 1008 1171
+Drop 491
+Drop 5393
+Sense Here 1900 3044 Rock
+Drop 2016
+Unmark 3 3283
+Unmark 5 1109
+Flip 2 5151 4927
+Drop 4942
+Unmark 1 5951
+Drop 3271
+Flip 2 5251 2021

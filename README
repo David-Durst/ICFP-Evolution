@@ -1,3 +1,10 @@
+To run the evolution extension, build the same way as below. Then go into estrat. Then execute
+
+    ./mutrun.sh basic_1 basic_2 &> evolutionlog
+
+The output will be piped evolutionlog. Just kill with CTRL-C when you are sick of evolution.
+
+This is the old stuff that I didn't write. It still works.
 Building requires OCaml and SDL.
 
 Build with
